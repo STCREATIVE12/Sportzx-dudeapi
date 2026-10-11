@@ -1,44 +1,8 @@
 [
   {
-    "api": "ba6aca5a550163c38d06646bb50f04e7:516c3b471fce48a5b7a2e5ee7dd505f2",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "CAZE TV FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4550891.m3u8?txSecret=796e241e414ca59921ee4ea333701ffb&txTime=6ACA98E7|Referer=https://player.online909.com/",
-    "logo": "",
+    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
     "title": "DUDE Tv Live",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://netanjahu.hls.st/t/ecbefb7711733ce0939e60ce263d953c/index.m3u8?|Referer=https://iplayer.is/",
-    "logo": "",
-    "title": "ELEVEN SPORTS HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://netanjahu.hls.st/t/e4ca8434b3d0d604111c518311e4cf7d/index.m3u8?|Referer=https://iplayer.is/",
-    "logo": "",
-    "title": "Sport TV HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://netanjahu.hls.st/t/5b5fbd49a40eef2dad280908317e987e/index.m3u8?|Referer=https://iplayer.is/",
-    "logo": "",
-    "title": "DAZN SPORTS HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://netanjahu.hls.st/t/65ec7d7f0c06fe04a2c3aece446f143b/index.m3u8?|Referer=https://iplayer.is/",
-    "logo": "",
-    "title": "ARENA SPORTS HD",
     "type": "0"
   }
 ]
