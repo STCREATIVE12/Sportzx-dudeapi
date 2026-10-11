@@ -1,44 +1,14 @@
 [
   {
-    "api": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
-    "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
-    "logo": "",
-    "title": "ESPN AR FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4565432.m3u8?txSecret=033e8a0b8460c7de5f6e3d6a97007a3e&txTime=6ACA5C65|Referer=https://player.online909.com/",
-    "logo": "",
+    "link": "?|Referer=https://streame.center&Origin=https://streame.center",
     "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://netanjahu.hls.st/t/8864c3ac8f3969acbe2472ab7dd4064e/index.m3u8?|Referer=https://iplayer.is/",
-    "logo": "",
-    "title": "DAZN SPORTS HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://netanjahu.hls.st/t/da383155e526d4379428ddea6b584400/index.m3u8?|Referer=https://iplayer.is/",
-    "logo": "",
-    "title": "ZIGGO SPORTS HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://netanjahu.hls.st/t/2453b138295ab518df047052051a7915/index.m3u8?|Referer=https://iplayer.is/",
-    "logo": "",
-    "title": "ARENA SPORTS HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.41/hls/ORRRQQQ.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36&origin=https://nadia01eo.tn76degree12ec3out.cfd&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-    "logo": "",
-    "title": "SD SERVER",
-    "type": "0"
+    "link": "https://taifood-blog.asia/embed/",
+    "title": "NFL LIVE [FHD]",
+    "type": "2"
   }
 ]
