@@ -1,25 +1,50 @@
 [
   {
+    "api": "3e149b48b153c63fc986ae781e546df4:78cf223dfbc92e7006304fa0b08b947a",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/1vqntde2lm/out/v1/3d6fc1f6711c40c78dcd2ec9c304a48b/a5809c82-a068-4824-8a70-5ed1dc64aea9-cenc.mpd?aws_sessionId=31ef2a2a-0304-4cfc-8228-331c8f0e288f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+    "title": "PARAMOUNT+ FHD",
+    "type": "1"
+  },
+  {
+    "api": "a45668ee9d66a696ffdb67cc7948e777:110b1f3198bbec6a73d4a9c4412ba712",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/alw6uwbvan/out/v1/9a01afb3983444c9b0ebd5d4df2e47e2/bb20a1b7-6e82-43dd-a252-fb4626b25357-cenc.mpd?aws_sessionId=a0ca4f90-fe15-43a9-978c-d96d125ec28c|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "FUBO SPORTS FHD",
+    "type": "1"
+  },
+  {
+    "api": "a03796938c76485c3f19baa10416ac1f:3b23dc6eab5732bc861be4733ef9dbf6",
+    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/syyqfy4fmu/out/v1/ec0b9cec0d884e2e89ba4528915a1c6f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "DAZN ITALIAN FHD",
+    "type": "1"
+  },
+  {
     "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
     "title": "TNT SPORTS FHD",
     "type": "1"
   },
   {
     "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
     "title": "beIN ENGLISH FHD",
     "type": "1"
   },
   {
     "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
     "title": "CBS NETWORK",
     "type": "1"
   },
   {
     "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
     "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+    "logo": "",
     "title": "SPORT 1 CZ",
     "type": "1"
   }

@@ -1,5 +1,33 @@
 [
   {
+    "api": "ffb7adc1d3e4686c81a3f0058af82102:6d23f1c8c74819970d69ec74f23a680b",
+    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3yukueoibc/out/v1/07d1e7a2df604a70bdd7bb2e1bf79d16/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "PRIME VIDEO FHD",
+    "type": "1"
+  },
+  {
+    "api": "",
+    "link": "https://veltristream.s3.us-east-1.amazonaws.com/browns.m3u8",
+    "logo": "",
+    "title": "DUDE Tv NFL FHD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://chatgpt.hereisman.net/playlist/57933/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "DUDE Tv NFL HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://chatgpt.hereisman.net/playlist/57932/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "SERVER 1 HD [USA]",
+    "type": "0"
+  },
+  {
     "api": "",
     "link": "https://edgestream5.pro/hls/qsdnajbq32.m3u8?|Referer=https://streame.center&Origin=https://streame.center",
     "logo": "",

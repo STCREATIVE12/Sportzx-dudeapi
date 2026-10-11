@@ -1,5 +1,26 @@
 [
   {
+    "api": "e056e9f9a151f5a9374b36bee3a37173:6f2cde1ccce6e2e1f83b97e645d7d7fe",
+    "link": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cfxzmthjps/out/v1/d8e62efb1fad4d03832cdb25f3c53386/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "NFL GAMEPASS FHD",
+    "type": "1"
+  },
+  {
+    "api": "",
+    "link": "https://veltristream.s3.us-east-1.amazonaws.com/packers.m3u8",
+    "logo": "",
+    "title": "NFL LIVE FHD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://chatgpt.hereisman.net/playlist/57944/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "DUDE Tv NFL HD",
+    "type": "0"
+  },
+  {
     "api": "",
     "link": "https://edgestream3.pro/hls/ysvbxwnbc38.m3u8?|Referer=https://streame.center&Origin=https://streame.center",
     "logo": "",

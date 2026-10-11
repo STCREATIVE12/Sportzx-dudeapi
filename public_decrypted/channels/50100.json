@@ -1,5 +1,26 @@
 [
   {
+    "api": "4ddd466263fb864a59327dac4e0bb836:a7d9ed9df1bf62118246e48f1f7df151",
+    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ivbn4gk6dy/out/v1/8de5800fa87245bbb63b50c015a2ff01/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "PRIME VIDEO FHD",
+    "type": "1"
+  },
+  {
+    "api": "",
+    "link": "https://veltristream.s3.us-east-1.amazonaws.com/giants.m3u8",
+    "logo": "",
+    "title": "NFL LIVE FHD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://chatgpt.hereisman.net/playlist/57934/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "DUDE Tv NFL HD",
+    "type": "0"
+  },
+  {
     "api": "",
     "link": "https://edgestream3.pro/hls/yetehznecs37.m3u8?|Referer=https://streame.center&Origin=https://streame.center",
     "logo": "",
