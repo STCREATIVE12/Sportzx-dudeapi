@@ -1,56 +1,28 @@
 [
   {
-    "api": "3343e0b07c6f7f28d8f28d266b3a01ac:c8299220d902a6f01d5d60843c6c00bf",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vjhep0ojdo/out/v1/4df741b740c1401a93dd7f933bdde012/cenc.mpd?aws_sessionId=39e8c8d4-26f6-439f-80c7-ca1cfee48380|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
-    "title": "ViX ESPANOL FHD",
+    "api": "e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298",
+    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/t8yiqifbxt/out/v1/c47b141c14d041398b261ebd143aea6d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "FUBO SPORTS FHD",
     "type": "1"
   },
   {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/57667/load-playlist?|Referer=https://gooz.aapmains.net",
+    "link": "https://edgestream7.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
     "logo": "",
-    "title": "DAZN SPORTS HD",
+    "title": "HD SERVER ",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4518054.m3u8?txSecret=15699445e0209fc8a4970768fbfb1a0d&txTime=6AC55220|Referer=https://player.online909.com/",
-    "logo": "",
-    "title": "DUDE Tv Live",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://netanjahu.hls.st/t/1ddc08d5499a1974dd78e84f81207fe0/index.m3u8?|Referer=https://iplayer.is/",
-    "logo": "",
-    "title": "DAZN SPORTS HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://edgestream3.pro/hls/ueyeztrazb4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-    "logo": "",
-    "title": "HD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://sonymtmnew.akamaized.net/hls/live/2120306/Footlive0610/ENG/master.m3u8?hdnea=exp=1791340224~acl=/*~id=4eb59ff7f9945d0d9a3ec7ebf58f1881-1791297004580~hmac=90867118f37f4146782d3a9ae25ac394b961f0665b403f647ba65ba93cf1ab98|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4a0970a1f99fe276d5189f36c4b1d3db-1791310201658",
-    "logo": "",
-    "title": "SonyLiv (Asia)",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://www.rtmpcdn.com/live48509f2a-87b9-440b-943c-20bdcd92b0f2.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "link": "https://www.rtmpcdn.com/live/3d393c29-59de-4795-b63f-1eeba868403c.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
     "logo": "",
     "title": "SD SERVER",
     "type": "0"
   },
   {
     "api": "",
-    "link": "http://193.47.62.55/hls/zjjjaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "link": "http://193.47.62.55/hls/J333AAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
     "logo": "",
     "title": "LOW SERVER",
     "type": "0"

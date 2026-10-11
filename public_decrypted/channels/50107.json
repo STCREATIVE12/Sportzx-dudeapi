@@ -1,8 +1,30 @@
 [
   {
+    "api": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
+    "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "SporTV BR FHD",
+    "type": "1"
+  },
+  {
     "api": "",
-    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-    "title": "DUDE Tv Live",
+    "link": "https://netanjahu.hls.st/t/ea8cbede387e35fa66df044495a45d5e/index.m3u8?|Referer=https://iplayer.is/",
+    "logo": "",
+    "title": "ELEVEN SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://netanjahu.hls.st/t/2100d4b7ad2afe661d9d67d792dc4a95/index.m3u8?|Referer=https://iplayer.is/",
+    "logo": "",
+    "title": "ARENA SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://netanjahu.hls.st/t/cc2685bc6945df6f3c2e8cd57cb50ed8/index.m3u8?|Referer=https://iplayer.is/",
+    "logo": "",
+    "title": "SportKlub HD",
     "type": "0"
   }
 ]

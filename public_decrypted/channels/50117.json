@@ -1,23 +1,9 @@
 [
   {
     "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4550887.m3u8?txSecret=0ade433a9784ea39ef684558a23b92e9&txTime=6ACA98F5|Referer=https://player.online909.com/",
+    "link": "http://193.47.62.56/hls/VRVRVRAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
     "logo": "",
     "title": "DUDE Tv Live",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://netanjahu.hls.st/t/91e97bac1ddcf9c825d5b478c9442b6e/index.m3u8?|Referer=https://iplayer.is/",
-    "logo": "",
-    "title": "ARENA SPORTS HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://netanjahu.hls.st/t/6d49a19f2d59a42ec370d263353505af/index.m3u8?|Referer=https://iplayer.is/",
-    "logo": "",
-    "title": "DAZN SPORTS HD",
     "type": "0"
   }
 ]
