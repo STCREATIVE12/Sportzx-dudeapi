@@ -36,6 +36,13 @@
   },
   {
     "api": "",
+    "link": "https://netanjahu.hls.st/t/6587db81d5121bfc7c1ff4d2282dfc9b/index.m3u8?|Referer=https://iplayer.is/",
+    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+    "title": "Ziggo Sports HD",
+    "type": "0"
+  },
+  {
+    "api": "",
     "link": "https://loki.dulo.cc/play/6QSEu17nHA-bpxPOi02csYvE_eu7DaoF/E3vzq2Cuc_f8G8qx.m3u8",
     "logo": "https://iili.io/BtCdabj.png",
     "title": "CBS SPORTS HD",
@@ -46,13 +53,6 @@
     "link": "https://live.vivo155.com/live/hd-en-1-4549117.m3u8?txSecret=cbcd47a4ec3801be01586652fe3b8aa4&txTime=6ACD1E0A|Referer=https://player.online878.com/",
     "logo": "",
     "title": "DUDE Tv Live",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://netanjahu.hls.st/t/6587db81d5121bfc7c1ff4d2282dfc9b/index.m3u8?|Referer=https://iplayer.is/",
-    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-    "title": "PARAMOUNT+ HD",
     "type": "0"
   },
   {

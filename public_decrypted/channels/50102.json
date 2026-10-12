@@ -1,37 +1,23 @@
 [
   {
-    "api": "925c539720a10e0745e9bd8fa76809b5:2d791e20a47bbd447d556f931bfc7865",
-    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vvezz98vxk/out/v1/59a70a7d623d49618c91bb0cf936cb69/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "FUBO SPORTS FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/57915/load-playlist?|Referer=https://gooz.aapmains.net",
+    "link": "https://netanjahu.hls.st/t/7981648c21571d3920ade010c34e1f60/index.m3u8?|Referer=https://iplayer.is/",
     "logo": "",
-    "title": "PEACOCK TV HD",
+    "title": "DAZN SPORTS HD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://edgestream6.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+    "link": "https://live.vivo155.com/live/sd-1-4567310.m3u8?txSecret=86e62e03f950701f496cd89543e4b0d9&txTime=6ACD4204|Referer=https://player.online878.com/",
     "logo": "",
-    "title": "HD SERVER ",
+    "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://www.rtmpcdn.com/live/b354ab9e-f9db-4ef1-9757-c9b0b1cceb36.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "link": "http://193.47.62.44/hls/YFFFAAAX.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
     "logo": "",
-    "title": "SD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.55/hls/J333AAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-    "logo": "",
-    "title": "LOW SERVER",
+    "title": "DUDE Tv Live",
     "type": "0"
   }
 ]
