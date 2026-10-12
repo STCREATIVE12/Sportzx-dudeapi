@@ -1,44 +1,8 @@
 [
   {
-    "api": "f775d0d519858976c3fcfcf57bc57678:22c3c4539832a0c72545a47f3f4ea57d",
-    "link": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5mmp9gcty5/out/v1/0ddfd460ec014c8d89963a0ed3d02959/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "PRIME VIDEO FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/57927/load-playlist?|Referer=https://gooz.aapmains.net",
-    "logo": "",
-    "title": "DUDE Tv NFL HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://veltristream.s3.us-east-1.amazonaws.com/patriots.m3u8",
-    "logo": "",
-    "title": "NFL LIVE FHD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/57926/load-playlist?|Referer=https://gooz.aapmains.net",
-    "logo": "",
-    "title": "SERVER 1 HD [USA]",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://edgestream4.pro/hls/jnknjfzbk35.m3u8?|Referer=https://streame.center&Origin=https://streame.center",
-    "logo": "",
+    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
     "title": "DUDE Tv Live",
     "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://taifood-blog.asia/embed/nfl/2026-10-11/lv-ne",
-    "logo": "",
-    "title": "NFL LIVE [FHD]",
-    "type": "2"
   }
 ]

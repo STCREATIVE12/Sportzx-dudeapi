@@ -1,16 +1,8 @@
 [
   {
-    "api": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/nxmc2e3160/out/v1/7763c905a97d486ea1e9c36deb017e25/c0ae6615-2b20-4879-a8b8-e778b3e033b2-cenc.mpd?aws_sessionId=c3babe87-f2ea-4162-b9b3-7539fac55d20|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "beIN SPORTS FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://www.rtmpcdn.com/live/54739cd3-386e-458c-ac24-945b44b47c13.m3u8",
-    "logo": "",
-    "title": "HD SERVER",
+    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+    "title": "DUDE Tv Live",
     "type": "0"
   }
 ]
