@@ -704,6 +704,295 @@
     ]
   },
   {
+    "id": 50032,
+    "title": "Milwaukee Brewers",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Brewers",
+      "teamB": "Dodgers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+      "eventName": "Milwaukee Brewers vs Los Angeles Dodgers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/12 21:00:00 +0000",
+      "endTime": "2026/10/13 00:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TNT SPORTS FHD",
+      "FOX SPORTS FHD",
+      "FOX DEPORTES",
+      "DUDE Tv LIVE",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "TNT SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "FOX SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "FOX DEPORTES",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv LIVE",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50033,
+    "title": "Cleveland Guardians",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Rays",
+      "teamB": "Guardians",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+      "eventName": "Tampa Bay Rays vs Cleveland Guardians",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/13 00:00:00 +0000",
+      "endTime": "2026/10/13 03:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TNT SPORTS FHD",
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "TNT SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50051,
+    "title": "Trail Blazers vs London Lions",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Trail Blazers",
+      "teamB": "London Lions",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3414/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3616/image",
+      "eventName": "Portland Trail Blazers vs London Lions",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/12 20:00:00 +0000",
+      "endTime": "2026/10/12 23:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50054,
+    "title": "CFL",
+    "image": "o",
+    "cat": "CFL",
+    "eventInfo": {
+      "teamA": "Montréal",
+      "teamB": "Saskatchewan",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4439/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4438/image",
+      "eventName": "Montreal Alouettes vs Saskatchewan Roughriders",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/12 17:00:00 +0000",
+      "endTime": "2026/10/12 20:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN SPORTS FHD",
+      "TSN3 SPORTS FHD",
+      "CFL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "TSN3 SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "CFL LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50055,
+    "title": "Atlanta Hawks vs Thunder",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Hawks",
+      "teamB": "Thunder",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3423/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image",
+      "eventName": "Atlanta Hawks vs Oklahoma City Thunder",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/12 23:00:00 +0000",
+      "endTime": "2026/10/13 02:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50056,
+    "title": "Wizards vs Brooklyn Nets",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Wizards",
+      "teamB": "Nets",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3431/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image",
+      "eventName": "Washington Wizards vs Brooklyn Nets",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/12 23:00:00 +0000",
+      "endTime": "2026/10/13 02:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50058,
+    "title": "Knicks vs Minnesota Timberwolves",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Knicks",
+      "teamB": "Timberwolves",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3421/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3426/image",
+      "eventName": "New York Knicks vs Minnesota Timberwolves",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/12 23:30:00 +0000",
+      "endTime": "2026/10/13 02:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50059,
+    "title": "Utah Jazz vs San Antonio Spurs",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Jazz",
+      "teamB": "Spurs",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3434/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image",
+      "eventName": "Utah Jazz vs San Antonio Spurs",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/13 01:00:00 +0000",
+      "endTime": "2026/10/13 04:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50062,
     "title": "South Africa vs Australia",
     "image": "o",
@@ -723,11 +1012,13 @@
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
-      "SKY CRICKET - FHD",
+      "FANCODE FHD",
       "WILLOW - ALT",
-      "FANCODE - FHD",
-      "TAPMAD - FHD",
-      "FANCODE - IN"
+      "SKY CRICKET - FHD",
+      "FANCODE - IN",
+      "FOX CRICKET HD",
+      "A SPORTS HD",
+      "WILLOW HD"
     ],
     "formatsNew": [
       {
@@ -735,24 +1026,80 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "SKY CRICKET - FHD",
-        "logo": ""
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
         "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "FANCODE - FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "TAPMAD - FHD",
+        "title": "SKY CRICKET - FHD",
         "logo": ""
       },
       {
         "title": "FANCODE - IN",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "FOX CRICKET HD",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "title": "A SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "WILLOW HD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      }
+    ]
+  },
+  {
+    "id": 50069,
+    "title": "Los Angeles Rams",
+    "image": "o",
+    "cat": "NFL",
+    "eventInfo": {
+      "teamA": "Rams",
+      "teamB": "Bills",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4387/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4414/image",
+      "eventName": "Los Angeles Rams vs Buffalo Bills",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/13 00:15:00 +0000",
+      "endTime": "2026/10/13 03:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN SPORTS FHD",
+      "TSN4 SPORTS FHD",
+      "TSN5 SPORTS FHD",
+      "DUDE Tv Live",
+      "NFL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "TSN4 SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "TSN5 SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE [FHD]",
+        "logo": ""
       }
     ]
   },
@@ -823,10 +1170,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PREMIER SPORTS",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "PREMIER SPORTS",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -856,10 +1208,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PREMIER SPORTS",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "PREMIER SPORTS",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -889,10 +1246,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PREMIER SPORTS",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "PREMIER SPORTS",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -947,6 +1309,95 @@
     ]
   },
   {
+    "id": 50086,
+    "title": "Coritiba vs Botafogo",
+    "image": "o",
+    "cat": "Brasileirão",
+    "eventInfo": {
+      "teamA": "Coritiba",
+      "teamB": "Botafogo",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1982/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1958/image",
+      "eventName": "Coritiba vs Botafogo",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/12 19:00:00 +0000",
+      "endTime": "2026/10/12 21:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50087,
+    "title": "Chapecoense vs Athletico",
+    "image": "o",
+    "cat": "Brasileirão",
+    "eventInfo": {
+      "teamA": "Chapecoense",
+      "teamB": "Athletico",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/21845/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1967/image",
+      "eventName": "Chapecoense vs Athletico",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/12 22:30:00 +0000",
+      "endTime": "2026/10/13 00:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "PREMIERER BR"
+    ],
+    "formatsNew": [
+      {
+        "title": "PREMIERER BR",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50088,
+    "title": "RB Bragantino vs Cruzeiro",
+    "image": "o",
+    "cat": "Brasileirão",
+    "eventInfo": {
+      "teamA": "RB Bragantino",
+      "teamB": "Cruzeiro",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1999/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1954/image",
+      "eventName": "Red Bull Bragantino vs Cruzeiro",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/13 00:00:00 +0000",
+      "endTime": "2026/10/13 02:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SporTV BR FHD",
+      "PREMIERER BR"
+    ],
+    "formatsNew": [
+      {
+        "title": "SporTV BR FHD",
+        "logo": ""
+      },
+      {
+        "title": "PREMIERER BR",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50089,
     "title": "Inter Miami",
     "image": "o",
@@ -965,10 +1416,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      " HD SERVER",
       "SonyLiv (ENG)",
       "SonyLiv (HIN)"
     ],
     "formatsNew": [
+      {
+        "title": " HD SERVER",
+        "logo": ""
+      },
       {
         "title": "SonyLiv (ENG)",
         "logo": ""
@@ -1299,7 +1755,9 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH FHD",
-      "CBS NETWORK FHD"
+      "CBS NETWORK FHD",
+      "CBS SPORTS HD",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
@@ -1308,6 +1766,14 @@
       },
       {
         "title": "CBS NETWORK FHD",
+        "logo": ""
+      },
+      {
+        "title": "CBS SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -1387,11 +1853,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1443,11 +1909,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1555,11 +2026,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "beIN SPORTS HD",
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "beIN SPORTS HD",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1583,11 +2069,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1611,11 +2107,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
