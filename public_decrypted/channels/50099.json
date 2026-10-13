@@ -1,86 +1,14 @@
 [
   {
-    "api": "fa89486cc31c70ffcd29f59ff158c3e3:49abcc8251abc657b641812781cf8570",
-    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/r7g4inpsan/out/v1/31a70b2571764861b0994dc63235c9a0/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-    "title": "PARAMOUNT+ FHD",
-    "type": "1"
-  },
-  {
-    "api": "ada2e1f98bb127aadf568a248543344d:32596d57dec91ed1e2221934649e7a7f",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/jewreepytu/out/v1/4379e830995b4993a974c6cd682b8b54/2674fe8c-1077-4800-88bb-48a3b2fa2ba0-cenc.mpd?aws_sessionId=4449f202-7be0-4e53-86cd-807276f4e28a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "FUBO SPORTS FHD",
-    "type": "1"
-  },
-  {
-    "api": "4ee4d8962454da7969ec6792bebc9d47:f86cf93c7cf8fff3343eef5a0118586c",
-    "link": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/jthr3quzbb/out/v1/3640c79491d04f9b955cacae5fc63dd5/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "DAZN ITALIAN FHD",
-    "type": "1"
-  },
-  {
-    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "beIN ENGLISH FHD",
-    "type": "1"
-  },
-  {
-    "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "CBS NETWORK FHD",
-    "type": "1"
-  },
-  {
-    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-    "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-    "logo": "",
-    "title": "SPORT 1 CZ FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://netanjahu.hls.st/t/87a42c06bf5e71d8ffff28abb4d153d7/index.m3u8?|Referer=https://iplayer.is/",
-    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-    "title": "PARAMOUNT+ HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4549082.m3u8?txSecret=8d8f762aa4b7bcb1e694d6dd85172de1&txTime=6ACD3C22|Referer=https://player.online878.com/",
-    "logo": "",
+    "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
     "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://netanjahu.hls.st/t/6f6dcfe72e98f7fd2869d0b2c34c7fd4/index.m3u8?|Referer=https://iplayer.is/",
-    "logo": "",
-    "title": "Sport TV HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://netanjahu.hls.st/t/0f40b10d4aea4cb7f2d7d560c3cad6d5/index.m3u8?|Referer=https://iplayer.is/",
-    "logo": "",
-    "title": "ELEVEN SPORTS HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://www.rtmpcdn.com/live/2060e7b2-f994-40f5-86bf-04a51c7ba936.m3u8",
-    "logo": "",
-    "title": "HD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.59/hls/BEEEAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-    "logo": "",
-    "title": "SD SERVER",
+    "link": "https://taifood-blog.asia/embed/",
+    "title": "NHL LIVE [FHD]",
     "type": "0"
   }
 ]
