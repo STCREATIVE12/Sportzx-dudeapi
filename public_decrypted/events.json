@@ -389,8 +389,8 @@
       "WILLOW - ALT",
       "TAPMAD - FHD",
       "T SPORTS HD",
-      "FANCODE - IN",
-      "WILLOW HD"
+      "A SPORTS HD",
+      "FANCODE - IN"
     ],
     "formatsNew": [
       {
@@ -410,12 +410,12 @@
         "logo": ""
       },
       {
-        "title": "FANCODE - IN",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+        "title": "A SPORTS HD",
+        "logo": ""
       },
       {
-        "title": "WILLOW HD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+        "title": "FANCODE - IN",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
     ]
   },
@@ -775,44 +775,6 @@
     ]
   },
   {
-    "id": 50054,
-    "title": "CFL",
-    "image": "o",
-    "cat": "CFL",
-    "eventInfo": {
-      "teamA": "Montréal",
-      "teamB": "Saskatchewan",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4439/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4438/image",
-      "eventName": "Montreal Alouettes vs Saskatchewan Roughriders",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/12 17:00:00 +0000",
-      "endTime": "2026/10/12 20:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TSN SPORTS FHD",
-      "TSN3 SPORTS FHD",
-      "CFL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "TSN SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "TSN3 SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "CFL LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50055,
     "title": "Toronto Raptors vs Knicks",
     "image": "o",
@@ -970,7 +932,8 @@
       "FANCODE - IN",
       "FOX CRICKET HD",
       "A SPORTS HD",
-      "WILLOW HD"
+      "WILLOW HD",
+      "SKY CRICKET SD"
     ],
     "formatsNew": [
       {
@@ -1004,53 +967,9 @@
       {
         "title": "WILLOW HD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      }
-    ]
-  },
-  {
-    "id": 50069,
-    "title": "Los Angeles Rams",
-    "image": "o",
-    "cat": "NFL",
-    "eventInfo": {
-      "teamA": "Rams",
-      "teamB": "Bills",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4387/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4414/image",
-      "eventName": "Los Angeles Rams vs Buffalo Bills",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/13 00:15:00 +0000",
-      "endTime": "2026/10/13 03:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TSN SPORTS FHD",
-      "TSN4 SPORTS FHD",
-      "TSN5 SPORTS FHD",
-      "DUDE Tv Live",
-      "NFL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "TSN SPORTS FHD",
-        "logo": ""
       },
       {
-        "title": "TSN4 SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "TSN5 SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NFL LIVE [FHD]",
+        "title": "SKY CRICKET SD",
         "logo": ""
       }
     ]
@@ -1075,10 +994,11 @@
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
-      "WILLOW - ALT",
-      "STARZPLAY FHD",
       "FANCODE - FHD",
-      "FANCODE ENG - IN"
+      "STARZPLAY FHD",
+      "WILLOW - ALT",
+      "WILLOW HD",
+      "FANCODE - IN"
     ],
     "formatsNew": [
       {
@@ -1086,19 +1006,23 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+        "title": "FANCODE - FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
         "title": "STARZPLAY FHD",
         "logo": ""
       },
       {
-        "title": "FANCODE - FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "FANCODE ENG - IN",
+        "title": "WILLOW HD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "FANCODE - IN",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
     ]
@@ -2039,11 +1963,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ]
@@ -2067,123 +1996,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50109,
-    "title": "Kyoto Sanga vs Ratchaburi",
-    "image": "o",
-    "cat": "AFC Champions Elite",
-    "eventInfo": {
-      "teamA": "Kyoto Sanga",
-      "teamB": "Ratchaburi",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3149/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/85743/image",
-      "eventName": "Kyoto Sanga vs Ratchaburi",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/13 10:00:00 +0000",
-      "endTime": "2026/10/13 12:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
+      },
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50110,
-    "title": "Shanghai Port vs Daejeon Hana",
-    "image": "o",
-    "cat": "AFC Champions Elite",
-    "eventInfo": {
-      "teamA": "Port",
-      "teamB": "Daejeon Hana",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/41537/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/7645/image",
-      "eventName": "Shanghai Port vs Daejeon Hana",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/13 10:00:00 +0000",
-      "endTime": "2026/10/13 12:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50111,
-    "title": "Pohang Steelers vs Johor Darul",
-    "image": "o",
-    "cat": "AFC Champions Elite",
-    "eventInfo": {
-      "teamA": "Pohang Steelers",
-      "teamB": "JDT",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/7650/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3327/image",
-      "eventName": "Pohang Steelers vs Johor Darul Ta'zim",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/13 10:00:00 +0000",
-      "endTime": "2026/10/13 12:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50112,
-    "title": "Newcastle Jets vs Gamba Osaka",
-    "image": "o",
-    "cat": "AFC Champions Elite",
-    "eventInfo": {
-      "teamA": "Newcastle Jets",
-      "teamB": "Gamba Osaka",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2934/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3138/image",
-      "eventName": "Newcastle Jets vs Gamba Osaka",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/13 07:45:00 +0000",
-      "endTime": "2026/10/13 09:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
         "logo": ""
       }
     ]

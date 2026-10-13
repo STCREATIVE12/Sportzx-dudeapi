@@ -1,21 +1,21 @@
 [
   {
-    "api": "cc795082715e39585bb8b9913a2072db:b6a161d647a3e1319649cbae2ee256bf",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cp3g1fxief/out/v1/c24f3ab23c4442118b881700b15e2568/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "a2214fdc084b8b63e81e8538f619028b:38623ddd2f6879754eb796e7e83778c2",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6lgvgwehji/out/v1/373741b1095a4c939594240b57e9269a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
     "title": "WILLOW - FHD",
     "type": "1"
   },
   {
-    "api": "cc795082715e39585bb8b9913a2072db:b6a161d647a3e1319649cbae2ee256bf",
-    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cp3g1fxief/out/v1/c24f3ab23c4442118b881700b15e2568/cenc.mpd",
+    "api": "a2214fdc084b8b63e81e8538f619028b:38623ddd2f6879754eb796e7e83778c2",
+    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6lgvgwehji/out/v1/373741b1095a4c939594240b57e9269a/cenc.mpd",
     "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
     "title": "WILLOW - ALT",
     "type": "1"
   },
   {
     "api": "",
-    "link": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8|referer=https://tapmad.com/",
+    "link": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8|referer=https://tapmad.com/",
     "logo": "",
     "title": "TAPMAD - FHD",
     "type": "0"
@@ -29,16 +29,16 @@
   },
   {
     "api": "",
-    "link": "https://dai-fancode.pages.dev/mumbai/4249693_english_hls_aaca093f3b69428_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-    "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-    "title": "FANCODE - IN",
+    "link": "https://playztv-apps.pages.dev/a-sports/index.m3u8",
+    "logo": "",
+    "title": "A SPORTS HD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://baila-lentoo.pages.dev/all-sp/809386.m3u8",
-    "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-    "title": "WILLOW HD",
+    "link": "https://komj.uk/~afgvsban_day5.m3u8",
+    "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+    "title": "FANCODE - IN",
     "type": "0"
   },
   {
