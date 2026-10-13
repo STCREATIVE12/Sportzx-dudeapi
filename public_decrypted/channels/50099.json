@@ -1,14 +1,16 @@
 [
   {
     "api": "",
-    "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+    "link": "https://edgestream5.pro/hls/lmdsjkfgv52.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+    "logo": "",
     "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://taifood-blog.asia/embed/",
+    "link": "https://taifood-blog.asia/embed/nhl/2026-10-13/buf-mtl",
+    "logo": "",
     "title": "NHL LIVE [FHD]",
-    "type": "0"
+    "type": "2"
   }
 ]
