@@ -841,6 +841,72 @@
     ]
   },
   {
+    "id": 50058,
+    "title": "Milwaukee Bucks vs Chicago Bulls",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Bucks",
+      "teamB": "Bulls",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3410/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3409/image",
+      "eventName": "Milwaukee Bucks vs Chicago Bulls",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/15 00:00:00 +0000",
+      "endTime": "2026/10/15 03:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50059,
+    "title": "Timberwolves vs Detroit Pistons",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Timberwolves",
+      "teamB": "Pistons",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3426/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3424/image",
+      "eventName": "Minnesota Timberwolves vs Detroit Pistons",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/15 00:00:00 +0000",
+      "endTime": "2026/10/15 03:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50060,
     "title": "Spurs vs Phoenix Suns",
     "image": "o",
@@ -1193,11 +1259,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "MLS LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLS LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1214,7 +1285,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1644/image",
       "eventName": "Manchester City vs Paris Saint-Germain",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/10/14 19:00:00 +0000",
       "endTime": "2026/10/14 21:10:00 +0000"
     },
@@ -1307,7 +1378,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2829/image",
       "eventName": "AS Roma vs Real Madrid",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/10/14 19:00:00 +0000",
       "endTime": "2026/10/14 21:10:00 +0000"
     },
@@ -1316,8 +1387,8 @@
     "formats": [
       "TNT SPORTS FHD",
       "PARAMOUNT+ FHD",
+      "TNT SPORTS HD",
       "VIX SPANISH FHD",
-      "PARAMOUNT+ HD",
       "TNT SPORTS - AQ",
       "DUDE Tv Live",
       "SonyLiv (ENG)",
@@ -1341,15 +1412,15 @@
       },
       {
         "title": "PARAMOUNT+ FHD",
-        "logo": ""
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "TNT SPORTS HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
       },
       {
         "title": "VIX SPANISH FHD",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
-      },
-      {
-        "title": "PARAMOUNT+ HD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
       },
       {
         "title": "TNT SPORTS - AQ",
@@ -1425,7 +1496,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image",
       "eventName": "Bodø/Glimt vs Borussia Dortmund",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/10/14 19:00:00 +0000",
       "endTime": "2026/10/14 21:10:00 +0000"
     },
@@ -1779,138 +1850,6 @@
     ]
   },
   {
-    "id": 50098,
-    "title": "Golazo Show",
-    "image": "o",
-    "cat": "UCL",
-    "eventInfo": {
-      "teamA": "Golazo Show",
-      "teamB": "Golazo Show",
-      "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
-      "eventName": "Golazo Show",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/10/14 18:55:00 +0000",
-      "endTime": "2026/10/14 21:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "UCL MULTIVIEW"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "UCL MULTIVIEW",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50099,
-    "title": "Lincoln City vs West Ham",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Lincoln",
-      "teamB": "West Ham",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/92/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image",
-      "eventName": "Lincoln City vs West Ham United",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/14 19:00:00 +0000",
-      "endTime": "2026/10/14 21:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50100,
-    "title": "Portsmouth vs Sheffield",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Portsmouth",
-      "teamB": "Sheffield Utd",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/15/image",
-      "eventName": "Portsmouth vs Sheffield United",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/14 18:45:00 +0000",
-      "endTime": "2026/10/14 20:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "CBS SPORTS HD",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "CBS SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50101,
-    "title": "Norwich City vs Southampton",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Norwich",
-      "teamB": "Southampton",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/263/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/45/image",
-      "eventName": "Norwich City vs Southampton",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/14 18:45:00 +0000",
-      "endTime": "2026/10/14 20:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "CBS SPORTS HD",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "CBS SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50102,
     "title": "Atlético Mineiro vs Torque",
     "image": "o",
@@ -1944,34 +1883,6 @@
       },
       {
         "title": "D Sports FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50104,
-    "title": "Al Faisaly vs Al Nahda",
-    "image": "o",
-    "cat": "AFC Champions Two",
-    "eventInfo": {
-      "teamA": "Al-Faisaly",
-      "teamB": "Al-Nahda",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/47482/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/40648/image",
-      "eventName": "Al Faisaly SC vs Al Nahda SC",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/14 18:15:00 +0000",
-      "endTime": "2026/10/14 20:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
