@@ -443,11 +443,9 @@
       "TNT SPORTS FHD",
       "WILLOW - ALT",
       "TAPMAD - FHD",
-      "HOTSTAR HIN - IN",
-      "HOTSTAR ENG - IN",
-      "HOTSTAR TEL - IN",
-      "HOTSTAR TAM - IN",
-      "HOTSTAR KAN - IN"
+      "TNT SPORTS HD",
+      "STAR SPORTS (ENG)",
+      "STAR SPORTS (HIN)"
     ],
     "formatsNew": [
       {
@@ -467,23 +465,15 @@
         "logo": ""
       },
       {
-        "title": "HOTSTAR HIN - IN",
+        "title": "TNT SPORTS HD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "STAR SPORTS (ENG)",
         "logo": ""
       },
       {
-        "title": "HOTSTAR ENG - IN",
-        "logo": ""
-      },
-      {
-        "title": "HOTSTAR TEL - IN",
-        "logo": ""
-      },
-      {
-        "title": "HOTSTAR TAM - IN",
-        "logo": ""
-      },
-      {
-        "title": "HOTSTAR KAN - IN",
+        "title": "STAR SPORTS (HIN)",
         "logo": ""
       }
     ]
@@ -1224,18 +1214,83 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1644/image",
       "eventName": "Manchester City vs Paris Saint-Germain",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/14 19:00:00 +0000",
       "endTime": "2026/10/14 21:10:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT SPORTS FHD"
+      "PARAMOUNT+ FHD",
+      "TNT SPORTS FHD",
+      "TNT SPORTS HD",
+      "TNT SPORTS - AQ",
+      "DUDE Tv Live",
+      "SonyLiv (ASIA)",
+      "beIN ARABIC FHD",
+      "STAN SPORTS HD",
+      "PARAMOUNT+ HD",
+      "DAZN SPORTS HD",
+      "ARENA SPORTS HD",
+      "CANAL+ SPORTS HD",
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "TNT SPORTS HD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "TNT SPORTS - AQ",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (ASIA)",
+        "logo": ""
+      },
+      {
+        "title": "beIN ARABIC FHD",
+        "logo": ""
+      },
+      {
+        "title": "STAN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "ARENA SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "CANAL+ SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1252,18 +1307,108 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2829/image",
       "eventName": "AS Roma vs Real Madrid",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/14 19:00:00 +0000",
       "endTime": "2026/10/14 21:10:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT SPORTS FHD"
+      "TNT SPORTS FHD",
+      "PARAMOUNT+ FHD",
+      "VIX SPANISH FHD",
+      "PARAMOUNT+ HD",
+      "TNT SPORTS - AQ",
+      "DUDE Tv Live",
+      "SonyLiv (ENG)",
+      "SonyLiv (HIN)",
+      "beIN ARABIC FHD",
+      "STAN SPORTS HD",
+      "CBS SPORTS HD",
+      "DAZN SPORTS HD",
+      "ARENA SPORTS HD",
+      "TVP SPORTS HD",
+      "HD SERVER",
+      "SonyLiv - TAM",
+      "SonyLiv - TEL",
+      "SonyLiv - KAM",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": ""
+      },
+      {
+        "title": "VIX SPANISH FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "TNT SPORTS - AQ",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (ENG)",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (HIN)",
+        "logo": ""
+      },
+      {
+        "title": "beIN ARABIC FHD",
+        "logo": ""
+      },
+      {
+        "title": "STAN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "CBS SPORTS HD",
+        "logo": "https://iili.io/BtCdabj.png"
+      },
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "ARENA SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "TVP SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - TAM",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - TEL",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - KAM",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1280,18 +1425,68 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image",
       "eventName": "Bodø/Glimt vs Borussia Dortmund",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/14 19:00:00 +0000",
       "endTime": "2026/10/14 21:10:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "VIX SPANISH FHD",
+      "CBS SPORTS HD",
+      "DUDE Tv Live",
+      "SonyLiv (Asia)",
+      "STAN SPORTS HD",
+      "PARAMOUNT+ HD",
+      "ARENA SPORTS HD",
+      "DAZN SPORTS HD",
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "VIX SPANISH FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
+      {
+        "title": "CBS SPORTS HD",
+        "logo": "https://iili.io/BtCdabj.png"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "STAN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "ARENA SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1315,11 +1510,61 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "VIX SPANISH FHD",
+      "PARAMOUNT+ HD",
+      "DUDE Tv Live",
+      "STAN SPORTS HD",
+      "CBS SPORTS HD",
+      "DAZN SPORTS HD",
+      "SPORT TV HD",
+      "SonyLiv ",
+      "HD QUALITY",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "VIX SPANISH FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "STAN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "CBS SPORTS HD",
+        "logo": "https://iili.io/BtCdabj.png"
+      },
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SPORT TV HD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv ",
+        "logo": ""
+      },
+      {
+        "title": "HD QUALITY",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1343,11 +1588,56 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT SPORTS FHD"
+      "PARAMOUNT+ FHD",
+      "TNT SPORTS FHD",
+      "TNT SPORTS HD",
+      "DUDE Tv Live",
+      "SonyLiv (Asia)",
+      "STAN SPORTS HD",
+      "PARAMOUNT+ HD",
+      "DAZN SPORTS HD",
+      "HD SERVER ",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "TNT SPORTS HD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "STAN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1371,11 +1661,51 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "VIX SPANISH FHD",
+      "DUDE Tv Live",
+      "STAN SPORTS HD",
+      "PARAMOUNT+ HD",
+      "DAZN SPORTS HD",
+      "SonyLiv ",
+      "HD SERVER ",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "VIX SPANISH FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "STAN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv ",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1399,67 +1729,84 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "VIX SPANISH FHD",
+      "DUDE Tv Live",
+      "STAN SPORTS HD",
+      "PARAMOUNT+ HD",
+      "DAZN SPORTS HD",
+      "SonyLiv (Asia)",
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "VIX SPANISH FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50097,
-    "title": "LASK vs Liverpool",
-    "image": "o",
-    "cat": "UCL",
-    "eventInfo": {
-      "teamA": "LASK",
-      "teamB": "Liverpool",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2058/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/44/image",
-      "eventName": "LASK vs Liverpool",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/14 16:45:00 +0000",
-      "endTime": "2026/10/14 18:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TNT SPORTS FHD"
-    ],
-    "formatsNew": [
+      },
       {
-        "title": "TNT SPORTS FHD",
+        "title": "STAN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50098,
-    "title": "Feyenoord vs Como",
+    "title": "Golazo Show",
     "image": "o",
     "cat": "UCL",
     "eventInfo": {
-      "teamA": "Feyenoord",
-      "teamB": "Como",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2959/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2704/image",
-      "eventName": "Feyenoord vs Como",
+      "teamA": "Golazo Show",
+      "teamB": "Golazo Show",
+      "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+      "eventName": "Golazo Show",
       "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/14 16:45:00 +0000",
-      "endTime": "2026/10/14 18:50:00 +0000"
+      "isHot": "1",
+      "startTime": "2026/10/14 18:55:00 +0000",
+      "endTime": "2026/10/14 21:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT SPORTS FHD"
+      "PARAMOUNT+ FHD",
+      "UCL MULTIVIEW"
     ],
     "formatsNew": [
       {
-        "title": "TNT SPORTS FHD",
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "UCL MULTIVIEW",
         "logo": ""
       }
     ]
@@ -1483,11 +1830,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -1511,9 +1863,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "CBS SPORTS HD",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "CBS SPORTS HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1539,9 +1896,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "CBS SPORTS HD",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "CBS SPORTS HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1587,34 +1949,6 @@
     ]
   },
   {
-    "id": 50103,
-    "title": "Punjab vs Odisha",
-    "image": "o",
-    "cat": "ISL",
-    "eventInfo": {
-      "teamA": "Punjab",
-      "teamB": "Odisha",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/230661/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/174592/image",
-      "eventName": "Punjab vs Odisha",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/14 14:00:00 +0000",
-      "endTime": "2026/10/14 16:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50104,
     "title": "Al Faisaly vs Al Nahda",
     "image": "o",
@@ -1638,273 +1972,6 @@
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50105,
-    "title": "Al-Taawoun vs Al-Rayyan",
-    "image": "o",
-    "cat": "AFC Champions Two",
-    "eventInfo": {
-      "teamA": "Al-Taawoun",
-      "teamB": "Al-Rayyan",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/56021/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/40660/image",
-      "eventName": "Al-Taawoun vs Al-Rayyan",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/14 16:00:00 +0000",
-      "endTime": "2026/10/14 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50106,
-    "title": "Al-Muharraq vs Gol Gohar",
-    "image": "o",
-    "cat": "AFC Champions Two",
-    "eventInfo": {
-      "teamA": "Muharraq",
-      "teamB": "Gol Gohar",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/45474/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/275525/image",
-      "eventName": "Al-Muharraq vs Gol Gohar",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/14 16:00:00 +0000",
-      "endTime": "2026/10/14 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50107,
-    "title": "Al-Jazira vs Arkadag",
-    "image": "o",
-    "cat": "AFC Champions Two",
-    "eventInfo": {
-      "teamA": "Al-Jazira",
-      "teamB": "Arkadag",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/8090/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/469420/image",
-      "eventName": "Al-Jazira vs Arkadag FK",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/14 16:00:00 +0000",
-      "endTime": "2026/10/14 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50108,
-    "title": "Al Kuwait vs Al Khaldiya",
-    "image": "o",
-    "cat": "AFC Champions Two",
-    "eventInfo": {
-      "teamA": "Al Kuwait ",
-      "teamB": "Al Khaldiya",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/32525/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/371631/image",
-      "eventName": "Al Kuwait SC vs Al Khaldiya",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/14 16:00:00 +0000",
-      "endTime": "2026/10/14 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50109,
-    "title": "Nasaf Qarshi vs Al-Wahda",
-    "image": "o",
-    "cat": "AFC Champions Two",
-    "eventInfo": {
-      "teamA": "Nasaf",
-      "teamB": "Al-Wahda",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/34017/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/264115/image",
-      "eventName": "Nasaf Qarshi vs Al-Wahda",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/14 13:45:00 +0000",
-      "endTime": "2026/10/14 15:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50110,
-    "title": "Persib Bandung vs Viettel",
-    "image": "o",
-    "cat": "AFC Champions Two",
-    "eventInfo": {
-      "teamA": "Persib",
-      "teamB": "Viettel",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/64289/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/231270/image",
-      "eventName": "Persib Bandung vs Viettel",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/14 12:15:00 +0000",
-      "endTime": "2026/10/14 14:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HD SERVER ",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "HD SERVER ",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50111,
-    "title": "Melbourne Victory vs Seoul",
-    "image": "o",
-    "cat": "AFC Champions Two",
-    "eventInfo": {
-      "teamA": "Melbourne Victory",
-      "teamB": "FC Seoul",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5970/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/7646/image",
-      "eventName": "Melbourne Victory vs FC Seoul",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/14 07:45:00 +0000",
-      "endTime": "2026/10/14 09:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HD SERVER "
-    ],
-    "formatsNew": [
-      {
-        "title": "HD SERVER ",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50112,
-    "title": "Vissel Kobe vs Jeonbuk",
-    "image": "o",
-    "cat": "AFC Champions Elite",
-    "eventInfo": {
-      "teamA": "Vissel Kobe",
-      "teamB": "Jeonbuk",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3146/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6908/image",
-      "eventName": "Vissel Kobe vs Jeonbuk",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/14 10:00:00 +0000",
-      "endTime": "2026/10/14 12:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50113,
-    "title": "Kashiwa Reysol vs Port",
-    "image": "o",
-    "cat": "AFC Champions Elite",
-    "eventInfo": {
-      "teamA": "Kashiwa",
-      "teamB": "Port FC",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3140/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/40661/image",
-      "eventName": "Kashiwa Reysol vs Port FC",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/14 10:00:00 +0000",
-      "endTime": "2026/10/14 12:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
         "logo": ""
       }
     ]

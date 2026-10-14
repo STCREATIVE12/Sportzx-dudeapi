@@ -1,79 +1,9 @@
 [
   {
-    "api": "0d29b6b16d339227a48c34cc7db653e6:c3ae68f8dd22965c21c9045d62db98dc",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/e0sjaaepmg/out/v1/f2965d1e22694d6a9d400b5044f082d0/e37f6c33-7547-4df8-898c-a91c85ca749c-cenc.mpd?aws_sessionId=f92c2fb9-1098-420a-a25e-438b2477a0a5|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-    "title": "PARAMOUNT+ FHD",
-    "type": "1"
-  },
-  {
-    "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
-    "title": "TNT SPORTS FHD",
-    "type": "1"
-  },
-  {
-    "api": "cf3ca9dfdd220846534578d88622d97d:7ce518f3de991da7be500f8458b7d6bb",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mfm0oerz72/out/v1/59dc0639d2c44432bf89984131478749/cenc.mpd?aws_sessionId=94235c70-be88-4031-a867-cd193556024d|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
-    "title": "ViX ESPANOL FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4628494.m3u8?txSecret=e8f2370dfc82be127e3afdfb6c6d0f7e&txTime=6ACE6E8C|Referer=https://player.online878.com/",
+    "link": "http://193.47.62.59/hls/BGBGBGA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
     "logo": "",
     "title": "DUDE Tv Live",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://netanjahu.hls.st/t/4057f8a17a2ed443be386f9313363890/index.m3u8?|Referer=https://iplayer.is/",
-    "logo": "",
-    "title": "STAN SPORTS HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://netanjahu.hls.st/t/e2a225fb776182522f012d64978e7761/index.m3u8?|Referer=https://iplayer.is/",
-    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-    "title": "PARAMOUNT+ HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://netanjahu.hls.st/t/2a7c1758eac7765117c59ed96a89ada3/index.m3u8?|Referer=https://iplayer.is/",
-    "logo": "",
-    "title": "DAZN SPORTS HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://netanjahu.hls.st/t/d3509e68fddfbb64da3d78fa73f1cb6e/index.m3u8?|Referer=https://iplayer.is/",
-    "logo": "",
-    "title": "ARENA SPORTS HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://netanjahu.hls.st/t/70f56dc6f848eb8a2d1989690d9603c4/index.m3u8?|Referer=https://iplayer.is/",
-    "logo": "",
-    "title": "Ziggo Sports HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://www.rtmpcdn.com/live/77821c7a-a46b-46ed-b327-57c62acbbddf.m3u8",
-    "logo": "",
-    "title": "HD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.55/hls/H999A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-    "logo": "",
-    "title": "LOW SERVER",
     "type": "0"
   }
 ]
