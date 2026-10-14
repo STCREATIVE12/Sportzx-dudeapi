@@ -443,12 +443,11 @@
       "TNT SPORTS FHD",
       "WILLOW - ALT",
       "TAPMAD - FHD",
-      "TNT SPORTS HD",
-      "WILLOW HD",
-      "LOW SERVER",
-      "HOTSTAR INDIA (HIN)",
-      "HOTSTAR INDIA (ENG)",
-      "HOTSTAR INDIA (TEL)"
+      "HOTSTAR HIN - IN",
+      "HOTSTAR ENG - IN",
+      "HOTSTAR TEL - IN",
+      "HOTSTAR TAM - IN",
+      "HOTSTAR KAN - IN"
     ],
     "formatsNew": [
       {
@@ -468,27 +467,23 @@
         "logo": ""
       },
       {
-        "title": "TNT SPORTS HD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
-      },
-      {
-        "title": "WILLOW HD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "LOW SERVER",
+        "title": "HOTSTAR HIN - IN",
         "logo": ""
       },
       {
-        "title": "HOTSTAR INDIA (HIN)",
+        "title": "HOTSTAR ENG - IN",
         "logo": ""
       },
       {
-        "title": "HOTSTAR INDIA (ENG)",
+        "title": "HOTSTAR TEL - IN",
         "logo": ""
       },
       {
-        "title": "HOTSTAR INDIA (TEL)",
+        "title": "HOTSTAR TAM - IN",
+        "logo": ""
+      },
+      {
+        "title": "HOTSTAR KAN - IN",
         "logo": ""
       }
     ]
@@ -1009,8 +1004,8 @@
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
-      "FANCODE - FHD",
-      "STARZPLAY FHD",
+      "FANCODE FHD",
+      "STARZPLAY - FHD",
       "WILLOW - ALT",
       "WILLOW HD",
       "FANCODE - IN"
@@ -1021,11 +1016,11 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "FANCODE - FHD",
+        "title": "FANCODE FHD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
-        "title": "STARZPLAY FHD",
+        "title": "STARZPLAY - FHD",
         "logo": ""
       },
       {
@@ -1806,11 +1801,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "HD SERVER ",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1862,11 +1862,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ]
@@ -1890,11 +1895,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ]
