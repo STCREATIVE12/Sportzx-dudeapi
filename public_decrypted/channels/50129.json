@@ -1,9 +1,16 @@
 [
   {
     "api": "",
-    "link": "https://live.vivo155.com/live/sd-1-4581319.m3u8?txSecret=b8db56603e001243344bf9473fe35189&txTime=6AB0398C|Referer=https://player.787200.com/",
+    "link": "https://live.vivo155.com/live/hd-en-1-4621372.m3u8?txSecret=d9c874ff63052c2b83d688feef33e72e&txTime=6AD0B567|Referer=https://player.online878.com/",
     "logo": "",
     "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://live2.jorvakstreamcache.com/live/channel19.m3u8",
+    "logo": "",
+    "title": "HD SERVER",
     "type": "0"
   }
 ]
