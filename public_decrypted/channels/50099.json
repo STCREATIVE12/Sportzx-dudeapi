@@ -1,16 +1,51 @@
 [
   {
-    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "beIN ENGLISH FHD",
+    "api": "cc1abcc183237886dc93c24505cdcdd1:e205866842e0fb75fa535f8c0ef504f9",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lqrtbor4qx/out/v1/beb2768ac7d0435bab70ce5cd6231ad7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
+    "title": "VIX SPANISH FHD",
     "type": "1"
   },
   {
     "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4563620.m3u8?txSecret=e92f00e75956b330b0b23866a9d1fd53&txTime=6ACFE0B1|Referer=https://player.online878.com/",
+    "link": "https://live.vivo155.com/live/hd-en-1-4630563.m3u8?txSecret=a1711de59bb61d721a6d6a9400cbc5eb&txTime=6AD132C1|Referer=https://player.online878.com/",
     "logo": "",
     "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://netanjahu.hls.st/t/f2404720b8a2da41aaf85fe60bf63f7f/index.m3u8?|Referer=https://iplayer24.me/",
+    "logo": "",
+    "title": "STAN SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://netanjahu.hls.st/t/e1128a49d9871ee66c49a56e502f3fa1/index.m3u8?|Referer=https://iplayer24.me/",
+    "logo": "https://iili.io/BtCdabj.png",
+    "title": "CBS SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://netanjahu.hls.st/t/ecd551235692f6e93408a93e7b250669/index.m3u8?|Referer=https://iplayer.is/",
+    "logo": "",
+    "title": "POLSAT SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://www.rtmpcdn.com/live/53ffee88-8278-4033-96e2-b8c67f6e2374.m3u8",
+    "logo": "",
+    "title": "HD SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.44/hls/8BBBAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "logo": "",
+    "title": "LOW SERVER",
     "type": "0"
   }
 ]
