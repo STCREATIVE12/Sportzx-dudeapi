@@ -1,9 +1,37 @@
 [
   {
+    "api": "5529ce921bc5d8554b925065f86af002:6ad8a302a2876d1df1e327572fcf96d3",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0xpf4sc6qx/out/v1/5d42e59ea86d400e93409185d674194c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
+    "title": "VIX SPANISH FHD",
+    "type": "1"
+  },
+  {
     "api": "",
-    "link": "http://193.47.62.56/hls/DYYYAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "link": "https://netanjahu.hls.st/t/22cd2f751ab68907eb526b47e3317eed/index.m3u8?|Referer=https://iplayer.is/",
     "logo": "",
-    "title": "DUDE Tv Live",
+    "title": "STAN SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://netanjahu.hls.st/t/3edc2fb0eace724ee22ae03785cff377/index.m3u8?|Referer=https://iplayer.is/",
+    "logo": "https://iili.io/BtCdabj.png",
+    "title": "CBS SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://sonymtmnew.akamaized.net/hls/live/2018457/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f3d8babfe642240de33671d45b1c1952-1792081800725",
+    "logo": "",
+    "title": "SonyLiv ",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.41/hls/ZKKKAAAAQA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "logo": "",
+    "title": "LOW SERVER",
     "type": "0"
   }
 ]

@@ -1,14 +1,37 @@
 [
   {
-    "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "title": "SportDigital Fussball",
+    "api": "a38ee3176e1f325d8e2225195f3f7bea:fd6a13f60f45af03b6e400f6b6d55722",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ltwy5n7eco/out/v1/32459ec7478747e0a48c2d6bcd31beba/1ec747fd-7646-45c9-bb7f-5ae1f29de4e6-cenc.mpd?aws_sessionId=d5b6f391-ccfb-445e-9dab-057f4f1abbd0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+    "title": "PARAMOUNT+ FHD",
     "type": "1"
   },
   {
-    "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "title": "PREMIERER BR",
+    "api": "ed59f2a2b2ba9771149b03b66a893ba7:5977784d16e815f27e300c64642a25b7",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kqscdnntow/out/v1/bdab973002a441e59ec79082d0492fb6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
+    "title": "VIX SPANISH FHD",
     "type": "1"
+  },
+  {
+    "api": "",
+    "link": "https://netanjahu.hls.st/t/123c6ce9233800bbc6b8053151d84f66/index.m3u8?|Referer=https://iplayer.is/",
+    "logo": "",
+    "title": "STAN SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://netanjahu.hls.st/t/2421ae91da56745bc5fef209cabafd87/index.m3u8?|Referer=https://iplayer.is/",
+    "logo": "https://iili.io/BtCdabj.png",
+    "title": "CBS SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.41/hls/ZKKK.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "logo": "",
+    "title": "LOW SERVER",
+    "type": "0"
   }
 ]

@@ -1,8 +1,44 @@
 [
   {
+    "api": "d5ea5f78ea996ad0a333f24924292141:b2af82725beb878c6ecbcb11336b8a03",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/nha57rtbrh/out/v1/82ee2603b5134ef3b30324104d5c22fc/38e2cd31-9cd3-4cb9-854d-43ef831104ae-cenc.mpd?aws_sessionId=958787d0-e2fa-4b7f-828d-59e975a2bfbf|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+    "title": "PARAMOUNT+ FHD",
+    "type": "1"
+  },
+  {
+    "api": "f8a9ae28d02e0f77b6aa6ebf5c188a14:6c569f2bb738098d8affc3694aaf2465",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xd5wxim36l/out/v1/59dc0639d2c44432bf89984131478749/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
+    "title": "VIX SPANISH FHD",
+    "type": "1"
+  },
+  {
     "api": "",
-    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+    "link": "https://live.vivo155.com/live/hd-en-1-4630510.m3u8?txSecret=1643a47d308bf5c9b3da8615c37ab036&txTime=6AD11459|Referer=https://player.online878.com/",
+    "logo": "",
     "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://netanjahu.hls.st/t/5f86bb2f5eed82a0d06685857238efe3/index.m3u8?|Referer=https://iplayer.is/",
+    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+    "title": "PARAMOUNT+ HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://netanjahu.hls.st/t/73cb82431eb1692efb8d34672992a41f/index.m3u8?|Referer=https://iplayer.is/",
+    "logo": "",
+    "title": "Ziggo Sports HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://sonymtmnew.akamaized.net/hls/live/2120300/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=da9bfc1437e18f6eb71969d1c817b3e4-1792080600614",
+    "logo": "",
+    "title": "SonyLiv ",
     "type": "0"
   }
 ]

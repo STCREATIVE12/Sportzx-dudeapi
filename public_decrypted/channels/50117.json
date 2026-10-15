@@ -1,9 +1,37 @@
 [
   {
+    "api": "f740b5a32df2989f3087aecf9d5c6758:45c8f801c71a17e2e671aca361f1a8a7",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/18xtynn3wf/out/v1/f934dfa08f52497080a35400fc2305d7/52f14a89-d739-42ee-b17d-7a78cd5fcd92-cenc.mpd?aws_sessionId=235b4eba-a8ae-484d-a1b7-632b2f9d99f2|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+    "title": "PARAMOUNT+ FHD",
+    "type": "1"
+  },
+  {
+    "api": "25e66b34d2e44ffec33fa0333cf65ded:be64ba039c84fadafe9b2b9bbc472281",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3jrnfwr0bh/out/v1/0243b44c809941c7a5e0132e783bab69/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
+    "title": "VIX SPANISH FHD",
+    "type": "1"
+  },
+  {
     "api": "",
-    "link": "http://193.47.62.56/hls/VRVRVRAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "link": "https://netanjahu.hls.st/t/5eb9d4e885d37d23dad0e91785c23503/index.m3u8?|Referer=https://iplayer.is/",
     "logo": "",
-    "title": "DUDE Tv Live",
+    "title": "STAN SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://netanjahu.hls.st/t/fd485be95a466e7bc2efd374810218ce/index.m3u8?|Referer=https://iplayer.is/",
+    "logo": "https://iili.io/BtCdabj.png",
+    "title": "CBS SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://sonymtmnew.akamaized.net/hls/live/2022317/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100430~acl=/*~id=58551604869972547514264274409293~hmac=dbc8e9d2455a250ad579e2ac6a7a02630a8fd1c60d87d31c71077d65dbf70ebd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f3d8babfe642240de33671d45b1c1952-1792081800725",
+    "logo": "",
+    "title": "SonyLiv ",
     "type": "0"
   }
 ]
