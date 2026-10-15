@@ -1,16 +1,8 @@
 [
   {
     "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4621538.m3u8?txSecret=68672f72ae79985c109a9ff0fe1adcd5&txTime=6ACF6386|Referer=https://player.online878.com/",
-    "logo": "",
+    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
     "title": "DUDE Tv Live",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://live2.jorvakstreamcache.com/live/channel11.m3u8",
-    "logo": "",
-    "title": "HD SERVER",
     "type": "0"
   }
 ]
