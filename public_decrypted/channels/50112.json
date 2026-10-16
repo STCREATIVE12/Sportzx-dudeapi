@@ -1,8 +1,72 @@
 [
   {
+    "api": "9627b967821c3549677b9810136acb1d:ac9d4b698a89b4daaad385b685afbe4c",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/nog2sn23e3/out/v1/fd6d4e0d99cb45eaabacbe7c03435a33/5479957c-5872-49c8-aa2b-9447bf3aacca-cenc.mpd?aws_sessionId=f3a452b9-eb4c-41c3-9058-7ffd2ebef022|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+    "title": "PARAMOUNT+ FHD",
+    "type": "1"
+  },
+  {
+    "api": "65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/av3vdyujhp/out/v1/aaaab12c95924d80a77f87f7c745782a/4c0d86bb-2182-4e54-aa05-dce463a932b3-cenc.mpd?aws_sessionId=81b9f879-2773-48d7-a167-e5c15d8f89bc|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "FUBO SPORTS FHD",
+    "type": "1"
+  },
+  {
     "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
     "title": "beIN ENGLISH FHD",
     "type": "1"
+  },
+  {
+    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+    "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+    "logo": "",
+    "title": "SPORT 1 CZ FHD",
+    "type": "1"
+  },
+  {
+    "api": "",
+    "link": "https://chatgpt.hereisman.net/playlist/58099/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "https://iili.io/BtCdabj.png",
+    "title": "CBS SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://live.vivo155.com/live/hd-en-1-4549168.m3u8?txSecret=04d088fb678c8985fdf106b43945f7a2&txTime=6AD28251|Referer=https://player.online878.com/",
+    "logo": "",
+    "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://edgestream3.pro/hls/syaLqucEne4k.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+    "logo": "",
+    "title": "HD QUALITY",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://www.rtmpcdn.com/live/7b537799-ef43-4c21-a96c-539ccd5c9faf.m3u8",
+    "logo": "",
+    "title": "HD SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.50/hls/8FFFFQ.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "logo": "",
+    "title": "SD SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://taifood-blog.asia/embed/seriea/2026-10-16/fro-sas",
+    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+    "title": "PARAMOUNT+ [FHD]",
+    "type": "2"
   }
 ]

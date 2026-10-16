@@ -2,7 +2,57 @@
   {
     "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
     "title": "beIN ENGLISH FHD",
     "type": "1"
+  },
+  {
+    "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+    "title": "FANCODE FHD",
+    "type": "1"
+  },
+  {
+    "api": "",
+    "link": "https://tedesco.formaturamaxi.com.br/dep.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "ESPN DEPORTES ES",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://live.vivo155.com/live/hd-en-1-4565452.m3u8?txSecret=276ac84a60f4d466029dfa9b99bd8f48&txTime=6AD28703|Referer=https://player.online878.com/",
+    "logo": "",
+    "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://edgestream5.pro/hls/377qj1h2727.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+    "logo": "",
+    "title": "ESPN DEPORTES HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://www.rtmpcdn.com/live/87930aa5-8315-4fa0-9cd1-b1b31944fe8c.m3u8",
+    "logo": "",
+    "title": "HD SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.50/hls/8FFFFQQQQQAA.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "logo": "",
+    "title": "SD SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://taifood-blog.asia/embed/laliga/2026-10-16/dep-lev",
+    "logo": "",
+    "title": "ESPN SPORTS [FHD]",
+    "type": "2"
   }
 ]
