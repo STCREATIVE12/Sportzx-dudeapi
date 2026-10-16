@@ -1407,6 +1407,34 @@
     ]
   },
   {
+    "id": 50085,
+    "title": "Australia W vs Bangladesh W",
+    "image": "o",
+    "cat": "Cricket",
+    "eventInfo": {
+      "teamA": "India Women",
+      "teamB": "Zimbabwe Women",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/213119/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/417062/image",
+      "eventName": "India W vs Zimbabwe W",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/16 13:30:00 +0000",
+      "endTime": "2026/10/16 17:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50090,
     "title": "Newcastle United vs Aston Villa",
     "image": "o",
