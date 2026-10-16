@@ -1,44 +1,8 @@
 [
   {
-    "api": "e14fab45a21379286ce780a18aafe7be:0eab122716a5f23e91fa90d63c4b0fdb",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xugqyjcakm/out/v1/5c4455c571ae467ca76c6b6ca0ad80f1/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
-    "title": "VIX SPANISH FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4630605.m3u8?txSecret=29a7413e94a6def44516cfd7ddc5b922&txTime=6AD1324A|Referer=https://player.online878.com/",
-    "logo": "",
+    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
     "title": "DUDE Tv Live",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://netanjahu.hls.st/t/4de3757f52f96bafde580b0383240162/index.m3u8?|Referer=https://iplayer24.me/",
-    "logo": "https://iili.io/BtCdabj.png",
-    "title": "CBS SPORTS HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://netanjahu.hls.st/t/1816c8ea9b3ac2c947ad192f5d79445a/index.m3u8?|Referer=https://iplayer24.me/",
-    "logo": "",
-    "title": "Ziggo Sports HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://www.rtmpcdn.com/live/d6f61259-c808-488a-940b-a34fb510b4b7.m3u8",
-    "logo": "",
-    "title": "HD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.50/hls/K333AAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-    "logo": "",
-    "title": "LOW SERVER",
     "type": "0"
   }
 ]
