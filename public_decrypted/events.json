@@ -230,6 +230,7 @@
       "PARAMOUNT+ HD",
       "UFC LIVE - AQ",
       "DUDE Tv Live FHD",
+      "SERVER 2 HD",
       "DUDE Tv LIVE",
       "PARAMOUNT+ [FHD]",
       "PARAMOUNT+ ES [FHD]",
@@ -252,6 +253,10 @@
       },
       {
         "title": "DUDE Tv Live FHD",
+        "logo": ""
+      },
+      {
+        "title": "SERVER 2 HD",
         "logo": ""
       },
       {
@@ -357,113 +362,6 @@
       },
       {
         "title": "BACKUP SD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50007,
-    "title": "Bangladesh vs Zimbabwe",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "BAN",
-      "teamB": "ZIM",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187745/image",
-      "eventName": "Bangladesh vs Zimbabwe",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/10/17 11:30:00 +0000",
-      "endTime": "2026/10/17 19:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD",
-      "FANCODE - FHD",
-      "WILLOW - ALT",
-      "TAPMAD - FHD",
-      "A SPORTS HD",
-      "T SPORTS HD",
-      "FANCODE - IN"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "FANCODE - FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "TAPMAD - FHD",
-        "logo": ""
-      },
-      {
-        "title": "A SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "T SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "FANCODE - IN",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      }
-    ]
-  },
-  {
-    "id": 50008,
-    "title": "India vs West Indies",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "IND",
-      "teamB": "WI",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
-      "eventName": "India vs West Indies",
-      "eventType": "null",
-      "eventBanner": "null",
-      "isHot": "1",
-      "startTime": "2026/10/17 15:45:00 +0000",
-      "endTime": "2026/10/17 19:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD",
-      "TNT SPORTS FHD",
-      "WILLOW - ALT",
-      "HOTSTAR IN (HIN)",
-      "HOTSTAR IN (ENG)"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "TNT SPORTS FHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "HOTSTAR IN (HIN)",
-        "logo": ""
-      },
-      {
-        "title": "HOTSTAR IN (ENG)",
         "logo": ""
       }
     ]
@@ -704,7 +602,8 @@
     "publish": "1",
     "formats": [
       "DAZN SPORTS HD 1",
-      "DAZN SPORTS HD 2"
+      "DAZN SPORTS HD 2",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
@@ -713,6 +612,10 @@
       },
       {
         "title": "DAZN SPORTS HD 2",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1545,140 +1448,6 @@
     ]
   },
   {
-    "id": 50090,
-    "title": "Newcastle United vs Aston Villa",
-    "image": "o",
-    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Newcastle",
-      "teamB": "Aston Villa",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/39/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
-      "eventName": "Newcastle United vs Aston Villa",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/17 16:30:00 +0000",
-      "endTime": "2026/10/17 18:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FUBO SPORTS FHD",
-      "NBC SPORTS FHD",
-      "NBC SPORTS HD",
-      "PEACOCK TV FHD",
-      "beIN SPORTS  HD",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "FUBO SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "NBC SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "NBC SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "PEACOCK TV FHD",
-        "logo": ""
-      },
-      {
-        "title": "beIN SPORTS  HD",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50091,
-    "title": "Roma vs Genoa",
-    "image": "o",
-    "cat": "Serie A 🇮🇹",
-    "eventInfo": {
-      "teamA": "Roma",
-      "teamB": "Genoa",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2702/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2713/image",
-      "eventName": "AS Roma vs Genoa",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/17 18:45:00 +0000",
-      "endTime": "2026/10/17 20:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "CBS NETWORK FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "CBS NETWORK FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50092,
-    "title": "Bayern München vs RB Leipzig",
-    "image": "o",
-    "cat": "Bundesliga 🇩🇪",
-    "eventInfo": {
-      "teamA": "Bayern",
-      "teamB": "Leipzig",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2672/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/36360/image",
-      "eventName": "Bayern München vs RB Leipzig",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/10/17 16:30:00 +0000",
-      "endTime": "2026/10/17 18:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "SporTV BR FHD",
-      "CAZE TV FHD",
-      "USA TV HD",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "SporTV BR FHD",
-        "logo": "https://iili.io/CFFRvqJ.png"
-      },
-      {
-        "title": "CAZE TV FHD",
-        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
-      },
-      {
-        "title": "USA TV HD",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50093,
     "title": "Valencia vs Athletic Club",
     "image": "o",
@@ -1698,7 +1467,10 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH FHD",
-      "CAZE TV FHD"
+      "FANCODE FHD",
+      "CAZE TV FHD",
+      "ESPN DEPORTES HD",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
@@ -1706,7 +1478,19 @@
         "logo": ""
       },
       {
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
         "title": "CAZE TV FHD",
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+      },
+      {
+        "title": "ESPN DEPORTES HD",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1922,7 +1706,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2817/image",
       "eventName": "Real Betis vs FC Barcelona",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/10/17 16:30:00 +0000",
       "endTime": "2026/10/17 18:35:00 +0000"
     },
@@ -2017,127 +1801,6 @@
     ]
   },
   {
-    "id": 50106,
-    "title": "Bologna vs Inter",
-    "image": "o",
-    "cat": "Serie A 🇮🇹",
-    "eventInfo": {
-      "teamA": "Bologna",
-      "teamB": "Inter",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2685/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2697/image",
-      "eventName": "Bologna vs Inter",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/10/17 16:00:00 +0000",
-      "endTime": "2026/10/17 18:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "FUBO SPORTS FHD",
-      "beIN ENGLISH FHD",
-      "CBS NETWORK FHD",
-      "PARAMOUNT+ HD",
-      "CBS SPORTS HD",
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "FUBO SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "CBS NETWORK FHD",
-        "logo": ""
-      },
-      {
-        "title": "PARAMOUNT+ HD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "CBS SPORTS HD",
-        "logo": "https://iili.io/BtCdabj.png"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50107,
-    "title": "Venezia vs SSC Napoli",
-    "image": "o",
-    "cat": "Serie A 🇮🇹",
-    "eventInfo": {
-      "teamA": "Venezia",
-      "teamB": "Napoli",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2688/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2714/image",
-      "eventName": "Venezia vs SSC Napoli",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/17 13:00:00 +0000",
-      "endTime": "2026/10/17 15:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "FUBO SPORTS FHD",
-      "beIN ENGLISH FHD",
-      "DAZN ITALIAN FHD",
-      "SPORT 1 CZ FHD",
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "FUBO SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "DAZN ITALIAN FHD",
-        "logo": ""
-      },
-      {
-        "title": "SPORT 1 CZ FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50108,
     "title": "Troyes vs RC Lens",
     "image": "o",
@@ -2156,11 +1819,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "Ligue1+ HD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "Ligue1+ HD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2184,11 +1862,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "beIN SPORTS FHD",
+      "beIN USA HD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
+        "title": "beIN SPORTS FHD",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
+      {
+        "title": "beIN USA HD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2245,10 +1943,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NHL HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2278,10 +1981,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NHL HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2349,39 +2057,6 @@
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50116,
-    "title": "Neom SC vs Al-Ettifaq",
-    "image": "o",
-    "cat": "Pro League 🇸🇦",
-    "eventInfo": {
-      "teamA": "Neom",
-      "teamB": "Al-Ettifaq",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/530631/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/34318/image",
-      "eventName": "Neom SC vs Al-Ettifaq",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/17 15:40:00 +0000",
-      "endTime": "2026/10/17 17:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2494,11 +2169,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportDigital Fussball"
+      "beIN ENGLISH FHD",
+      "SportDigital Fussball",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
+        "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
         "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -2583,6 +2268,64 @@
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50138,
+    "title": "AS Roma vs Genoa",
+    "image": "o",
+    "cat": "Serie A 🇮🇹",
+    "eventInfo": {
+      "teamA": "AS Roma",
+      "teamB": "Genoa",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2702/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2713/image",
+      "eventName": "AS Roma vs Genoa",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 18:45:00 +0000",
+      "endTime": "2026/10/17 20:50:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "PARAMOUNT+ FHD",
+      "FUBO SPORTS FHD",
+      "beIN ENGLISH FHD",
+      "CBS NETWORK",
+      "PARAMOUNT+ HD",
+      "DUDE Tv LIVE",
+      "SD SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "DUDE Tv LIVE",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
