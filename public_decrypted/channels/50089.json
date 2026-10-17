@@ -1,30 +1,23 @@
 [
   {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/58097/load-playlist?|Referer=https://gooz.aapmains.net",
-    "logo": "",
-    "title": "DUDE Tv NHL HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://loki.dulo.cc/play/GMn1KiUiC0qipIElAOWz_PxTtcBFixii/GugxR0x-7bTx30mF.m3u8",
-    "logo": "",
-    "title": "NHL LIVE FHD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://edgestream1.pro/hls/cwxvbnfghq60.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+    "link": "https://live.vivo155.com/live/sd-1-4553896.m3u8?txSecret=b7d23df0e1ce0b0a93f7b8cd7bd39b0b&txTime=6AD30816|Referer=https://player.online878.com/",
     "logo": "",
     "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://taifood-blog.asia/embed/nhl/2026-10-15/cgy-vgk",
+    "link": "https://la18hd.su/vivo/canales.php?stream=tudn",
     "logo": "",
-    "title": "NHL LIVE [FHD]",
+    "title": "TUDN MX HD",
+    "type": "2"
+  },
+  {
+    "api": "",
+    "link": "https://taifood-blog.asia/embed/liga-mx/2026-10-16/tij-pue",
+    "logo": "",
+    "title": "LIGAMX LIVE [FHD]",
     "type": "2"
   }
 ]

@@ -1,58 +1,14 @@
 [
   {
-    "api": "70c5f3b9085aa1dfe76ef1c27a46cefc:28792993cfe780dd19f1a6cbeec733f0",
-    "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/waut6pomqn/out/v1/67b53de8eb234de5984aca73705d67bf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "DAZN SPORTS FHD",
-    "type": "1"
-  },
-  {
-    "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://iili.io/CFFRvqJ.png",
-    "title": "SporTV BR FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://admin2.formaturamaxi.com.br/one.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "ONE SOCCER FHD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4566306.m3u8?txSecret=4f425a6ded943737d287331589513ac4&txTime=6AD2815F|Referer=https://player.online878.com/",
-    "logo": "",
+    "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
     "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://edgestream5.pro/hls/ueyeztrazb4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-    "logo": "",
-    "title": "HD QUALITY",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://www.rtmpcdn.com/live/c03a3e8b-ff7f-4afc-9d70-ef279a67849a.m3u8",
-    "logo": "",
-    "title": "HD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.59/hls/4HHHAAAA.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-    "logo": "",
-    "title": "SD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://taifood-blog.asia/embed/bundesliga/2026-10-16/sge-koe",
-    "logo": "",
-    "title": "USA SPORTS [FHD]",
+    "link": "https://taifood-blog.asia/embed/",
+    "title": "NHL LIVE [FHD]",
     "type": "2"
   }
 ]

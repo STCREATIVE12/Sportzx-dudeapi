@@ -775,7 +775,7 @@
   },
   {
     "id": 50007,
-    "title": "Afghanistan vs Bangladesh",
+    "title": "Bangladesh vs Zimbabwe",
     "image": "o",
     "cat": "Cricket",
     "eventInfo": {
@@ -786,8 +786,8 @@
       "eventName": "Bangladesh vs Zimbabwe",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/17 12:00:00 +0000",
-      "endTime": "2026/10/17 20:00:00 +0000"
+      "startTime": "2026/10/17 11:30:00 +0000",
+      "endTime": "2026/10/17 15:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1425,8 +1425,8 @@
       "eventName": "Cleveland Guardians vs Tampa Bay Rays",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/16 22:00:00 +0000",
-      "endTime": "2026/10/17 01:00:00 +0000"
+      "startTime": "2026/10/18 00:00:00 +0000",
+      "endTime": "2026/10/18 02:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1472,192 +1472,7 @@
         "type": "2"
       }
     ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50043,
-    "title": "Pistons vs Toronto Raptors",
-    "image": "o",
-    "cat": "NBA",
-    "eventInfo": {
-      "teamA": "Pistons",
-      "teamB": "Raptors",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3424/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3433/image",
-      "eventName": "Detroit Pistons vs Toronto Raptors",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/16 23:00:00 +0000",
-      "endTime": "2026/10/17 02:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "NBA LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NBA LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [],
-    "channel_status": "unavailable"
-  },
-  {
-    "id": 50044,
-    "title": "Pacers vs Milwaukee Bucks",
-    "image": "o",
-    "cat": "NBA",
-    "eventInfo": {
-      "teamA": "Pacers",
-      "teamB": "Bucks",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3419/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3410/image",
-      "eventName": "Indiana Pacers vs Milwaukee Bucks",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/16 23:00:00 +0000",
-      "endTime": "2026/10/17 02:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "NBA LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NBA LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://edgestream3.pro/hls/zayrtezafgvdv68.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://taifood-blog.asia/embed/nba/2026-10-16/mil-ind",
-        "logo": "",
-        "title": "NBA LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50048,
-    "title": "Orlando Magic vs Miami Heat",
-    "image": "o",
-    "cat": "NBA",
-    "eventInfo": {
-      "teamA": "Magic",
-      "teamB": "Heat",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3437/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3435/image",
-      "eventName": "Orlando Magic vs Miami Heat",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/16 23:00:00 +0000",
-      "endTime": "2026/10/17 02:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "NBA LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NBA LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://edgestream7.pro/hls/mlkijfezag65.m3u8??|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://taifood-blog.asia/embed/nba/2026-10-16/mia-orl",
-        "logo": "",
-        "title": "NBA LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50051,
-    "title": "76ers vs Boston Celtics",
-    "image": "o",
-    "cat": "NBA",
-    "eventInfo": {
-      "teamA": "76ers",
-      "teamB": "Celtics",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3420/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3422/image",
-      "eventName": "Philadelphia 76ers vs Boston Celtics",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/16 23:00:00 +0000",
-      "endTime": "2026/10/17 02:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "NBA LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NBA LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://edgestream7.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://taifood-blog.asia/embed/nba/2026-10-16/bos-phi",
-        "logo": "",
-        "title": "NBA LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50054,
@@ -1665,15 +1480,15 @@
     "image": "o",
     "cat": "CFL",
     "eventInfo": {
-      "teamA": "Ottawa",
-      "teamB": "Toronto",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4437/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4436/image",
-      "eventName": "Ottawa Redblacks vs Toronto Argonauts",
+      "teamA": "Saskatchewan",
+      "teamB": "Montréal",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4438/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4439/image",
+      "eventName": "Saskatchewan Roughriders vs Montreal Alouettes",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/16 23:00:00 +0000",
-      "endTime": "2026/10/17 02:00:00 +0000"
+      "startTime": "2026/10/17 19:00:00 +0000",
+      "endTime": "2026/10/17 22:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1716,325 +1531,6 @@
         "link": "https://taifood-blog.asia/embed/cfl/2026-10-16/tor-ott",
         "logo": "",
         "title": "CFL LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50055,
-    "title": "Chicago Bulls vs Timberwolves",
-    "image": "o",
-    "cat": "NBA",
-    "eventInfo": {
-      "teamA": "Bulls",
-      "teamB": "Timberwolves",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3409/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3426/image",
-      "eventName": "Chicago Bulls vs Minnesota Timberwolves",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/17 00:00:00 +0000",
-      "endTime": "2026/10/17 03:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv NBA HD",
-      "DUDE Tv Live",
-      "NBA LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv NBA HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NBA LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/58114/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv NBA HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream7.pro/hls/fdgsqdfawa73.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://taifood-blog.asia/embed/nba/2026-10-16/min-chi",
-        "logo": "",
-        "title": "NBA LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50056,
-    "title": "Mavericks vs Atlanta Hawks",
-    "image": "o",
-    "cat": "NBA",
-    "eventInfo": {
-      "teamA": "Mavericks",
-      "teamB": "Hawks",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3411/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3423/image",
-      "eventName": "Dallas Mavericks vs Atlanta Hawks",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/17 00:00:00 +0000",
-      "endTime": "2026/10/17 03:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "NBA LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NBA LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://edgestream7.pro/hls/zeafwqvhfe69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://taifood-blog.asia/embed/nba/2026-10-16/atl-dal",
-        "logo": "",
-        "title": "NBA LIVE [FHD]",
-        "type": "2"
-      },
-      {
-        "api": "YTdlZDhkNGExZmEyZWI0NzFhNmJlNTVmZTJkMmQyNDg6MDE0NWJlYzY4YmM0MWE4YTBiOTUzM3E0NG80NGQzOWM=",
-        "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9ursje3pdu/out/v1/b794975bb9304d08b362b47ed428f4f1/cenc.mpd",
-        "logo": "",
-        "title": "WILLOW FHD [Ad-Free]",
-        "type": "1"
-      },
-      {
-        "api": "YTdlZDhkNGExZmEyZWI0NzFhNmJlNTVmZTJkMmQyNDg6MDE0NWJlYzY4YmM0MWE4YTBiOTUzM3E0NG80NGQzOWM=",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9ursje3pdu/out/v1/b794975bb9304d08b362b47ed428f4f1/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW FHD",
-        "type": "1"
-      },
-      {
-        "api": "MDg0YmVlNzA3NDk3OTk2MTU4ZTRlYzZkOWNhZDQwZTQ6MmViOTgwNzFiZjhjMDA2ZWY4YjVhNXU4Nz41MWQ4NDM=",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/cfv0fqo8qr/out/v1/8e02e7de7e9245c4b54f304c1159878d/cenc-sd.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW SD",
-        "type": "1"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50058,
-    "title": "Grizzlies vs Charlotte Hornets",
-    "image": "o",
-    "cat": "NBA",
-    "eventInfo": {
-      "teamA": "Grizzlies",
-      "teamB": "Hornets",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3415/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3430/image",
-      "eventName": "Memphis Grizzlies vs Charlotte Hornets",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/17 00:00:00 +0000",
-      "endTime": "2026/10/17 03:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv NBA HD",
-      "DUDE Tv Live",
-      "NBA LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv NBA HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NBA LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/58111/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv NBA HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream2.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://taifood-blog.asia/embed/nba/2026-10-16/cha-mem",
-        "logo": "",
-        "title": "NBA LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50059,
-    "title": "Pelicans vs Washington Wizards",
-    "image": "o",
-    "cat": "NBA",
-    "eventInfo": {
-      "teamA": "Pelicans",
-      "teamB": "Wizards",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5539/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3431/image",
-      "eventName": "New Orleans Pelicans vs Washington Wizards",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/17 00:00:00 +0000",
-      "endTime": "2026/10/17 03:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv NBA HD",
-      "DUDE Tv Live",
-      "NBA LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv NBA HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NBA LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/58116/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv NBA HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream6.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://taifood-blog.asia/embed/nba/2026-10-16/wsh-no",
-        "logo": "",
-        "title": "NBA LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50060,
-    "title": "Spurs vs Sacramento Kings",
-    "image": "o",
-    "cat": "NBA",
-    "eventInfo": {
-      "teamA": "Spurs",
-      "teamB": "Kings",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3429/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3413/image",
-      "eventName": "San Antonio Spurs vs Sacramento Kings",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/17 00:00:00 +0000",
-      "endTime": "2026/10/17 03:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv NBA HD",
-      "DUDE Tv Live",
-      "NBA LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv NBA HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NBA LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/58115/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv NBA HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream7.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://taifood-blog.asia/embed/nba/2026-10-16/sac-sa",
-        "logo": "",
-        "title": "NBA LIVE [FHD]",
         "type": "2"
       }
     ],
@@ -2600,7 +2096,7 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv NBA HD",
+      "DUDE Tv NBA FHD",
       "ESPN SPORTS HD",
       "NBA LIVE HD",
       "DUDE Tv Live",
@@ -2608,7 +2104,7 @@
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv NBA HD",
+        "title": "DUDE Tv NBA FHD",
         "logo": ""
       },
       {
@@ -2631,9 +2127,9 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/58126/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://raventheory.s3.us-east-1.amazonaws.com/lakers.m3u8",
         "logo": "",
-        "title": "DUDE Tv NBA HD",
+        "title": "DUDE Tv NBA FHD",
         "type": "0"
       },
       {
@@ -2686,10 +2182,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "Azteca 7 HD",
       "LIGAMX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "Azteca 7 HD",
         "logo": ""
@@ -2700,6 +2201,13 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://live.vivo155.com/live/sd-1-4553895.m3u8?txSecret=29a57e326dbe12dbe9b960dbb06f1e0c&txTime=6AD307F0|Referer=https://player.online878.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://la18hd.su/vivo/canales.php?stream=azteca7",
@@ -2916,20 +2424,420 @@
     "channel_status": "live"
   },
   {
+    "id": 50077,
+    "title": "Detroit Red Wings vs Sharks",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Red Wings",
+      "teamB": "Sharks",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3685/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3696/image",
+      "eventName": "Detroit Red Wings vs San Jose Sharks",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 23:00:00 +0000",
+      "endTime": "2026/10/18 02:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream3.pro/hls/hjksgdfauzy51.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/nhl/2026-10-15/nyi-ott",
+        "logo": "",
+        "title": "NHL LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50078,
+    "title": "Canadiens vs Buffalo Sabres",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Canadiens",
+      "teamB": "Sabres",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3690/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3678/image",
+      "eventName": "Montréal Canadiens vs Buffalo Sabres",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 23:00:00 +0000",
+      "endTime": "2026/10/18 02:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream5.pro/hls/lmdsjkfgv52.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/nhl/2026-10-15/sea-tb",
+        "logo": "",
+        "title": "NHL LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50079,
+    "title": "Flyers vs Ottawa Senators",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Flyers",
+      "teamB": "Senators",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3699/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3700/image",
+      "eventName": "Philadelphia Flyers vs Ottawa Senators",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 23:00:00 +0000",
+      "endTime": "2026/10/18 02:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream3.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/nhl/2026-10-15/buf-tor",
+        "logo": "",
+        "title": "NHL LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50080,
+    "title": "Maple Leafs vs Islanders",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Maple Leafs",
+      "teamB": "Islanders",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3693/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3703/image",
+      "eventName": "Toronto Maple Leafs vs New York Islanders",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 23:00:00 +0000",
+      "endTime": "2026/10/18 02:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream3.pro/hls/sdezqfza55.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/nhl/2026-10-15/phi-det",
+        "logo": "",
+        "title": "NHL LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50081,
+    "title": "Nashville Predators vs Blues",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Predators",
+      "teamB": "Blues",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3705/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3695/image",
+      "eventName": "Nashville Predators vs St. Louis Blues",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/18 00:00:00 +0000",
+      "endTime": "2026/10/18 03:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream7.pro/hls/poiryezafv56.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/nhl/2026-10-15/wpg-chi",
+        "logo": "",
+        "title": "NHL LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50082,
+    "title": "Kings vs Boston Bruins",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Kings",
+      "teamB": "Bruins",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3688/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3677/image",
+      "eventName": "Los Angeles Kings vs Boston Bruins",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/18 01:00:00 +0000",
+      "endTime": "2026/10/18 04:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream5.pro/hls/earzfddshg58.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/nhl/2026-10-15/stl-min",
+        "logo": "",
+        "title": "NHL LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50083,
+    "title": "Mammoth vs Edmonton Oilers",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Mammoth",
+      "teamB": "Oilers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/530472/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3686/image",
+      "eventName": "Utah Mammoth vs Edmonton Oilers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/18 02:00:00 +0000",
+      "endTime": "2026/10/18 05:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream3.pro/hls/rzavbdyua57.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/nhl/2026-10-15/sj-nsh",
+        "logo": "",
+        "title": "NHL LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50084,
+    "title": "Knights vs Pittsburgh Penguins",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Golden Knights",
+      "teamB": "Penguins",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3697/image",
+      "eventName": "Vegas Golden Knights vs Pittsburgh Penguins",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/18 02:00:00 +0000",
+      "endTime": "2026/10/18 05:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream3.pro/hls/bvnzadfvyt59.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/nhl/2026-10-15/uta-edm",
+        "logo": "",
+        "title": "NHL LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
     "id": 50085,
-    "title": "Australia W vs Bangladesh W",
+    "title": "India W vs Zimbabwe W",
     "image": "o",
     "cat": "Cricket",
     "eventInfo": {
-      "teamA": "India Women",
-      "teamB": "Zimbabwe Women",
+      "teamA": "IND-W",
+      "teamB": "ZIM-W",
       "teamAFlag": "https://img.sofascore.com/api/v1/team/213119/image",
       "teamBFlag": "https://img.sofascore.com/api/v1/team/417062/image",
-      "eventName": "India W vs Zimbabwe W",
+      "eventName": "India Women vs Zimbabwe Women",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/16 13:30:00 +0000",
-      "endTime": "2026/10/16 17:15:00 +0000"
+      "startTime": "2026/10/18 13:30:00 +0000",
+      "endTime": "2026/10/18 17:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -3051,52 +2959,114 @@
   },
   {
     "id": 50086,
-    "title": "Mirassol vs Internacional",
+    "title": "Atlético Mineiro vs Coritiba",
     "image": "o",
     "cat": "Brasileirão",
     "eventInfo": {
-      "teamA": "Mirassol",
-      "teamB": "Internacional",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/21982/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1966/image",
-      "eventName": "Mirassol vs Internacional",
+      "teamA": "Atlético-MG",
+      "teamB": "Coritiba",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1977/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1982/image",
+      "eventName": "Atlético Mineiro vs Coritiba",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/16 23:00:00 +0000",
-      "endTime": "2026/10/17 01:05:00 +0000"
+      "startTime": "2026/10/17 21:30:00 +0000",
+      "endTime": "2026/10/17 23:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIERER BR"
+      "SportDigital Fussball"
     ],
     "formatsNew": [
       {
-        "title": "PREMIERER BR",
+        "title": "SportDigital Fussball",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "beIN ENGLISH FHD",
-        "type": "1"
-      },
-      {
         "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "title": "SportDigital Fussball",
         "type": "1"
-      },
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50087,
+    "title": "Athletico vs Palmeiras",
+    "image": "o",
+    "cat": "Brasileirão",
+    "eventInfo": {
+      "teamA": "Athletico",
+      "teamB": "Palmeiras",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1967/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1963/image",
+      "eventName": "Athletico vs Palmeiras",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 22:30:00 +0000",
+      "endTime": "2026/10/18 00:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
       {
-        "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "CAZE TV FHD",
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50088,
+    "title": "São Paulo vs Vasco da Gama",
+    "image": "o",
+    "cat": "Brasileirão",
+    "eventInfo": {
+      "teamA": "São Paulo",
+      "teamB": "Vasco",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1981/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1974/image",
+      "eventName": "São Paulo vs Vasco da Gama",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/18 00:00:00 +0000",
+      "endTime": "2026/10/18 02:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SporTV BR FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "SporTV BR FHD",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "SporTV BR FHD",
         "type": "1"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50089,
@@ -3117,10 +3087,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "TUDN MX HD",
       "LIGAMX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "TUDN MX HD",
         "logo": ""
@@ -3133,34 +3108,27 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/58097/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv NHL HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://loki.dulo.cc/play/GMn1KiUiC0qipIElAOWz_PxTtcBFixii/GugxR0x-7bTx30mF.m3u8",
-        "logo": "",
-        "title": "NHL LIVE FHD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream1.pro/hls/cwxvbnfghq60.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://live.vivo155.com/live/sd-1-4553896.m3u8?txSecret=b7d23df0e1ce0b0a93f7b8cd7bd39b0b&txTime=6AD30816|Referer=https://player.online878.com/",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://taifood-blog.asia/embed/nhl/2026-10-15/cgy-vgk",
+        "link": "https://la18hd.su/vivo/canales.php?stream=tudn",
         "logo": "",
-        "title": "NHL LIVE [FHD]",
+        "title": "TUDN MX HD",
+        "type": "2"
+      },
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/liga-mx/2026-10-16/tij-pue",
+        "logo": "",
+        "title": "LIGAMX LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50090,
@@ -3606,30 +3574,30 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CAZE TV FHD",
-      "D Sports FHD"
+      "D Sports FHD",
+      "CAZE TV FHD"
     ],
     "formatsNew": [
       {
-        "title": "CAZE TV FHD",
+        "title": "D Sports FHD",
         "logo": ""
       },
       {
-        "title": "D Sports FHD",
+        "title": "CAZE TV FHD",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "CAZE TV FHD",
-        "type": "1"
-      },
-      {
         "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
         "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "title": "D Sports FHD",
+        "type": "1"
+      },
+      {
+        "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "CAZE TV FHD",
         "type": "1"
       }
     ],
@@ -4144,5 +4112,1335 @@
       }
     ],
     "channel_status": "cached"
+  },
+  {
+    "id": 50111,
+    "title": "Washington Capitals vs Devils",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Capitals",
+      "teamB": "Devils",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3691/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3704/image",
+      "eventName": "Washington Capitals vs New Jersey Devils",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 17:00:00 +0000",
+      "endTime": "2026/10/17 20:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "beIN ENGLISH FHD",
+        "type": "1"
+      },
+      {
+        "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+        "title": "FANCODE FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://tedesco.formaturamaxi.com.br/dep.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "ESPN DEPORTES ES",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo155.com/live/hd-en-1-4565452.m3u8?txSecret=276ac84a60f4d466029dfa9b99bd8f48&txTime=6AD28703|Referer=https://player.online878.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream5.pro/hls/377qj1h2727.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+        "logo": "",
+        "title": "ESPN DEPORTES HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://www.rtmpcdn.com/live/87930aa5-8315-4fa0-9cd1-b1b31944fe8c.m3u8",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.50/hls/8FFFFQQQQQAA.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/laliga/2026-10-16/dep-lev",
+        "logo": "",
+        "title": "ESPN SPORTS [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50112,
+    "title": "Winnipeg Jets vs Hurricanes",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Jets",
+      "teamB": "Hurricanes",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3676/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3680/image",
+      "eventName": "Winnipeg Jets vs Carolina Hurricanes",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 19:30:00 +0000",
+      "endTime": "2026/10/17 21:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/",
+        "title": "NHL LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50113,
+    "title": "Lightning vs Vancouver Canucks",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Lightning",
+      "teamB": "Canucks",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3694/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3692/image",
+      "eventName": "Tampa Bay Lightning vs Vancouver Canucks",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 20:00:00 +0000",
+      "endTime": "2026/10/17 23:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/",
+        "title": "NHL LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50114,
+    "title": "Florida Panthers vs Seattle Kraken",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Panthers",
+      "teamB": "Kraken",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3687/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/381707/image",
+      "eventName": "Florida Panthers vs Seattle Kraken",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 22:00:00 +0000",
+      "endTime": "2026/10/18 01:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://taifood-blog.asia/embed/",
+        "title": "NHL LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50115,
+    "title": "Diriyah vs Al-Taawoun",
+    "image": "o",
+    "cat": "Pro League 🇸🇦",
+    "eventInfo": {
+      "teamA": "Diriyah",
+      "teamB": "Al-Taawoun",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/853574/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/56021/image",
+      "eventName": "Diriyah vs Al-Taawoun",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 18:00:00 +0000",
+      "endTime": "2026/10/17 20:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50116,
+    "title": "Neom SC vs Al-Ettifaq",
+    "image": "o",
+    "cat": "Pro League 🇸🇦",
+    "eventInfo": {
+      "teamA": "Neom",
+      "teamB": "Al-Ettifaq",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/530631/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/34318/image",
+      "eventName": "Neom SC vs Al-Ettifaq",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 15:40:00 +0000",
+      "endTime": "2026/10/17 17:40:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "http://193.47.62.50/hls/OFFFA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "logo": "",
+        "title": "LOW SERVER",
+        "type": "0"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50117,
+    "title": "Sparta vs Willem II",
+    "image": "o",
+    "cat": "Eredivisie",
+    "eventInfo": {
+      "teamA": "Sparta",
+      "teamB": "Willem II",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2960/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2961/image",
+      "eventName": "Sparta Rotterdam vs Willem II",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 19:00:00 +0000",
+      "endTime": "2026/10/17 21:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "0563f2857c173db926d725a3931b42d9:68fd4264256fc4c82741d8579f0b5bb3",
+        "link": "https://otte.cache.aiv-cdn.net/fra-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/cwjzreokxe/out/v1/02fcd3a8a15d4662898373a1f48dc829/938347e1-2cc7-452e-b81d-5a5bfa4d2f6d-cenc.mpd?aws_sessionId=6d076f08-4059-4fac-98e7-1aaeaceed12f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+        "title": "PARAMOUNT+ FHD",
+        "type": "1"
+      },
+      {
+        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "beIN ENGLISH FHD",
+        "type": "1"
+      },
+      {
+        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "CBS NETWORK FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/58100/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+        "title": "PARAMOUNT+ HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo155.com/live/sd-1-4563626.m3u8?txSecret=caf96a33182a8f30fcc9498c4456fc03&txTime=6AD28764|Referer=https://player.online878.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream3.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.50/hls/8FFFFQQQQQAAA.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50118,
+    "title": "Telstar vs Feyenoord",
+    "image": "o",
+    "cat": "Eredivisie",
+    "eventInfo": {
+      "teamA": "Telstar",
+      "teamB": "Feyenoord",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2972/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2959/image",
+      "eventName": "SC Telstar vs Feyenoord",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 18:00:00 +0000",
+      "endTime": "2026/10/17 20:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://live.vivo155.com/live/sd-1-4567318.m3u8?txSecret=d4cb67d183d971eee237000e8528d468&txTime=6AD2803C|Referer=https://player.online878.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://www.rtmpcdn.com/live/87930aa5-8315-4fa0-9cd1-b1b31944fe8c.m3u8",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.50/hls/8FFFFQQQQQAA.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50119,
+    "title": "ADO vs PSV Eindhoven",
+    "image": "o",
+    "cat": "Eredivisie",
+    "eventInfo": {
+      "teamA": "ADO",
+      "teamB": "PSV",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2966/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2952/image",
+      "eventName": "ADO vs PSV Eindhoven",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 14:30:00 +0000",
+      "endTime": "2026/10/17 16:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportDigital Fussball"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportDigital Fussball",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "SportDigital Fussball",
+        "type": "1"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50120,
+    "title": "Fenerbahçe vs Alanyaspor",
+    "image": "o",
+    "cat": "Super Lig",
+    "eventInfo": {
+      "teamA": "Fenerbahçe",
+      "teamB": "Alanyaspor",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3052/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/6362/image",
+      "eventName": "Fenerbahçe vs Alanyaspor",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 16:00:00 +0000",
+      "endTime": "2026/10/17 18:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50121,
+    "title": "Gençlerbirliği vs Galatasaray",
+    "image": "o",
+    "cat": "Super Lig",
+    "eventInfo": {
+      "teamA": "Gençlerbirliği",
+      "teamB": "Galatasaray",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/7802/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3061/image",
+      "eventName": "Gençlerbirliği vs Galatasaray",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 13:00:00 +0000",
+      "endTime": "2026/10/17 15:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50122,
+    "title": "Amed vs Konyaspor",
+    "image": "o",
+    "cat": "Super Lig",
+    "eventInfo": {
+      "teamA": "Amed",
+      "teamB": "Konyaspor",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/207011/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3085/image",
+      "eventName": "Amed vs Konyaspor",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 13:00:00 +0000",
+      "endTime": "2026/10/17 15:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50123,
+    "title": "Erzurumspor vs Eyüpspor",
+    "image": "o",
+    "cat": "Super Lig",
+    "eventInfo": {
+      "teamA": "Erzurumspor",
+      "teamB": "Eyüpspor",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/55603/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/7040/image",
+      "eventName": "Erzurumspor vs Eyüpspor",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 10:30:00 +0000",
+      "endTime": "2026/10/17 12:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50124,
+    "title": "Dundee vs Rangers",
+    "image": "o",
+    "cat": "Scottish Premiership",
+    "eventInfo": {
+      "teamA": "Dundee",
+      "teamB": "Rangers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2357/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2351/image",
+      "eventName": "Dundee FC vs Rangers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 19:00:00 +0000",
+      "endTime": "2026/10/17 21:06:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportDigital Fussball"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportDigital Fussball",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "SportDigital Fussball",
+        "type": "1"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50125,
+    "title": "Norwich City vs Portsmouth",
+    "image": "o",
+    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventInfo": {
+      "teamA": "Norwich",
+      "teamB": "Portsmouth",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/263/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2/image",
+      "eventName": "Norwich City vs Portsmouth",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 14:00:00 +0000",
+      "endTime": "2026/10/17 16:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN ENGLISH FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "beIN ENGLISH FHD",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "beIN ENGLISH FHD",
+        "type": "1"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50126,
+    "title": "Southampton vs Bolton",
+    "image": "o",
+    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventInfo": {
+      "teamA": "Southampton",
+      "teamB": "Bolton",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/45/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5/image",
+      "eventName": "Southampton vs Bolton Wanderers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 14:00:00 +0000",
+      "endTime": "2026/10/17 16:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "CBS NETWORK"
+    ],
+    "formatsNew": [
+      {
+        "title": "CBS NETWORK",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "CBS NETWORK",
+        "type": "1"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50127,
+    "title": "Wrexham vs Preston",
+    "image": "o",
+    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventInfo": {
+      "teamA": "Wrexham",
+      "teamB": "Preston",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/64/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/21/image",
+      "eventName": "Wrexham vs Preston North End",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 14:00:00 +0000",
+      "endTime": "2026/10/17 16:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://live.vivo155.com/live/sd-1-4599617.m3u8?txSecret=892932680a58d62db3e60d593993e224&txTime=6AD0FA8F|Referer=https://player.online878.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50128,
+    "title": "Swansea City vs West Ham",
+    "image": "o",
+    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventInfo": {
+      "teamA": "Swansea",
+      "teamB": "West Ham",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/74/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image",
+      "eventName": "Swansea City vs West Ham United",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 14:00:00 +0000",
+      "endTime": "2026/10/17 16:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50129,
+    "title": "Bristol City vs Sheffield United",
+    "image": "o",
+    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventInfo": {
+      "teamA": "Bristol City",
+      "teamB": "Sheffield Utd",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/58/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/15/image",
+      "eventName": "Bristol City vs Sheffield United",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 14:00:00 +0000",
+      "endTime": "2026/10/17 16:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://live.vivo155.com/live/hd-en-1-4621372.m3u8?txSecret=d9c874ff63052c2b83d688feef33e72e&txTime=6AD0B567|Referer=https://player.online878.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live2.jorvakstreamcache.com/live/channel19.m3u8",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50130,
+    "title": "Watford vs Charlton Athletic",
+    "image": "o",
+    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventInfo": {
+      "teamA": "Watford",
+      "teamB": "Charlton",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/24/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/47/image",
+      "eventName": "Watford vs Charlton Athletic",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 11:30:00 +0000",
+      "endTime": "2026/10/17 13:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN ENGLISH FHD",
+      "CBS NETWORK"
+    ],
+    "formatsNew": [
+      {
+        "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "CBS NETWORK",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "beIN ENGLISH FHD",
+        "type": "1"
+      },
+      {
+        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "CBS NETWORK",
+        "type": "1"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50131,
+    "title": "Middlesbrough vs Cardiff City",
+    "image": "o",
+    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventInfo": {
+      "teamA": "Middlesbrough",
+      "teamB": "Cardiff",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/36/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/61/image",
+      "eventName": "Middlesbrough vs Cardiff City",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 11:30:00 +0000",
+      "endTime": "2026/10/17 13:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50132,
+    "title": "Millwall vs Lincoln City",
+    "image": "o",
+    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventInfo": {
+      "teamA": "Millwall",
+      "teamB": "Lincoln",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/25/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/92/image",
+      "eventName": "Millwall vs Lincoln City",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 11:30:00 +0000",
+      "endTime": "2026/10/17 13:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "http://193.47.62.59/hls/B666.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "logo": "",
+        "title": "LOW SERVER",
+        "type": "0"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50133,
+    "title": "Las Palmas vs CD Castellón",
+    "image": "o",
+    "cat": "LaLiga 2",
+    "eventInfo": {
+      "teamA": "Las Palmas",
+      "teamB": "Castellón",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/6577/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5067/image",
+      "eventName": "UD Las Palmas vs CD Castellón",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 19:00:00 +0000",
+      "endTime": "2026/10/17 21:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "http://193.47.62.59/hls/B666AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+        "logo": "",
+        "title": "LOW SERVER",
+        "type": "0"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50134,
+    "title": "Sporting vs Albacete",
+    "image": "o",
+    "cat": "LaLiga 2",
+    "eventInfo": {
+      "teamA": "Sporting",
+      "teamB": "Albacete",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2852/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2848/image",
+      "eventName": "Sporting vs Albacete Balompié",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 16:30:00 +0000",
+      "endTime": "2026/10/17 18:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "beIN ENGLISH FHD",
+        "type": "1"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50135,
+    "title": "Eibar vs Mallorca",
+    "image": "o",
+    "cat": "LaLiga 2",
+    "eventInfo": {
+      "teamA": "Eibar",
+      "teamB": "Mallorca",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2839/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2826/image",
+      "eventName": "Eibar vs Mallorca",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 14:15:00 +0000",
+      "endTime": "2026/10/17 16:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50136,
+    "title": "Real Sociedad B vs Almería",
+    "image": "o",
+    "cat": "LaLiga 2",
+    "eventInfo": {
+      "teamA": "Real Sociedad B",
+      "teamB": "Almería",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/24360/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2858/image",
+      "eventName": "Real Sociedad B vs Almería",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 12:00:00 +0000",
+      "endTime": "2026/10/17 14:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50137,
+    "title": "Hannover 96 vs St. Pauli",
+    "image": "o",
+    "cat": "2. Bundesliga",
+    "eventInfo": {
+      "teamA": "Hannover",
+      "teamB": "St. Pauli",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2541/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2526/image",
+      "eventName": "Hannover 96 vs St. Pauli",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 18:30:00 +0000",
+      "endTime": "2026/10/17 20:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50138,
+    "title": "Wolfsburg vs Heidenheim",
+    "image": "o",
+    "cat": "2. Bundesliga",
+    "eventInfo": {
+      "teamA": "Wolfsburg",
+      "teamB": "Heidenheim",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2524/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5885/image",
+      "eventName": "Wolfsburg vs Heidenheim",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 11:00:00 +0000",
+      "endTime": "2026/10/17 13:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "http://193.47.62.59/hls/KTTTVAQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "LOW SERVER",
+        "type": "0"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50139,
+    "title": "Kaiserslautern vs Bochum",
+    "image": "o",
+    "cat": "2. Bundesliga",
+    "eventInfo": {
+      "teamA": "Kaiserslautern",
+      "teamB": "Bochum",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2675/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2542/image",
+      "eventName": "Kaiserslautern vs Bochum",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 11:00:00 +0000",
+      "endTime": "2026/10/17 13:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50140,
+    "title": "Greuther Fürth vs Braunschweig",
+    "image": "o",
+    "cat": "2. Bundesliga",
+    "eventInfo": {
+      "teamA": "Fürth",
+      "teamB": "Braunschweig",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2551/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2557/image",
+      "eventName": "Greuther Fürth vs Braunschweig",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 11:00:00 +0000",
+      "endTime": "2026/10/17 13:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50141,
+    "title": "Canada vs Nepal",
+    "image": "o",
+    "cat": "ICC CWC Challenge",
+    "eventInfo": {
+      "teamA": "CAN",
+      "teamB": "NEP",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/189195/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187772/image",
+      "eventName": "Canada vs Nepal",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/17 05:30:00 +0000",
+      "endTime": "2026/10/17 13:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "ICC TV - FHD",
+      "ICC TV - ALT"
+    ],
+    "formatsNew": [
+      {
+        "title": "ICC TV - FHD",
+        "logo": "https://m.media-amazon.com/images/I/31F7ropt9OL.png"
+      },
+      {
+        "title": "ICC TV - ALT",
+        "logo": "https://m.media-amazon.com/images/I/31F7ropt9OL.png"
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+        "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792242011~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=ac4c9d8b443780294b7557bdddccaff13a3ddf2e7355eab11e0e405277d3b3e5/manifest.mpd?vcfilter=ad10685a-90e7-4006-bc71-2d7eef2d7b2a&|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A157.0)%20Gecko%2F20100101%20Firefox%2F157.0&Referer=https%3A%2F%2Fwww.icc-cricket.com%2F&Origin=https%3A%2F%2Fwww.icc-cricket.com",
+        "logo": "https://m.media-amazon.com/images/I/31F7ropt9OL.png",
+        "title": "ICC TV - FHD",
+        "type": "1"
+      },
+      {
+        "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+        "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1792242007~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=326c543f04bc5d1f63e8119fc1b0a0aea342f1a2b9d805d3e68d02f0a1274a12/manifest.mpd?vcfilter=e747806c-2d6c-47f9-adf5-40e9f734a8a8&|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A157.0)%20Gecko%2F20100101%20Firefox%2F157.0&Referer=https%3A%2F%2Fwww.icc-cricket.com%2F&Origin=https%3A%2F%2Fwww.icc-cricket.com",
+        "logo": "https://m.media-amazon.com/images/I/31F7ropt9OL.png",
+        "title": "ICC TV - ALT",
+        "type": "1"
+      }
+    ],
+    "channel_status": "live"
   }
 ]

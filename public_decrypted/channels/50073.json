@@ -1,6 +1,13 @@
 [
   {
     "api": "",
+    "link": "https://live.vivo155.com/live/sd-1-4553895.m3u8?txSecret=29a57e326dbe12dbe9b960dbb06f1e0c&txTime=6AD307F0|Referer=https://player.online878.com/",
+    "logo": "",
+    "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
     "link": "https://la18hd.su/vivo/canales.php?stream=azteca7",
     "logo": "",
     "title": "Azteca 7 HD",

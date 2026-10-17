@@ -1,58 +1,14 @@
 [
   {
-    "api": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
-    "link": "https://otte.cache.aiv-cdn.net/fra-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/efdc5ao9t9/out/v1/7763c905a97d486ea1e9c36deb017e25/03c46c13-dcc2-4277-afcf-f7c6d03e99d2-cenc.mpd?aws_sessionId=8eabf345-fcf7-4c03-90b2-58473b92726a|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-    "title": "beIN SPORTS FHD",
-    "type": "1"
-  },
-  {
-    "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
-    "title": "CAZE TV FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://tedesco.formaturamaxi.com.br/beines.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "beIN ESPANOL HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4550898.m3u8?txSecret=af74616186573dbe4c3aceacbb2d25d2&txTime=6AD282C0|Referer=https://player.online878.com/",
-    "logo": "",
+    "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
     "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://edgestream7.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-    "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-    "title": "beIN SPORTS USA",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://www.rtmpcdn.com/live/74dfa1a3-987b-4808-9b36-8a8264bfa777.m3u8",
-    "logo": "",
-    "title": "HD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.50/hls/8FFFFQQ.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-    "logo": "",
-    "title": "SD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://taifood-blog.asia/embed/ligue1/2026-10-16/mns-tou",
-    "logo": "",
-    "title": "Ligue1+ FR [FHD]",
+    "link": "https://taifood-blog.asia/embed/",
+    "title": "NHL LIVE [FHD]",
     "type": "2"
   }
 ]
