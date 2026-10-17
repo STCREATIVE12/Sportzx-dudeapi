@@ -1,8 +1,44 @@
 [
   {
+    "api": "7b2a8afa67f06650b9d028fdc736d5a3:c5b0e391f58745da53e4536e4ef9c68a",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ma8zhr9mwn/out/v1/959c0e797f864fd5a2acfbf924cca5c2/a95aabc5-59b9-413d-8c6a-728b0b009335-cenc.mpd?aws_sessionId=8c21d67b-4c33-498e-916a-cb3f6470fff6|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "FUBO SPORTS FHD",
+    "type": "1"
+  },
+  {
     "api": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
     "title": "NBC SPORTS FHD",
     "type": "1"
+  },
+  {
+    "api": "",
+    "link": "https://chatgpt.hereisman.net/playlist/58156/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "NBC SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://echocartel.s3.us-east-1.amazonaws.com/newcastle.m3u8",
+    "logo": "",
+    "title": "PEACOCK TV FHD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://cdn-v2.gamhed.online/hls/arena8x-2a.m3u8?|Referer=https://www.arena8x.live/",
+    "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+    "title": "beIN SPORTS  HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.41/hls/TKKKQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "logo": "",
+    "title": "SD SERVER",
+    "type": "0"
   }
 ]
