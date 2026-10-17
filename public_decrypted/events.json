@@ -378,39 +378,24 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/187745/image",
       "eventName": "Bangladesh vs Zimbabwe",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/17 11:30:00 +0000",
       "endTime": "2026/10/17 15:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - FHD",
-      "WILLOW - ALT",
-      "TAPMAD - FHD",
-      "T SPORTS HD",
       "A SPORTS HD",
+      "T SPORTS HD",
       "FANCODE - IN"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "TAPMAD - FHD",
+        "title": "A SPORTS HD",
         "logo": ""
       },
       {
         "title": "T SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "A SPORTS HD",
         "logo": ""
       },
       {
@@ -770,54 +755,6 @@
     ]
   },
   {
-    "id": 50061,
-    "title": "Warriors vs Trail Blazers",
-    "image": "o",
-    "cat": "NBA",
-    "eventInfo": {
-      "teamA": "Warriors",
-      "teamB": "Trail Blazers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3428/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3414/image",
-      "eventName": "Golden State Warriors vs Trail Blazers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/17 02:00:00 +0000",
-      "endTime": "2026/10/17 05:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv NBA HD",
-      "ESPN SPORTS HD",
-      "NBA LIVE HD",
-      "DUDE Tv Live",
-      "NBA LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv NBA HD",
-        "logo": ""
-      },
-      {
-        "title": "ESPN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "NBA LIVE HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NBA LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50062,
     "title": "South Africa vs Australia",
     "image": "o",
@@ -1017,259 +954,6 @@
       {
         "title": "FANCODE - IN",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      }
-    ]
-  },
-  {
-    "id": 50071,
-    "title": "[NBA 11]",
-    "image": "o",
-    "cat": "NBA",
-    "eventInfo": {
-      "teamA": "Suns",
-      "teamB": "Jazz",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3416/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3434/image",
-      "eventName": "Phoenix Suns vs Utah Jazz",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/17 02:00:00 +0000",
-      "endTime": "2026/10/17 05:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv NBA HD",
-      "ESPN SPORTS HD",
-      "NBA LIVE HD",
-      "DUDE Tv Live",
-      "NBA LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv NBA HD",
-        "logo": ""
-      },
-      {
-        "title": "ESPN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "NBA LIVE HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NBA LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50072,
-    "title": "[NBA 12]",
-    "image": "o",
-    "cat": "NBA",
-    "eventInfo": {
-      "teamA": "Lakers",
-      "teamB": "Nuggets",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3427/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3417/image",
-      "eventName": "Lakers vs Denver Nuggets",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/17 02:30:00 +0000",
-      "endTime": "2026/10/17 05:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv NBA FHD",
-      "ESPN SPORTS HD",
-      "NBA LIVE HD",
-      "DUDE Tv Live",
-      "NBA LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv NBA FHD",
-        "logo": ""
-      },
-      {
-        "title": "ESPN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "NBA LIVE HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NBA LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50073,
-    "title": "Atlante vs Pumas UNAM",
-    "image": "o",
-    "cat": "Liga MX",
-    "eventInfo": {
-      "teamA": "Atlante",
-      "teamB": "Pumas",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1943/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1933/image",
-      "eventName": "Atlante FC vs Pumas UNAM",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/17 03:00:00 +0000",
-      "endTime": "2026/10/17 05:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "Azteca 7 HD",
-      "LIGAMX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "Azteca 7 HD",
-        "logo": ""
-      },
-      {
-        "title": "LIGAMX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50074,
-    "title": "Club Necaxa vs Atlas FC",
-    "image": "o",
-    "cat": "Liga MX",
-    "eventInfo": {
-      "teamA": "Necaxa",
-      "teamB": "Atlas",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1944/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1949/image",
-      "eventName": "Club Necaxa vs Atlas FC",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/17 01:00:00 +0000",
-      "endTime": "2026/10/17 03:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FOX DEPORTES FHD",
-      "DUDE Tv Live",
-      "LIGAMX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "FOX DEPORTES FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LIGAMX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50075,
-    "title": "Avalanche vs Pittsburgh Penguins",
-    "image": "o",
-    "cat": "NHL",
-    "eventInfo": {
-      "teamA": "Avalanche",
-      "teamB": "Penguins",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3682/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3697/image",
-      "eventName": "Colorado Avalanche vs Pittsburgh Penguins",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/17 01:00:00 +0000",
-      "endTime": "2026/10/17 04:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv NHL HD",
-      "DUDE Tv Live",
-      "NHL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv NHL HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NHL LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50076,
-    "title": "Anaheim Ducks vs Boston Bruins",
-    "image": "o",
-    "cat": "NHL",
-    "eventInfo": {
-      "teamA": "Ducks",
-      "teamB": "Bruins",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3675/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3677/image",
-      "eventName": "Anaheim Ducks vs Boston Bruins",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/17 02:00:00 +0000",
-      "endTime": "2026/10/17 05:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PREMIER SPORTS",
-      "DUDE Tv NHL HD",
-      "DUDE Tv Live",
-      "NHL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "PREMIER SPORTS",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
-      },
-      {
-        "title": "DUDE Tv NHL HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NHL LIVE [FHD]",
-        "logo": ""
       }
     ]
   },
@@ -1690,44 +1374,6 @@
     ]
   },
   {
-    "id": 50089,
-    "title": "Inter Miami",
-    "image": "o",
-    "cat": "Liga MX",
-    "eventInfo": {
-      "teamA": "Tijuana",
-      "teamB": "Puebla",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/36525/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1941/image",
-      "eventName": "Club Tijuana vs Club Puebla",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/17 03:00:00 +0000",
-      "endTime": "2026/10/17 05:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "TUDN MX HD",
-      "LIGAMX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "TUDN MX HD",
-        "logo": ""
-      },
-      {
-        "title": "LIGAMX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50090,
     "title": "Newcastle United vs Aston Villa",
     "image": "o",
@@ -1945,18 +1591,48 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/38/image",
       "eventName": "Everton vs Chelsea",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/17 11:30:00 +0000",
       "endTime": "2026/10/17 13:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT SPORTS FHD"
+      "TNT SPORTS FHD",
+      "USA TV HD",
+      "USA NETWORK FHD",
+      "DUDE Tv Live",
+      "beIN SPORTS FHD",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "USA TV HD",
+        "logo": ""
+      },
+      {
+        "title": "USA NETWORK FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "beIN SPORTS FHD",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2922,7 +2598,8 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH FHD",
-      "CBS NETWORK"
+      "CBS NETWORK",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
@@ -2931,6 +2608,10 @@
       },
       {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -3150,11 +2831,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -3178,11 +2869,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -3206,11 +2907,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
