@@ -1,16 +1,16 @@
 [
   {
     "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4621372.m3u8?txSecret=d9c874ff63052c2b83d688feef33e72e&txTime=6AD0B567|Referer=https://player.online878.com/",
+    "link": "https://live.vivo155.com/live/sd-1-4563625.m3u8?txSecret=557b4c87750eb66afc2691d2d1cdf424&txTime=6AD38950|Referer=https://player.online878.com/",
     "logo": "",
     "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://live2.jorvakstreamcache.com/live/channel19.m3u8",
+    "link": "http://193.47.62.41/hls/BIIIAAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
     "logo": "",
-    "title": "HD SERVER",
+    "title": "SD SERVER",
     "type": "0"
   }
 ]

@@ -1,23 +1,16 @@
 [
   {
     "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4566600.m3u8?txSecret=d4399de7199b71a26cd37377a0e24501&txTime=6ACA97E7|Referer=https://player.online909.com/",
+    "link": "https://sonymtmnew.akamaized.net/hls/live/2120305/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792267121~acl=/*~id=34156451039611487106849197601284~hmac=fe22fa1a7993e9cc549c2c6b7b4e9c31b504d23860ecd225651d47c724319aa4|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=af2a9663fe253b843b8223aadeb63514-1792243801308",
     "logo": "",
-    "title": "DUDE Tv Live",
+    "title": "SonyLiv (ENG)",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://netanjahu.hls.st/t/44a621cac71537261450779ff4937658/index.m3u8?|Referer=https://iplayer.is/",
+    "link": "https://sonymtmnew.akamaized.net/hls/live/2120307/Footlive1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792267121~acl=/*~id=34156451039611487106849197601284~hmac=fe22fa1a7993e9cc549c2c6b7b4e9c31b504d23860ecd225651d47c724319aa4|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=af2a9663fe253b843b8223aadeb63514-1792243801308",
     "logo": "",
-    "title": "ARENA SPORTS HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://netanjahu.hls.st/t/76e7312cd8133c01209c43d529c483b3/index.m3u8?|Referer=https://iplayer.is/",
-    "logo": "",
-    "title": "SKY BUNDESLIGA HD",
+    "title": "SonyLiv (HIN)",
     "type": "0"
   }
 ]

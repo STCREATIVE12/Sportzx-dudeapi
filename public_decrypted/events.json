@@ -385,11 +385,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "WILLOW - FHD",
+      "FANCODE - FHD",
+      "WILLOW - ALT",
+      "TAPMAD - FHD",
       "A SPORTS HD",
       "T SPORTS HD",
       "FANCODE - IN"
     ],
     "formatsNew": [
+      {
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "FANCODE - FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "TAPMAD - FHD",
+        "logo": ""
+      },
       {
         "title": "A SPORTS HD",
         "logo": ""
@@ -417,9 +437,9 @@
       "eventName": "India vs West Indies",
       "eventType": "null",
       "eventBanner": "null",
-      "isHot": "0",
-      "startTime": "2026/10/17 13:30:00 +0000",
-      "endTime": "2026/10/17 17:15:00 +0000"
+      "isHot": "1",
+      "startTime": "2026/10/17 14:30:00 +0000",
+      "endTime": "2026/10/17 18:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -427,10 +447,8 @@
       "WILLOW - FHD",
       "TNT SPORTS FHD",
       "WILLOW - ALT",
-      "TAPMAD - FHD",
-      "TNT SPORTS HD",
-      "STAR SPORTS (ENG)",
-      "STAR SPORTS (HIN)"
+      "HOTSTAR IN (HIN)",
+      "HOTSTAR IN (ENG)"
     ],
     "formatsNew": [
       {
@@ -446,19 +464,11 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "TAPMAD - FHD",
+        "title": "HOTSTAR IN (HIN)",
         "logo": ""
       },
       {
-        "title": "TNT SPORTS HD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
-      },
-      {
-        "title": "STAR SPORTS (ENG)",
-        "logo": ""
-      },
-      {
-        "title": "STAR SPORTS (HIN)",
+        "title": "HOTSTAR IN (ENG)",
         "logo": ""
       }
     ]
@@ -1453,12 +1463,17 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "SporTV BR FHD"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
         "logo": ""
+      },
+      {
+        "title": "SporTV BR FHD",
+        "logo": "https://iili.io/CFFRvqJ.png"
       }
     ]
   },
@@ -1507,18 +1522,58 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/32/image",
       "eventName": "Manchester City vs Ipswich Town",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/17 14:00:00 +0000",
       "endTime": "2026/10/17 16:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FUBO SPORTS FHD",
+      "USA TV HD",
+      "USA NETWORK FHD",
+      "USA TV FHD",
+      "DUDE Tv Live",
+      "beIN SPORTS FHD",
+      "HD SERVER",
+      "SD SERVER",
+      "SKY SPORTS [FHD]"
     ],
     "formatsNew": [
       {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "USA TV HD",
+        "logo": ""
+      },
+      {
+        "title": "USA NETWORK FHD",
+        "logo": ""
+      },
+      {
+        "title": "USA TV FHD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "beIN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS [FHD]",
         "logo": ""
       }
     ]
@@ -1535,18 +1590,58 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/44/image",
       "eventName": "Brentford vs Liverpool FC",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/17 14:00:00 +0000",
       "endTime": "2026/10/17 16:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FUBO SPORTS FHD",
+      "PEACOCK TV HD",
+      "PEACOCK TV - AQ",
+      "PEACOCK NETWORK",
+      "DUDE Tv Live",
+      "beIN SPORTS FHD",
+      "HD SERVER",
+      "SD SERVER",
+      "SKY SPORTS [FHD]"
     ],
     "formatsNew": [
       {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "PEACOCK TV HD",
+        "logo": ""
+      },
+      {
+        "title": "PEACOCK TV - AQ",
+        "logo": ""
+      },
+      {
+        "title": "PEACOCK NETWORK",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "beIN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS [FHD]",
         "logo": ""
       }
     ]
@@ -1570,11 +1665,46 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FUBO SPORTS FHD",
+      "PEACOCK TV HD",
+      "PEACOCK TV - AQ",
+      "PEACOCK NETWORK",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER",
+      "SKY SPORTS [FHD]"
     ],
     "formatsNew": [
       {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "PEACOCK TV HD",
+        "logo": ""
+      },
+      {
+        "title": "PEACOCK TV - AQ",
+        "logo": ""
+      },
+      {
+        "title": "PEACOCK NETWORK",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS [FHD]",
         "logo": ""
       }
     ]
@@ -1591,20 +1721,22 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/38/image",
       "eventName": "Everton vs Chelsea",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/10/17 11:30:00 +0000",
-      "endTime": "2026/10/17 13:35:00 +0000"
+      "endTime": "2026/10/17 13:40:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "TNT SPORTS FHD",
+      "FUBO SPORTS FHD",
       "USA TV HD",
+      "TNT SPORTS HD",
       "USA NETWORK FHD",
       "DUDE Tv Live",
       "beIN SPORTS FHD",
-      "SD SERVER",
-      "LOW SERVER"
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
@@ -1612,8 +1744,16 @@
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
       },
       {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
         "title": "USA TV HD",
         "logo": ""
+      },
+      {
+        "title": "TNT SPORTS HD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
       },
       {
         "title": "USA NETWORK FHD",
@@ -1628,11 +1768,11 @@
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
       },
       {
-        "title": "SD SERVER",
+        "title": "HD SERVER",
         "logo": ""
       },
       {
-        "title": "LOW SERVER",
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1699,44 +1839,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CAZE TV FHD"
+      "FANCODE FHD",
+      "ESPN DEPORTES HD",
+      "DUDE Tv Live",
+      "LALIGA TV FHD",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "CAZE TV FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50100,
-    "title": "Espanyol vs Atlético Madrid",
-    "image": "o",
-    "cat": "LaLiga 🇪🇸",
-    "eventInfo": {
-      "teamA": "Espanyol",
-      "teamB": "Atlético Madrid",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2814/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2836/image",
-      "eventName": "Espanyol vs Atlético Madrid",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/17 12:00:00 +0000",
-      "endTime": "2026/10/17 14:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "D Sports FHD",
-      "CAZE TV FHD"
-    ],
-    "formatsNew": [
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
       {
-        "title": "D Sports FHD",
+        "title": "ESPN DEPORTES HD",
         "logo": ""
       },
       {
-        "title": "CAZE TV FHD",
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LALIGA TV FHD",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1760,11 +1887,41 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "CAZE TV FHD",
+      "DAZN SPORTS HD",
+      "BUNDESLIGA HD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER",
+      "USA SPORTS [FHD]"
     ],
     "formatsNew": [
       {
+        "title": "CAZE TV FHD",
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+      },
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "BUNDESLIGA HD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "USA SPORTS [FHD]",
         "logo": ""
       }
     ]
@@ -1788,11 +1945,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER",
+      "USA SPORTS [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "USA SPORTS [FHD]",
         "logo": ""
       }
     ]
@@ -1816,11 +1983,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER",
+      "USA SPORTS [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "USA SPORTS [FHD]",
         "logo": ""
       }
     ]
@@ -1844,11 +2026,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER",
+      "USA SPORTS [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "USA SPORTS [FHD]",
         "logo": ""
       }
     ]
@@ -1872,11 +2069,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER",
+      "USA SPORTS [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "USA SPORTS [FHD]",
         "logo": ""
       }
     ]
@@ -1933,11 +2145,41 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "PARAMOUNT+ FHD",
+      "FUBO SPORTS FHD",
+      "beIN ENGLISH FHD",
+      "DAZN ITALIAN FHD",
+      "SPORT 1 CZ FHD",
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN ITALIAN FHD",
+        "logo": ""
+      },
+      {
+        "title": "SPORT 1 CZ FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2289,11 +2531,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportDigital Fussball"
+      "SportDigital Fussball",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -2345,11 +2592,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2369,34 +2621,6 @@
       "isHot": "0",
       "startTime": "2026/10/17 13:00:00 +0000",
       "endTime": "2026/10/17 15:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50123,
-    "title": "Erzurumspor vs Eyüpspor",
-    "image": "o",
-    "cat": "Super Lig",
-    "eventInfo": {
-      "teamA": "Erzurumspor",
-      "teamB": "Eyüpspor",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/55603/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/7040/image",
-      "eventName": "Erzurumspor vs Eyüpspor",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/17 10:30:00 +0000",
-      "endTime": "2026/10/17 12:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -2457,11 +2681,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "PARAMOUNT+ FHD",
+      "beIN ENGLISH FHD",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -2485,11 +2719,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CBS NETWORK"
+      "CBS NETWORK",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -2513,11 +2752,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2541,11 +2790,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ]
@@ -2569,105 +2823,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50130,
-    "title": "Watford vs Charlton Athletic",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Watford",
-      "teamB": "Charlton",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/24/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/47/image",
-      "eventName": "Watford vs Charlton Athletic",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/17 11:30:00 +0000",
-      "endTime": "2026/10/17 13:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "CBS NETWORK",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
         "logo": ""
       },
       {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50131,
-    "title": "Middlesbrough vs Cardiff City",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Middlesbrough",
-      "teamB": "Cardiff",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/36/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/61/image",
-      "eventName": "Middlesbrough vs Cardiff City",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/17 11:30:00 +0000",
-      "endTime": "2026/10/17 13:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50132,
-    "title": "Millwall vs Lincoln City",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Millwall",
-      "teamB": "Lincoln",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/25/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/92/image",
-      "eventName": "Millwall vs Lincoln City",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/17 11:30:00 +0000",
-      "endTime": "2026/10/17 13:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2813,149 +2978,35 @@
     ]
   },
   {
-    "id": 50138,
-    "title": "Wolfsburg vs Heidenheim",
+    "id": 50142,
+    "title": "ISL",
     "image": "o",
-    "cat": "2. Bundesliga",
+    "cat": "ISL",
     "eventInfo": {
-      "teamA": "Wolfsburg",
-      "teamB": "Heidenheim",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2524/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5885/image",
-      "eventName": "Wolfsburg vs Heidenheim",
+      "teamA": "ISL",
+      "teamB": "ISL",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/494686/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/174592/image",
+      "eventName": "Indian Super League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/17 11:00:00 +0000",
-      "endTime": "2026/10/17 13:00:00 +0000"
+      "startTime": "2026/10/17 14:00:00 +0000",
+      "endTime": "2026/10/17 16:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "SD SERVER"
+      "SonyLiv (ENG)",
+      "SonyLiv (HIN)"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SonyLiv (ENG)",
         "logo": ""
       },
       {
-        "title": "HD SERVER",
+        "title": "SonyLiv (HIN)",
         "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50139,
-    "title": "Kaiserslautern vs Bochum",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Kaiserslautern",
-      "teamB": "Bochum",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2675/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2542/image",
-      "eventName": "Kaiserslautern vs Bochum",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/17 11:00:00 +0000",
-      "endTime": "2026/10/17 13:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50140,
-    "title": "Greuther Fürth vs Braunschweig",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Fürth",
-      "teamB": "Braunschweig",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2551/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2557/image",
-      "eventName": "Greuther Fürth vs Braunschweig",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/17 11:00:00 +0000",
-      "endTime": "2026/10/17 13:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50141,
-    "title": "Canada vs Nepal",
-    "image": "o",
-    "cat": "ICC CWC Challenge",
-    "eventInfo": {
-      "teamA": "CAN",
-      "teamB": "NEP",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/189195/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187772/image",
-      "eventName": "Canada vs Nepal",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/17 05:30:00 +0000",
-      "endTime": "2026/10/17 13:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "ICC TV - FHD",
-      "ICC TV - ALT"
-    ],
-    "formatsNew": [
-      {
-        "title": "ICC TV - FHD",
-        "logo": "https://m.media-amazon.com/images/I/31F7ropt9OL.png"
-      },
-      {
-        "title": "ICC TV - ALT",
-        "logo": "https://m.media-amazon.com/images/I/31F7ropt9OL.png"
       }
     ]
   }

@@ -1,8 +1,58 @@
 [
   {
+    "api": "5245bea7bb5265e0cefa8a59f3a989e7:a502b56126f5f5e5beb0e901fa246f1e",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/tynmqoruat/out/v1/07d94e5695564616bc21118f294f6cc7/7e0dd27b-f998-465e-8df2-027df73d929b-cenc.mpd?aws_sessionId=9e935291-e3f8-4fd0-880c-7ae5a73ee747|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "FUBO SPORTS FHD",
+    "type": "1"
+  },
+  {
     "api": "",
-    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+    "link": "https://chatgpt.hereisman.net/playlist/58135/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "PEACOCK TV HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://granitewolf.s3.us-east-1.amazonaws.com/newcastle.m3u8",
+    "logo": "",
+    "title": "PEACOCK TV - AQ",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://admin2.formaturamaxi.com.br/peacock.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "PEACOCK NETWORK",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://live.vivo155.com/live/hd-en-1-4558604.m3u8?txSecret=e541d0b8aa52666a8f5ccc5b86367d06&txTime=6AD390D9|Referer=https://player.online878.com/",
+    "logo": "",
     "title": "DUDE Tv Live",
     "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://www.rtmpcdn.com/live/d6f999ea-dc58-4d95-a707-dae77c6cb70f.m3u8",
+    "logo": "",
+    "title": "HD SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.50/hls/4444.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "logo": "",
+    "title": "SD SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://taifood-blog.asia/embed/pl/2026-10-17/ful-hul",
+    "logo": "",
+    "title": "SKY SPORTS [FHD]",
+    "type": "2"
   }
 ]

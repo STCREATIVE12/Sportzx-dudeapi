@@ -1,7 +1,7 @@
 [
   {
-    "api": "a71918fcc2f12066f70b7c39b0e0dcf3:a5e35121d4f6f16694bea15334f14814",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/repj13zdmh/out/v1/65b0c672947c48488934234f7a1173a0/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "c21cda3aab763439e2f05489f9a73827:582de22865b044837d559884992caf4f",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n3icgre8mf/out/v1/af3ffb719dea4937aede63586796d513/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
     "title": "WILLOW - FHD",
     "type": "1"
@@ -14,38 +14,24 @@
     "type": "1"
   },
   {
-    "api": "a71918fcc2f12066f70b7c39b0e0dcf3:a5e35121d4f6f16694bea15334f14814",
-    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/repj13zdmh/out/v1/65b0c672947c48488934234f7a1173a0/cenc.mpd",
+    "api": "c21cda3aab763439e2f05489f9a73827:582de22865b044837d559884992caf4f",
+    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/n3icgre8mf/out/v1/af3ffb719dea4937aede63586796d513/cenc.mpd",
     "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
     "title": "WILLOW - ALT",
     "type": "1"
   },
   {
     "api": "",
-    "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com/",
+    "link": "https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd?|Cookie=hdntl=exp=1792281608~acl=%2f*~id=843cea5f6ea8d7a1a49585da9c814dd0~data=hdntl~hmac=17ca04ad0019c203ade20eeb152b42cce440136695977df7e45d3ab4c34ea77b&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169+%28Android%2F15%29&drmScheme=clearkey&drmLicense=b9f1cb8a1361457bbd8097f8c2590000:1960274b7ba344cb899eba2e80916774",
     "logo": "",
-    "title": "TAPMAD - FHD",
+    "title": "HOTSTAR IN (HIN)",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://papacito.cfd/m3u/uk-t3434334/live.m3u8",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
-    "title": "TNT SPORTS HD",
+    "link": "https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd?|Cookie=hdntl=exp=1792281608~acl=%2f*~id=843cea5f6ea8d7a1a49585da9c814dd0~data=hdntl~hmac=17ca04ad0019c203ade20eeb152b42cce440136695977df7e45d3ab4c34ea77b&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169+%28Android%2F15%29&drmScheme=clearkey&drmLicense=e85897bf6e594d698b7c82646c8e0000:d2dda31234ae40538843e871cd4dcc2a",
+    "logo": "",
+    "title": "HOTSTAR IN (ENG)",
     "type": "0"
-  },
-  {
-    "api": "45825561f4ef516691a9e16d1d35dd1d:3951fe7fbf4b0b33e6246fc401f76797 --key bf95222d9be85d85a91281e796e99481:bc932276031b3e63758cf67b147c3557 --key f217e9fe133e5b948c323abef1e39b47:63640dc4430d14003def0c97a2dbab4d --key eda3132244745c10920b01536bc8a75b:2b5f8bdba279032943a040078bb22b35 --key 06dd6287c4b956419d15d6c8e513aeed:a82d6b850b5c281c0054fc6d55e1c6ba",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__hdnea__=st=1791984803~exp=1792006403~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=c488750067bf8f12a84c4d5ec7c211cac5bddea28b23e64dcd8cc7c72f1ea70f",
-    "logo": "",
-    "title": "STAR SPORTS (ENG)",
-    "type": "1"
-  },
-  {
-    "api": "a1ce6b9514f35174bda80ddd425bfd88:5c5e158724eced92f92ca8286fb28fd9 --key dd2fa604afc45e528f8a2283bf3cb628:bf01e6e8ff74797fb5215fead779e8b9 --key 209975f6753d5de1ac26d604dace5313:1c54093eff75aeeccd30ebbc53c0e5a3 --key 7bdccdb3dd015c37a0c3bd70675c8e4c:6f1b59376090d1f7ce33cbd264e87c36 --key 11073b8f426e5092a2effada3bfaf721:5d1c59a8052956bd056810f260161e5f",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1791984859~exp=1792006459~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=adee85466c0f3ce298506820bb1049e7a5a1bb3238065b5dd8443e4e50b75ac0",
-    "logo": "",
-    "title": "STAR SPORTS (HIN)",
-    "type": "1"
   }
 ]
