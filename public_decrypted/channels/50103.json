@@ -1,30 +1,30 @@
 [
   {
+    "api": "bc6f302fd61c2e2f07649312886340b2:3998a71b90d98d6f33812dfb81c6bef6",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/hqnp6c0bi3/out/v1/ee234bf8b2854366834b938725860805/1c08e2cf-efea-4f89-98ed-2c8d9d47a71f-cenc.mpd?aws_sessionId=4dcc9a76-1a4f-4e6b-b331-5e24f4ce67b5|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "FUBO SPORTS FHD",
+    "type": "1"
+  },
+  {
     "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4566310.m3u8?txSecret=dfbf297ece7f07fe401e66e8c379d090&txTime=6AD38850|Referer=https://player.online878.com/",
+    "link": "https://chatgpt.hereisman.net/playlist/58249/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "PEACOCK TV HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://live.uu1pp.com/sport/202_5546329_1.m3u8?txSecret=9d30d8af2027e8447f12e4bfe6ba1fa2&txTime=6AD50E52|Referer=https://player.up909.com/",
     "logo": "",
     "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://www.rtmpcdn.com/live/01c06a10-84db-4a82-bba8-0da957edb13e.m3u8",
+    "link": "http://193.47.62.55/hls/H000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
     "logo": "",
-    "title": "HD SERVER",
+    "title": "LOW SERVER",
     "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.55/hls/TMMMAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-    "logo": "",
-    "title": "SD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://taifood-blog.asia/embed/bundesliga/2026-10-17/hsv-vfb",
-    "logo": "",
-    "title": "USA SPORTS [FHD]",
-    "type": "2"
   }
 ]
