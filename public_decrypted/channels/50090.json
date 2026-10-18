@@ -1,9 +1,16 @@
 [
   {
+    "api": "65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/5ajygpwbzs/out/v1/aaaab12c95924d80a77f87f7c745782a/f091216b-9da6-47f3-822e-52e80c85f4c8-cenc.mpd?aws_sessionId=af393129-62b3-461c-85ad-839ed1faebcc|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "FUBO SPORTS FHD",
+    "type": "1"
+  },
+  {
     "api": "42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
     "link": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "",
-    "title": "FUBO SPORTS FHD",
+    "title": "FUBO SPORTS ALT",
     "type": "1"
   },
   {
@@ -11,6 +18,34 @@
     "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=oQHxVF62YP2JSnxUwT4p-g&e=2092290550&scheme=https|user-agent=Mozilla",
     "logo": "",
     "title": "SKY PREMIER FHD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://storage.googleapis.com/flintvoyager/main/manifest.m3u8",
+    "logo": "",
+    "title": "PEACOCK TV HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://chatgpt.hereisman.net/playlist/58263/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "FUBO SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://live.vivo155.com/live/hd-en-1-4558614.m3u8?txSecret=4e54158578a83ced9d1220fa0da7c571&txTime=6AD4FB60|Referer=https://player.online878.com/",
+    "logo": "",
+    "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.50/hls/HIHIHI.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "logo": "",
+    "title": "LOW SERVER",
     "type": "0"
   }
 ]
