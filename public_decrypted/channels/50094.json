@@ -1,65 +1,8 @@
 [
   {
-    "api": "65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/qn8wrs6xue/out/v1/aaaab12c95924d80a77f87f7c745782a/610d090c-7192-4ae7-9e31-482c4096abc1-cenc.mpd?aws_sessionId=0eea5074-f777-498e-8c4c-cb440de9cef6|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "FUBO SPORTS FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/58133/load-playlist?|Referer=https://gooz.aapmains.net",
-    "logo": "",
-    "title": "USA TV HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://granitewolf.s3.us-east-1.amazonaws.com/mancity.m3u8",
-    "logo": "",
-    "title": "USA NETWORK FHD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://admin2.formaturamaxi.com.br/usa.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "USA TV FHD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4558609.m3u8?txSecret=94538fdc13a90f6f8d0f010a623cf6ef&txTime=6AD39064|Referer=https://player.online878.com/",
-    "logo": "",
+    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
     "title": "DUDE Tv Live",
     "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://cdn-v2.gamhed.online/hls/arena8x-2a.m3u8?|Referer=https://www.arena8x.live/",
-    "logo": "",
-    "title": "beIN SPORTS FHD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://www.rtmpcdn.com/live/91eba60d-514b-41a7-ba01-92b3d15aaa28.m3u8",
-    "logo": "",
-    "title": "HD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.59/hls/4444a.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-    "logo": "",
-    "title": "SD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://taifood-blog.asia/embed/pl/2026-10-17/mci-ips",
-    "logo": "",
-    "title": "SKY SPORTS [FHD]",
-    "type": "2"
   }
 ]

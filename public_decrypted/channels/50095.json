@@ -1,65 +1,14 @@
 [
   {
-    "api": "480f6ee51138431bf4a51366ceafccc3:805605d2a7721291a353145533b4f21d",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/n08pizbsu2/out/v1/a8645e4080344c53b38dc66983651d99/d61eead1-3574-4b70-8e75-67a5a806f711-cenc.mpd?aws_sessionId=9b04b8e2-907c-4d19-a01e-61dd85c80ee7|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "FUBO SPORTS FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/58134/load-playlist?|Referer=https://gooz.aapmains.net",
-    "logo": "",
-    "title": "PEACOCK TV HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://granitewolf.s3.us-east-1.amazonaws.com/liverpool.m3u8",
-    "logo": "",
-    "title": "PEACOCK TV - AQ",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://admin2.formaturamaxi.com.br/peacock2.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "PEACOCK NETWORK",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4558598.m3u8?txSecret=6fdbfbfa3925454c0f1afd73372b9bac&txTime=6AD390F1|Referer=https://player.online878.com/",
-    "logo": "",
+    "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
     "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://cdn-v2.gamhed.online/hls/arena8x-1a.m3u8?|Referer=https://www.arena8x.live/",
-    "logo": "",
-    "title": "beIN SPORTS FHD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://www.rtmpcdn.com/live/910ed1c3-3d3c-43a7-bb08-0eb20ce5de14.m3u8",
-    "logo": "",
-    "title": "HD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.50/hls/4444aa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-    "logo": "",
-    "title": "SD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://taifood-blog.asia/embed/pl/2026-10-17/bre-liv",
-    "logo": "",
-    "title": "SKY SPORTS [FHD]",
+    "link": "https://taifood-blog.asia/embed/",
+    "title": "NFL LIVE [FHD]",
     "type": "2"
   }
 ]
