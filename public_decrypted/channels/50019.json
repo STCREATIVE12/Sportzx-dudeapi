@@ -1,5 +1,26 @@
 [
   {
+    "api": "",
+    "link": "https://chatgpt.hereisman.net/playlist/58153/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "DAZN SPORTS HD 1",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://chatgpt.hereisman.net/playlist/58129/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "DAZN SPORTS HD 2",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.50/hls/RRRRR.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "logo": "",
+    "title": "SD SERVER",
+    "type": "0"
+  },
+  {
     "api": "MTEyMjMzNDQ1NTY2Nzc4ODk5MDAxMTIyMzM0NDU1NjY6NGI4MDcyNGQwZWY4NmJjYjJjMjFmN3o5OWG2NzczOWQ=",
     "link": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
     "title": "EUROSPORT FHD",
