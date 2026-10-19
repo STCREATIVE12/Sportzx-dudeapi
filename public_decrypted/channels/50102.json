@@ -1,65 +1,9 @@
 [
   {
-    "api": "71e936b6a41fec84206be5fd5732df0f:3973a4ae073d96957c525f06c8f78220",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/yswd4hguk2/out/v1/07d94e5695564616bc21118f294f6cc7/ae3c4fa7-7ede-4a71-bbd5-502b5656295b-cenc.mpd?aws_sessionId=2f57420c-90a2-45be-b8f4-d4cab84c9c0c|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+    "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792417832~acl=%2Fvariant%2Fv1blackout%2Fvcg-01-d%2F*~id=96bc7139-3edd-47ca-8f83-cfabcae165c5~data=hdntl~hmac=365ce38d578b04b527e7137b558b2ff21d0efbcea3a8dd2657e8d1d2ad3f435b/manifest.mpd?vcfilter=cab18332-42e0-471c-a2f5-f14341f3a60a&|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36&Referer=https://www.icc-cricket.com/&Origin=https://www.icc-cricket.com",
     "logo": "",
-    "title": "FUBO SPORTS FHD",
+    "title": "ICC TV FHD",
     "type": "1"
-  },
-  {
-    "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
-    "title": "CAZE TV FHD",
-    "type": "1"
-  },
-  {
-    "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/58251/load-playlist?|Referer=https://gooz.aapmains.net",
-    "logo": "",
-    "title": "USA TV HD",
-    "type": "0"
-  },
-  {
-    "api": "418c411c8b2c2ee97c86f713264d13d7:409b20a3c7480aa438d974d7811ced5c",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/kkkrsdzxlz/out/v1/b96400fe2cb649dc8f6a10e502d49db7/fdd89685-cdf3-4dec-a9bb-2087fa0c981e-cenc.mpd?aws_sessionId=f9348923-bb34-492b-9c0b-e26bd89f6d01|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "FUBO EXTRA FHD",
-    "type": "1"
-  },
-  {
-    "api": "",
-    "link": "https://storage.googleapis.com/flintvoyager/main/manifest.m3u8",
-    "logo": "",
-    "title": "USA NETWORK HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4558606.m3u8?txSecret=a21a501575092ea78741de80dbbea6d4&txTime=6AD4DB7F|Referer=https://player.online878.com/",
-    "logo": "",
-    "title": "DUDE Tv Live",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://www.rtmpcdn.com/live/093b047f-baeb-4780-8762-3bd19e6f953c.m3u8",
-    "logo": "",
-    "title": "HD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.55/hls/H000AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-    "logo": "",
-    "title": "LOW SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://embed.st/embed/hotel/leeds-united-vs-manchester-united-premier-league-1792328400/2",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-    "title": "SKY SPORTS 4K [UHD]",
-    "type": "2"
   }
 ]
