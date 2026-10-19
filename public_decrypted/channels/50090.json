@@ -1,16 +1,9 @@
 [
   {
-    "api": "65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/5ajygpwbzs/out/v1/aaaab12c95924d80a77f87f7c745782a/f091216b-9da6-47f3-822e-52e80c85f4c8-cenc.mpd?aws_sessionId=af393129-62b3-461c-85ad-839ed1faebcc|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "3f5adbfaa12a3096c3582c701629445e:1e201be5fb21c2ff5cf33175c05dfaba",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/doo7mzvktm/out/v1/ee234bf8b2854366834b938725860805/80851ab1-2930-4f00-a864-15c08159794b-cenc.mpd?aws_sessionId=c5ca413e-a7c6-422a-afae-b17977560374|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "",
     "title": "FUBO SPORTS FHD",
-    "type": "1"
-  },
-  {
-    "api": "42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
-    "link": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "FUBO SPORTS ALT",
     "type": "1"
   },
   {
@@ -22,28 +15,35 @@
   },
   {
     "api": "",
-    "link": "https://storage.googleapis.com/flintvoyager/main/manifest.m3u8",
+    "link": "https://chatgpt.hereisman.net/playlist/58307/load-playlist-multi?|Referer=https://gooz.aapmains.net",
     "logo": "",
-    "title": "PEACOCK TV HD",
+    "title": "USA TV HD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/58263/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-    "logo": "",
-    "title": "FUBO SPORTS HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4558614.m3u8?txSecret=4e54158578a83ced9d1220fa0da7c571&txTime=6AD4FB60|Referer=https://player.online878.com/",
+    "link": "https://live.vivo155.com/live/hd-en-1-4558624.m3u8?txSecret=8113db458945d9b043b5f9c36817361e&txTime=6AD67C0C|Referer=https://player.online878.com/",
     "logo": "",
     "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "http://193.47.62.50/hls/HIHIHI.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "link": "https://edgestream1.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+    "logo": "",
+    "title": "HD SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://www.rtmpcdn.com/live/f84105dd-326e-4236-a85d-e45e6570901e.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "logo": "",
+    "title": "SD SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.55/hls/BBBB.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
     "logo": "",
     "title": "LOW SERVER",
     "type": "0"
