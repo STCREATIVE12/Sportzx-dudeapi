@@ -386,7 +386,6 @@
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
-      "FANCODE - FHD",
       "WILLOW - ALT",
       "TAPMAD - FHD",
       "A SPORTS HD",
@@ -397,10 +396,6 @@
       {
         "title": "WILLOW - FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "FANCODE - FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
         "title": "WILLOW - ALT",
@@ -1200,11 +1195,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX DEPORTES"
+      "FOX DEPORTES",
+      "THMANYAH SD"
     ],
     "formatsNew": [
       {
         "title": "FOX DEPORTES",
+        "logo": ""
+      },
+      {
+        "title": "THMANYAH SD",
         "logo": ""
       }
     ]
@@ -1256,11 +1256,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SonyLiv (ENG)",
+      "SonyLiv (HIN)"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SonyLiv (ENG)",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (HIN)",
         "logo": ""
       }
     ]
