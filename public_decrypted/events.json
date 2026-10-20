@@ -604,10 +604,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS FHD",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -638,13 +643,18 @@
     "publish": "1",
     "formats": [
       "TNT SPORTS FHD",
+      "TNT2 SPORTS FHD",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "TNT SPORTS FHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+        "logo": ""
+      },
+      {
+        "title": "TNT2 SPORTS FHD",
+        "logo": ""
       },
       {
         "title": "DUDE Tv Live",
@@ -824,6 +834,49 @@
     ]
   },
   {
+    "id": 50069,
+    "title": "49ers vs Commanders",
+    "image": "o",
+    "cat": "NFL",
+    "eventInfo": {
+      "teamA": "49ers",
+      "teamB": "Commanders",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4389/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4432/image",
+      "eventName": "San Francisco 49ers vs Washington Commanders",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/20 00:15:00 +0000",
+      "endTime": "2026/10/20 03:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN SPORTS FHD",
+      "TSN4 SPORTS FHD",
+      "DUDE Tv Live",
+      "NFL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "TSN4 SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50075,
     "title": "Rangers vs Anaheim Ducks",
     "image": "o",
@@ -846,6 +899,44 @@
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50076,
+    "title": "Philadelphia Flyers vs Avalanche",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Flyers",
+      "teamB": "Avalanche",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3699/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3682/image",
+      "eventName": "Philadelphia Flyers vs Colorado Avalanche",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/19 23:00:00 +0000",
+      "endTime": "2026/10/20 02:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "PREMIER SPORTS",
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "PREMIER SPORTS",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -908,16 +999,54 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PREMIER SPORTS",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "PREMIER SPORTS",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
       },
       {
         "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50087,
+    "title": "Corinthians vs Vitoria",
+    "image": "o",
+    "cat": "Brasileirão",
+    "eventInfo": {
+      "teamA": "Corinthians",
+      "teamB": "Vitória",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1957/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1962/image",
+      "eventName": "Corinthians vs Vitória",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/19 23:00:00 +0000",
+      "endTime": "2026/10/20 01:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SporTV BR FHD",
+      "PREMIERER BR"
+    ],
+    "formatsNew": [
+      {
+        "title": "SporTV BR FHD",
+        "logo": ""
+      },
+      {
+        "title": "PREMIERER BR",
         "logo": ""
       }
     ]
@@ -1176,204 +1305,6 @@
       },
       {
         "title": "HD SERVER ",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50095,
-    "title": "Al-Hilal vs Al-Hazem",
-    "image": "o",
-    "cat": "Pro League 🇸🇦",
-    "eventInfo": {
-      "teamA": "Al-Hilal",
-      "teamB": "Al-Hazem",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/21895/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/168086/image",
-      "eventName": "Al-Hilal vs Al-Hazem",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/19 18:00:00 +0000",
-      "endTime": "2026/10/19 20:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50096,
-    "title": "Al-Shabab vs Al Faisaly",
-    "image": "o",
-    "cat": "Pro League 🇸🇦",
-    "eventInfo": {
-      "teamA": "Al-Shabab",
-      "teamB": "Al Faisaly",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/34313/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/56035/image",
-      "eventName": "Al-Shabab vs Al Faisaly",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/19 18:00:00 +0000",
-      "endTime": "2026/10/19 20:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50097,
-    "title": "Braga vs Gil Vicente",
-    "image": "o",
-    "cat": "Liga Portugal",
-    "eventInfo": {
-      "teamA": "Braga",
-      "teamB": "Gil Vicente",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2999/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3010/image",
-      "eventName": "Sporting Braga vs Gil Vicente",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/19 19:15:00 +0000",
-      "endTime": "2026/10/19 21:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50098,
-    "title": "Celta Fortuna vs Tenerife",
-    "image": "o",
-    "cat": "LaLiga 2",
-    "eventInfo": {
-      "teamA": "Celta Fortuna",
-      "teamB": "Tenerife",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/24336/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2822/image",
-      "eventName": "Celta Fortuna vs CD Tenerife",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/19 18:30:00 +0000",
-      "endTime": "2026/10/19 20:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50099,
-    "title": "Al-Fayha vs Al-Ahli",
-    "image": "o",
-    "cat": "Pro League 🇸🇦",
-    "eventInfo": {
-      "teamA": "Al-Fayha",
-      "teamB": "Al-Ahli",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/168094/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image",
-      "eventName": "Al-Fayha vs Al-Ahli",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/19 15:05:00 +0000",
-      "endTime": "2026/10/19 17:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FOX DEPORTES",
-      "THMANYAH SD"
-    ],
-    "formatsNew": [
-      {
-        "title": "FOX DEPORTES",
-        "logo": ""
-      },
-      {
-        "title": "THMANYAH SD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50100,
-    "title": "Trabzonspor vs Beşiktaş",
-    "image": "o",
-    "cat": "Super Lig",
-    "eventInfo": {
-      "teamA": "Trabzonspor",
-      "teamB": "Beşiktaş",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3051/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3050/image",
-      "eventName": "Trabzonspor vs Beşiktaş JK",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/19 17:00:00 +0000",
-      "endTime": "2026/10/19 19:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN SPORTS FHD",
-      "HD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN SPORTS FHD",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
-      },
-      {
-        "title": "HD SERVER",
         "logo": ""
       },
       {
