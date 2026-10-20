@@ -1,16 +1,20 @@
 [
   {
-    "api": "",
-    "link": "https://sonymtmnew.akamaized.net/hls/live/2120300/Footlive1910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792439721~acl=/*~id=21335690130892556580766117607924~hmac=441afd714cbbef2f30d20809b1258520e64cb9dbaea0aeac86f75b9b4d6aff89|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d75e06afd2446982d4d938645ac02633-1792416603244",
-    "logo": "",
-    "title": "SonyLiv (ENG)",
-    "type": "0"
+    "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "title": "FOX DEPORTES",
+    "type": "1"
   },
   {
-    "api": "",
-    "link": "https://sonymtmnew.akamaized.net/hls/live/2120302/Footlive1910/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792439721~acl=/*~id=21335690130892556580766117607924~hmac=441afd714cbbef2f30d20809b1258520e64cb9dbaea0aeac86f75b9b4d6aff89|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d75e06afd2446982d4d938645ac02633-1792416603244",
-    "logo": "",
-    "title": "SonyLiv (HIN)",
-    "type": "0"
+    "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "title": "SporTV BR FHD",
+    "type": "1"
+  },
+  {
+    "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "title": "SportDigital Fussball",
+    "type": "1"
   }
 ]

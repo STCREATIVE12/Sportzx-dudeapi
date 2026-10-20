@@ -1,9 +1,8 @@
 [
   {
-    "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-    "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792417832~acl=%2Fvariant%2Fv1blackout%2Fvcg-01-d%2F*~id=96bc7139-3edd-47ca-8f83-cfabcae165c5~data=hdntl~hmac=365ce38d578b04b527e7137b558b2ff21d0efbcea3a8dd2657e8d1d2ad3f435b/manifest.mpd?vcfilter=cab18332-42e0-471c-a2f5-f14341f3a60a&|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36&Referer=https://www.icc-cricket.com/&Origin=https://www.icc-cricket.com",
-    "logo": "",
-    "title": "ICC TV FHD",
-    "type": "1"
+    "api": "",
+    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+    "title": "DUDE Tv Live",
+    "type": "0"
   }
 ]

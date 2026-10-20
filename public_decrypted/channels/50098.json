@@ -1,16 +1,14 @@
 [
   {
-    "api": "",
-    "link": "https://live.vivo155.com/live/sd-1-4567314.m3u8?txSecret=b5f3c86b34f1015841a1237ec34411e3&txTime=6AD6742C|Referer=https://player.online878.com/",
-    "logo": "",
-    "title": "DUDE Tv Live",
-    "type": "0"
+    "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "title": "TNT SPORTS FHD",
+    "type": "1"
   },
   {
-    "api": "",
-    "link": "http://193.47.62.50/hls/6HHHAAAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-    "logo": "",
-    "title": "LOW SERVER",
-    "type": "0"
+    "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "title": "CBS NETWORK",
+    "type": "1"
   }
 ]
