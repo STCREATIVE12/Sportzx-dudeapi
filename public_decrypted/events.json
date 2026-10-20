@@ -982,6 +982,72 @@
     ]
   },
   {
+    "id": 50077,
+    "title": "Islanders vs Anaheim Ducks",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Islanders",
+      "teamB": "Ducks",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3703/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3675/image",
+      "eventName": "New York Islanders vs Anaheim Ducks",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/20 23:00:00 +0000",
+      "endTime": "2026/10/21 02:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50078,
+    "title": "Washington Capitals vs Kings",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Capitals",
+      "teamB": "Kings",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3691/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3688/image",
+      "eventName": "Washington Capitals vs Los Angeles Kings",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/20 23:00:00 +0000",
+      "endTime": "2026/10/21 02:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50079,
     "title": "Dallas Stars vs Boston Bruins",
     "image": "o",
@@ -1198,11 +1264,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NHL LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1638,11 +1709,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1676,45 +1752,35 @@
     ]
   },
   {
-    "id": 50106,
-    "title": "Australia W vs New Zealand W",
+    "id": 50107,
+    "title": "Manchester City U19 vs AEK Athens U19",
     "image": "o",
-    "cat": "Cricket",
+    "cat": "UEFA Youth",
     "eventInfo": {
-      "teamA": "AUS-W",
-      "teamB": "NZ-W",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/213117/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/213115/image",
-      "eventName": "Australia Women vs New Zealand Women",
+      "teamA": "Manchester City U19",
+      "teamB": "AEK Athens U19",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/120856/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/297065/image",
+      "eventName": "Manchester City U19 vs AEK Athens U19",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/20 08:15:00 +0000",
-      "endTime": "2026/10/20 12:00:00 +0000"
+      "startTime": "2026/10/20 14:00:00 +0000",
+      "endTime": "2026/10/20 16:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - FHD",
-      "FANCODE FHD",
-      "WILLOW - ALT",
-      "Willow HD"
+      "TNT SPORTS FHD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+        "title": "TNT SPORTS FHD",
+        "logo": ""
       },
       {
-        "title": "FANCODE FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "Willow HD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+        "title": "LOW SERVER",
+        "logo": ""
       }
     ]
   }
