@@ -696,10 +696,20 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NBA HD",
+      "NBA LIVE HD",
       "DUDE Tv Live",
       "NBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NBA HD",
+        "logo": ""
+      },
+      {
+        "title": "NBA LIVE HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1323,18 +1333,73 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2817/image",
       "eventName": "Paris Saint-Germain vs Barcelona",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/20 19:00:00 +0000",
       "endTime": "2026/10/20 21:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT SPORTS FHD"
+      "PARAMOUNT+ FHD",
+      "TNT SPORTS FHD",
+      "PRIME VIDEO FHD",
+      "ViX ESPANOL FHD",
+      "PARAMOUNT+ HD",
+      "TAPMAD FHD",
+      "DUDE Tv Live",
+      "SonyLiv - ENG",
+      "SonyLiv - HIN",
+      "SonyLiv - TAM",
+      "SonyLiv - TEL",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
+        "title": "ViX ESPANOL FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "TAPMAD FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - ENG",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - HIN",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - TAM",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - TEL",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1351,18 +1416,48 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image",
       "eventName": "Liverpool vs Villarreal",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/20 19:00:00 +0000",
       "endTime": "2026/10/20 21:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "ViX ESPANOL FHD",
+      "PARAMOUNT+ HD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SonyLiv",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "ViX ESPANOL FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1379,18 +1474,53 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/3250/image",
       "eventName": "Manchester City vs AEK Athens",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/20 19:00:00 +0000",
       "endTime": "2026/10/20 21:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT SPORTS FHD"
+      "PARAMOUNT+ FHD",
+      "TNT SPORTS FHD",
+      "PRIME VIDEO FHD",
+      "PARAMOUNT+ HD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SonyLiv",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1414,11 +1544,36 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "ViX ESPANOL FHD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SonyLiv",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "ViX ESPANOL FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1442,11 +1597,36 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "ViX ESPANOL FHD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SonyLiv",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "ViX ESPANOL FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1470,11 +1650,41 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CBS NETWORK FHD"
+      "PARAMOUNT+ FHD",
+      "CBS NETWORK FHD",
+      "PARAMOUNT+ HD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SonyLiv",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "CBS NETWORK FHD",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1498,11 +1708,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SonyLiv",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1513,30 +1743,24 @@
     "image": "o",
     "cat": "UCL",
     "eventInfo": {
-      "teamA": "Sabah",
-      "teamB": "Dortmund",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/267828/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image",
-      "eventName": "Sabah vs Borussia Dortmund",
+      "teamA": "Golazo Show",
+      "teamB": "Golazo Show",
+      "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+      "eventName": "Golazo Show",
       "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/20 16:45:00 +0000",
-      "endTime": "2026/10/20 18:50:00 +0000"
+      "startTime": "2026/10/20 18:55:00 +0000",
+      "endTime": "2026/10/20 21:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT SPORTS FHD",
-      "CBS NETWORK"
+      "PARAMOUNT+ FHD"
     ],
     "formatsNew": [
       {
-        "title": "TNT SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
       }
     ]
   },
@@ -1559,11 +1783,51 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT SPORTS FHD"
+      "PARAMOUNT+ FHD",
+      "TNT SPORTS FHD",
+      "DAZN GERMAN FHD",
+      "VIX SPANISH FHD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SonyLiv",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "DAZN GERMAN FHD",
+        "logo": ""
+      },
+      {
+        "title": "VIX SPANISH FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1587,11 +1851,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1617,7 +1886,9 @@
     "formats": [
       "FOX DEPORTES",
       "SporTV BR FHD",
-      "SportDigital Fussball"
+      "SportDigital Fussball",
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
@@ -1626,10 +1897,18 @@
       },
       {
         "title": "SporTV BR FHD",
-        "logo": ""
+        "logo": "https://iili.io/CFFRvqJ.png"
       },
       {
         "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1653,72 +1932,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50103,
-    "title": "Al-Taawoun vs Al-Qadsiah",
-    "image": "o",
-    "cat": "Pro League 🇸🇦",
-    "eventInfo": {
-      "teamA": "Al-Taawoun",
-      "teamB": "Al-Qadsiah",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/56021/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/56027/image",
-      "eventName": "Al-Taawoun vs Al-Qadsiah",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/20 15:10:00 +0000",
-      "endTime": "2026/10/20 17:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50104,
-    "title": "Diriyah vs Al-Riyadh",
-    "image": "o",
-    "cat": "Pro League 🇸🇦",
-    "eventInfo": {
-      "teamA": "Diriyah",
-      "teamB": "Al-Riyadh",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/853574/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/168088/image",
-      "eventName": "Diriyah vs Al-Riyadh",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/20 15:00:00 +0000",
-      "endTime": "2026/10/20 17:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "HD SERVER",
         "logo": ""
       },
       {
-        "title": "LOW SERVER",
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1742,44 +1965,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50107,
-    "title": "Manchester City U19 vs AEK Athens U19",
-    "image": "o",
-    "cat": "UEFA Youth",
-    "eventInfo": {
-      "teamA": "Manchester City U19",
-      "teamB": "AEK Athens U19",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/120856/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/297065/image",
-      "eventName": "Manchester City U19 vs AEK Athens U19",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/20 14:00:00 +0000",
-      "endTime": "2026/10/20 16:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TNT SPORTS FHD",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "TNT SPORTS FHD",
-        "logo": ""
       },
       {
-        "title": "LOW SERVER",
+        "title": "SD SERVER",
         "logo": ""
       }
     ]

@@ -1,70 +1,56 @@
 [
   {
-    "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-    "title": "PREMIER SPORTS",
+    "api": "32ac67cee84e7d5db847513d8fab603e:3c7a864bcb6a13f6853056a29b445087",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/woplfhehvh/out/v1/86be7548952045f08faae806cd302199/8a0bc6b9-4881-4f08-9e56-551941eeb062-cenc.mpd?aws_sessionId=9d44cf52-4093-447e-9a34-ad78eae4c617|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+    "title": "PARAMOUNT+ FHD",
     "type": "1"
   },
   {
-    "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "74954f25ca048ea6fceb3f1428a05567:0cfba7d404382cbab6e6b092176939e9",
+    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/otzveaxivr/out/v1/366bfe0613f34d7885083662c51eacea/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "",
-    "title": "beIN ENGLISH FHD",
+    "title": "PRIME VIDEO FHD",
     "type": "1"
   },
   {
-    "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "D Sports FHD",
-    "type": "1"
-  },
-  {
-    "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-    "title": "FANCODE FHD",
-    "type": "1"
-  },
-  {
-    "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
-    "title": "CAZE TV FHD",
+    "api": "0318f8267786a37981dd8f5337a59f12:4b5bf3d6626c56b5687e1f2c1a1e9cce",
+    "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/fm1xxtmp8y/out/v1/b853456a96d8434cb6cea6ade4feddd3/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
+    "title": "ViX ESPANOL FHD",
     "type": "1"
   },
   {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/58306/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-    "logo": "",
-    "title": "ESPN DEPORTES HD",
+    "link": "https://chatgpt.hereisman.net/playlist/58328/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+    "title": "PARAMOUNT+ HD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4565454.m3u8?txSecret=6cbc9471eef7209bbaab9137e58a9c4f&txTime=6AD67C3D|Referer=https://player.online878.com/",
+    "link": "https://live.vivo155.com/live/hd-en-1-4628454.m3u8?txSecret=0a98efc1f21bb9ae3d5a707b4c59b903&txTime=6AD7CBFA|Referer=https://player.online878.com/",
     "logo": "",
     "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://edgestream5.pro/hls/377qj1h2727.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-    "logo": "",
-    "title": "ESPN SPORTS HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://www.rtmpcdn.com/live/1a9a07e3-fd84-44d7-adb6-c2d00e525eb1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "link": "https://edgestream3.pro/hls/sqdahach1ax.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
     "logo": "",
     "title": "HD SERVER",
     "type": "0"
   },
   {
     "api": "",
-    "link": "http://193.47.62.50/hls/O555AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "link": "https://sonymtmnew.akamaized.net/hls/live/2120304/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792549807~acl=/*~id=24102435020246671396275378446783~hmac=4cb1831b2ec4b2ff22bf9c27699ca342d483162ea50b99d8fa8095813eb79515|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=73d3be7275899b1c4464b797001b6019-1792521003209",
+    "logo": "",
+    "title": "SonyLiv",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.44/hls/G444AQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
     "logo": "",
     "title": "LOW SERVER",
     "type": "0"

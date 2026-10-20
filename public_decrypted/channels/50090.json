@@ -1,8 +1,86 @@
 [
   {
+    "api": "449ccf1954ef0a01197472717a5fa950:03b3265fadea745f577bf08b9d244d19",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/yadbrylpvo/out/v1/96e52e06546e4dd78db54375d4c4435b/21d84208-bb17-4717-9a0b-f6e239cf7105-cenc.mpd?aws_sessionId=ac339b4a-93cb-4367-a0e1-5578247d34fc|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+    "title": "PARAMOUNT+ FHD",
+    "type": "1"
+  },
+  {
     "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
     "title": "TNT SPORTS FHD",
     "type": "1"
+  },
+  {
+    "api": "ee57f538fd26460469615892f34a7526:fc8fd5a49a1116473b93c09e7beeb719",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jlonvwiokx/out/v1/07bec687c8054c938519a604449e22aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "PRIME VIDEO FHD",
+    "type": "1"
+  },
+  {
+    "api": "f7a854d5fdcf12cb47bc58298a6668a1:f28532cf4e9b88b72d1bcc751262cea1",
+    "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/elbaat95gq/out/v1/59dc0639d2c44432bf89984131478749/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
+    "title": "ViX ESPANOL FHD",
+    "type": "1"
+  },
+  {
+    "api": "",
+    "link": "https://chatgpt.hereisman.net/playlist/58325/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+    "title": "PARAMOUNT+ HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8?|Referer=https://www.tapmad.com/",
+    "logo": "",
+    "title": "TAPMAD FHD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://live.vivo155.com/live/hd-en-1-4628468.m3u8?txSecret=2553058b8ee16dbdc18579e3b3f86078&txTime=6AD7CA51|Referer=https://player.online878.com/",
+    "logo": "",
+    "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchc857/cricodi_2010-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792564379~acl=/*~id=98153227142177784593095241423630~hmac=7dfa3f9022136a0e86c657e2d6eb5f64cb67f28568e1f7151aead9b0bb9898e4|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=73d3be7275899b1c4464b797001b6019-1792521003209",
+    "logo": "",
+    "title": "SonyLiv - ENG",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2119921/cricodi_2010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792564379~acl=/*~id=98153227142177784593095241423630~hmac=7dfa3f9022136a0e86c657e2d6eb5f64cb67f28568e1f7151aead9b0bb9898e4|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=73d3be7275899b1c4464b797001b6019-1792521003209",
+    "logo": "",
+    "title": "SonyLiv - HIN",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2119951/cricodi_2010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792564379~acl=/*~id=98153227142177784593095241423630~hmac=7dfa3f9022136a0e86c657e2d6eb5f64cb67f28568e1f7151aead9b0bb9898e4|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=73d3be7275899b1c4464b797001b6019-1792521003209",
+    "logo": "",
+    "title": "SonyLiv - TAM",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchc77b/cricodi_2010-tel-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792564379~acl=/*~id=98153227142177784593095241423630~hmac=7dfa3f9022136a0e86c657e2d6eb5f64cb67f28568e1f7151aead9b0bb9898e4|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=73d3be7275899b1c4464b797001b6019-1792521003209",
+    "logo": "",
+    "title": "SonyLiv - TEL",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.59/hls/G444AQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "logo": "",
+    "title": "LOW SERVER",
+    "type": "0"
   }
 ]

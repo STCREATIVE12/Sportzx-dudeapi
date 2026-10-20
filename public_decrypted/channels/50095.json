@@ -1,8 +1,51 @@
 [
   {
+    "api": "e9f5c1e0ae1fda9a6ae25e4767f4eccf:bf723baa6c2344a1dc196f802bdae712",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/elmxnhood1/out/v1/82dd9b29da794b648a9da2353d4ff54e/78b5d5ad-b995-41a7-8683-bfe9ddb441bc-cenc.mpd?aws_sessionId=32019493-9e8b-4f46-b2d4-92be59510262|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+    "title": "PARAMOUNT+ FHD",
+    "type": "1"
+  },
+  {
+    "api": "c1341ea956e99e77bd9861eaa71c9196:d23c0da5d15131b62cb00f8979538931",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cdlled24gg/out/v1/f3efacec242545b4866f58f155bf1a86/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "PRIME VIDEO FHD",
+    "type": "1"
+  },
+  {
+    "api": "590066488b49b84fea9403c9be1ded71:f4bbcf1bb1335d0d84666376d11dfaa2",
+    "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/y2fjj5s3fz/out/v1/b5ef208fdea84ed8a2f0aefe7fdb86cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
+    "title": "ViX ESPANOL FHD",
+    "type": "1"
+  },
+  {
     "api": "",
-    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+    "link": "https://live.vivo155.com/live/hd-en-1-4628466.m3u8?txSecret=0e84833ef8e52a1de3e8824c05ac16fa&txTime=6AD7CD2B|Referer=https://player.online878.com/",
+    "logo": "",
     "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://edgestream1.pro/hls/griogoehvn2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+    "logo": "",
+    "title": "HD SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://sonymtmnew.akamaized.net/hls/live/2120308/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792549807~acl=/*~id=24102435020246671396275378446783~hmac=4cb1831b2ec4b2ff22bf9c27699ca342d483162ea50b99d8fa8095813eb79515|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=73d3be7275899b1c4464b797001b6019-1792521003209",
+    "logo": "",
+    "title": "SonyLiv",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.41/hls/G444AQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "logo": "",
+    "title": "LOW SERVER",
     "type": "0"
   }
 ]

@@ -1,63 +1,56 @@
 [
   {
-    "api": "f60d913fcb516e71da3926025746c39a:bf308ff4098eb2518131d549e346026d",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/bjuobqqcik/out/v1/c232618725b84b8ab98c014b2c047b8e/1baee461-37fd-478e-ad8e-dc9628b03a90-cenc.mpd?aws_sessionId=f42b41ec-a922-42aa-bb7b-17abaf9aa2ec|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "7b8f1e391c14b5aec1e0dd606e7e73c9:852c24cb04f1395c518b1408d3ca149a",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/dzws6tdprz/out/v1/f20be091afac4a97a0b1ceb9c93e5e33/e88cf724-c42e-4be9-8b0a-e4542f0933a1-cenc.mpd?aws_sessionId=d8fa2fa0-5965-4366-97b0-f3907c0c5cfb|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
     "title": "PARAMOUNT+ FHD",
     "type": "1"
   },
   {
-    "api": "e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/8ku8swxcow/out/v1/e9584c6de0d145a9ac1b36ddf7795081/bc6462b9-02f2-4c15-a421-45c00251b305-cenc.mpd?aws_sessionId=0b44bf40-59dd-4db0-a2a0-aacd0f0d33b8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "FUBO SPORTS FHD",
+    "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+    "title": "TNT SPORTS FHD",
     "type": "1"
   },
   {
-    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "c3fc8fa15b79d2956b8a29e8f8cf9d95:5cbce19f4d78ad3c021274a5bc592ef2",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/clkwshlcwd/out/v1/ed61ce3c957c423288158c197e385994/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "",
-    "title": "beIN ENGLISH FHD",
-    "type": "1"
-  },
-  {
-    "api": "1ef586b93ef9bef98fec6240518426cc:dd25f02f6694a016a015c96d1e6d9eb8",
-    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jsclesugzm/out/v1/d34c1fbfd7bf4a3d838fadcc27f3e9d0/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "DAZN ITALIAN FHD",
-    "type": "1"
-  },
-  {
-    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-    "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-    "logo": "",
-    "title": "SPORT 1 CZ FHD",
+    "title": "PRIME VIDEO FHD",
     "type": "1"
   },
   {
     "api": "",
-    "link": "https://live.vivo155.com/live/sd-1-4549146.m3u8?txSecret=a35927e2c7fd22b2d519e0964e172cc1&txTime=6AD6769A|Referer=https://player.online878.com/",
-    "logo": "",
-    "title": "DUDE Tv Live",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://edgestream5.pro/hls/syaLqucEne4k.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+    "link": "https://chatgpt.hereisman.net/playlist/58327/load-playlist?|Referer=https://gooz.aapmains.net",
     "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
     "title": "PARAMOUNT+ HD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://www.rtmpcdn.com/live/41b8ec4c-48c1-4376-9877-5f0a404da45d.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "link": "https://live.vivo155.com/live/hd-en-1-4628459.m3u8?txSecret=aec468289e408573f1d272fcc71e43cb&txTime=6AD7CC37|Referer=https://player.online878.com/",
+    "logo": "",
+    "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://edgestream3.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
     "logo": "",
     "title": "HD SERVER",
     "type": "0"
   },
   {
     "api": "",
-    "link": "http://193.47.62.50/hls/O555.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "link": "https://sonymtmnew.akamaized.net/hls/live/2120306/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792549807~acl=/*~id=24102435020246671396275378446783~hmac=4cb1831b2ec4b2ff22bf9c27699ca342d483162ea50b99d8fa8095813eb79515|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=73d3be7275899b1c4464b797001b6019-1792521003209",
+    "logo": "",
+    "title": "SonyLiv",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.44/hls/G444AQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
     "logo": "",
     "title": "LOW SERVER",
     "type": "0"

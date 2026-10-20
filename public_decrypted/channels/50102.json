@@ -1,8 +1,16 @@
 [
   {
     "api": "",
-    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+    "link": "https://live.vivo155.com/live/sd-1-4599623.m3u8?txSecret=4fd818c95c039ad97f9203e527bac10f&txTime=6AD7BF7D|Referer=https://player.online878.com/",
+    "logo": "",
     "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.55/hls/KTTTQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "logo": "",
+    "title": "SD SERVER",
     "type": "0"
   }
 ]
