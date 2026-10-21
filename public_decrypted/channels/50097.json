@@ -1,8 +1,72 @@
 [
   {
+    "api": "b7c09837bb7f44dada600c6da2cc48ca:4598cf5ae8583a5a0b05f9c39f73d654",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ndsab28kzq/out/v1/4a7f833f94a7469687068ffd5013eab4/1153fa4c-cfc7-4593-86b1-8fac619632e9-cenc.mpd?aws_sessionId=979914bf-7019-4d26-a4d8-3e00049a7a04|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+    "title": "PARAMOUNT+ FHD",
+    "type": "1"
+  },
+  {
+    "api": "a249c4852289f76e83cba52e675138c9:6f874a915cd47774e85ab1e424bd1ae9",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qlsgg0owe3/out/v1/1244bf15fcb04cb391402c59edf22803/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "PRIME VIDEO FHD",
+    "type": "1"
+  },
+  {
+    "api": "72826139416d3be628f62e8735b66bd9:40f4afcb807b08003fcdf5ead30d59be",
+    "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/xvx8prfipt/out/v1/6c389bcafb16429dbfe7e407a00c42db/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "TNT BRASIL FHD",
+    "type": "1"
+  },
+  {
+    "api": "9ed00edc2ff4946d775c158d021d2643:64800fdd731c4b5cf3b9e5b05a981e2b",
+    "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/2zkbznblfa/out/v1/b853456a96d8434cb6cea6ade4feddd3/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
+    "title": "ViX ESPANOL FHD",
+    "type": "1"
+  },
+  {
     "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
     "title": "CBS NETWORK FHD",
     "type": "1"
+  },
+  {
+    "api": "",
+    "link": "https://live.vivo155.com/live/hd-en-1-4628402.m3u8?txSecret=b52085b85d0445e02941786debdc0c98&txTime=6AD91A33|Referer=https://player.online878.com/",
+    "logo": "",
+    "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://edgestream6.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+    "logo": "",
+    "title": "HD SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://sonymtmnew.akamaized.net/hls/live/2094589/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792640391~acl=/*~id=30617965740680838456460764547651~hmac=b801313efa7a3d693af8d662d81053f90d247da5819bf9fd87c13d3bcb6bb21a|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5aef189d6fcf7db392d0c0ea992556ac-1792607401810",
+    "logo": "",
+    "title": "SonyLiv",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://pull.qjkngv.com/live/stream-505931_lhd.m3u8",
+    "logo": "",
+    "title": "DUDE Tv HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.55/hls/XAXAXA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "logo": "",
+    "title": "LOW SERVER",
+    "type": "0"
   }
 ]

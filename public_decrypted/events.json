@@ -684,6 +684,44 @@
     ]
   },
   {
+    "id": 50027,
+    "title": "Atlanta Dream vs Valkyries",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Dream",
+      "teamB": "Valkyries",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/35545/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
+      "eventName": "Atlanta Dream vs Golden State Valkyries",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/22 00:00:00 +0000",
+      "endTime": "2026/10/22 02:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN SPORTS FHD",
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "WNBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50032,
     "title": "Milwaukee Brewers",
     "image": "o",
@@ -1199,10 +1237,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PREMIER SPORTS",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "PREMIER SPORTS",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1232,10 +1275,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PREMIER SPORTS",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "PREMIER SPORTS",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1407,11 +1455,91 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT SPORTS FHD"
+      "PARAMOUNT+ FHD",
+      "TNT SPORTS FHD",
+      "PRIME VIDEO FHD",
+      "DAZN SPORTS FHD",
+      "TNT BRASIL FHD",
+      "ViX ESPANOL FHD",
+      "CBS SPORTS FHD",
+      "PARAMOUNT+ HD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SonyLiv - ENG",
+      "SonyLiv - HIN",
+      "SonyLiv - TAM",
+      "SonyLiv - TEL ",
+      "SonyLiv - KAN",
+      "SD SERVER",
+      "LOW QUALITY"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "TNT BRASIL FHD",
+        "logo": ""
+      },
+      {
+        "title": "ViX ESPANOL FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
+      {
+        "title": "CBS SPORTS FHD",
+        "logo": "https://iili.io/BtCdabj.png"
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - ENG",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - HIN",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - TAM",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - TEL ",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - KAN",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
         "logo": ""
       }
     ]
@@ -1435,11 +1563,61 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT SPORTS FHD"
+      "PARAMOUNT+ FHD",
+      "TNT SPORTS FHD",
+      "PRIME VIDEO FHD",
+      "TNT BRASIL FHD",
+      "DAZN SPORTS FHD",
+      "CBS SPORTS FHD",
+      "PARAMOUNT+ HD",
+      "DUDE Tv Live",
+      "English HD",
+      "Spanish HD",
+      "SonyLiv"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
+        "title": "TNT BRASIL FHD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "CBS SPORTS FHD",
+        "logo": "https://iili.io/BtCdabj.png"
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "English HD",
+        "logo": ""
+      },
+      {
+        "title": "Spanish HD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv",
         "logo": ""
       }
     ]
@@ -1463,11 +1641,56 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DAZN SPORTS FHD",
+      "ViX ESPANOL FHD",
+      "PARAMOUNT+ FHD",
+      "PRIME VIDEO FHD",
+      "PARAMOUNT+ HD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SonyLiv",
+      "DUDE Tv HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "DAZN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "ViX ESPANOL FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv HD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1491,11 +1714,51 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT SPORTS FHD"
+      "PARAMOUNT+ FHD",
+      "TNT SPORTS FHD",
+      "PRIME VIDEO FHD",
+      "TNT BRASIL FHD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SonyLiv",
+      "DUDE Tv HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
+        "title": "TNT BRASIL FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv HD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1519,11 +1782,56 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CBS NETWORK FHD"
+      "PARAMOUNT+ FHD",
+      "PRIME VIDEO FHD",
+      "TNT BRASIL FHD",
+      "ViX ESPANOL FHD",
+      "CBS NETWORK FHD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SonyLiv",
+      "DUDE Tv HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
+        "title": "TNT BRASIL FHD",
+        "logo": ""
+      },
+      {
+        "title": "ViX ESPANOL FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
+      {
         "title": "CBS NETWORK FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv HD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1547,11 +1855,51 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "PRIME VIDEO FHD",
+      "TNT BRASIL FHD",
+      "ViX ESPANOL FHD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SonyLiv",
+      "DUDE Tv HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
+        "title": "TNT BRASIL FHD",
+        "logo": ""
+      },
+      {
+        "title": "ViX ESPANOL FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv HD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1575,55 +1923,20 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50100,
-    "title": "Como vs Manchester United",
-    "image": "o",
-    "cat": "UCL",
-    "eventInfo": {
-      "teamA": "Como",
-      "teamB": "Man Utd",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2704/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image",
-      "eventName": "Como vs Manchester United",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/21 16:45:00 +0000",
-      "endTime": "2026/10/21 18:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
       "PARAMOUNT+ FHD",
-      "TNT SPORTS FHD",
       "PRIME VIDEO FHD",
       "TNT BRASIL FHD",
       "ViX ESPANOL FHD",
-      "CBS SPORTS HD",
-      "PARAMOUNT+ HD",
       "DUDE Tv Live",
-      "ENGLISH HD",
-      "SPANISH HD",
+      "HD SERVER",
       "SonyLiv",
+      "DUDE Tv HD",
       "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "PARAMOUNT+ FHD",
         "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "TNT SPORTS FHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
       },
       {
         "title": "PRIME VIDEO FHD",
@@ -1638,23 +1951,11 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
       },
       {
-        "title": "CBS SPORTS HD",
-        "logo": "https://iili.io/BtCdabj.png"
-      },
-      {
-        "title": "PARAMOUNT+ HD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
         "title": "DUDE Tv Live",
         "logo": ""
       },
       {
-        "title": "ENGLISH HD",
-        "logo": ""
-      },
-      {
-        "title": "SPANISH HD",
+        "title": "HD SERVER",
         "logo": ""
       },
       {
@@ -1662,7 +1963,43 @@
         "logo": ""
       },
       {
+        "title": "DUDE Tv HD",
+        "logo": ""
+      },
+      {
         "title": "LOW SERVER",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50100,
+    "title": "Como vs Manchester United",
+    "image": "o",
+    "cat": "UCL",
+    "eventInfo": {
+      "teamA": "Golazo Show",
+      "teamB": "Golazo Show",
+      "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+      "eventName": "Golazo Show",
+      "eventType": "null",
+      "startTime": "2026/10/21 18:55:00 +0000",
+      "endTime": "2026/10/21 21:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "PARAMOUNT+ FHD",
+      "TNT BRASIL FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "TNT BRASIL FHD",
         "logo": ""
       }
     ]
