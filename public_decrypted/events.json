@@ -388,7 +388,6 @@
       "WILLOW - FHD",
       "WILLOW - ALT",
       "TAPMAD - FHD",
-      "A SPORTS HD",
       "T SPORTS HD",
       "FANCODE - IN"
     ],
@@ -403,10 +402,6 @@
       },
       {
         "title": "TAPMAD - FHD",
-        "logo": ""
-      },
-      {
-        "title": "A SPORTS HD",
         "logo": ""
       },
       {
@@ -708,49 +703,6 @@
     "formatsNew": [
       {
         "title": "DUDE Tv LIVE",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50033,
-    "title": "Cleveland Guardians",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Rays",
-      "teamB": "Guardians",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
-      "eventName": "Tampa Bay Rays vs Cleveland Guardians",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/20 00:00:00 +0000",
-      "endTime": "2026/10/20 03:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TNT SPORTS FHD",
-      "TNT2 SPORTS FHD",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "TNT SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "TNT2 SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
@@ -1115,8 +1067,7 @@
       "TAPMAD - FHD",
       "FOX CRICKET HD",
       "A SPORTS HD",
-      "FANCODE - IN",
-      "LOW SERVER"
+      "FANCODE - IN"
     ],
     "formatsNew": [
       {
@@ -1150,10 +1101,6 @@
       {
         "title": "FANCODE - IN",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
       }
     ]
   },
