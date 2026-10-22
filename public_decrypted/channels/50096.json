@@ -1,65 +1,16 @@
 [
   {
-    "api": "f7c50f99420f5a06246e46284deb5134:56c04201ec46467db94439ac102d04ec",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/arvj0adqfc/out/v1/61ff2827eebc406bb8b50c2424ff59ed/f2bd7b97-3fb6-48f2-99f5-09c1e7c44b74-cenc.mpd?aws_sessionId=cccc5b37-c942-4ff5-97b7-063129f61680|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "d88c391e98c10e22ac2a46a0cf06efb8:649d917a1e78047767f3f4f43f15dfe6",
+    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/hu9hyy5zhq/out/v1/3373ba873a1647fcb9014989c9a01db2/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
     "title": "PARAMOUNT+ FHD",
     "type": "1"
   },
   {
-    "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
-    "title": "TNT SPORTS FHD",
-    "type": "1"
-  },
-  {
-    "api": "37831c713f98d8bba8265557779d436d:ede25b61e30cb83997825b72bbbe9092",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3czy2h65i8/out/v1/e55549b3868843b887a725b77737fbe7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "PRIME VIDEO FHD",
-    "type": "1"
-  },
-  {
-    "api": "805b6b33d804f6a3fb365b594178a959:6bf141292d4c7b8003f668a48c4b0b5a",
-    "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/p9dh9l5p4f/out/v1/9c57a90869104d649194a40f263bf60d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "TNT BRASIL FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4628387.m3u8?txSecret=727a908cf3141f1fc83115af81258032&txTime=6AD91A72|Referer=https://player.online878.com/",
+    "link": "https://live.vivo155.com/live/hd-en-1-4630529.m3u8?txSecret=0db2e6aa11bfee9104ac0c8bc6db7cb3&txTime=6ADA6E1C|Referer=https://player.online878.com/",
     "logo": "",
     "title": "DUDE Tv Live",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://edgestream3.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-    "logo": "",
-    "title": "HD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://sonymtmnew.akamaized.net/hls/live/2120305/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792640391~acl=/*~id=30617965740680838456460764547651~hmac=b801313efa7a3d693af8d662d81053f90d247da5819bf9fd87c13d3bcb6bb21a|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=fb1b22d8beae6406016537ce87f365bb-1792607888376",
-    "logo": "",
-    "title": "SonyLiv",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://pull.qjkngv.com/live/stream-654581_lhd.m3u8",
-    "logo": "",
-    "title": "DUDE Tv HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.41/hls/RGRGRGq.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-    "logo": "",
-    "title": "LOW SERVER",
     "type": "0"
   }
 ]

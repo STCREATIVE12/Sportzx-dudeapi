@@ -1,16 +1,30 @@
 [
   {
-    "api": "01b1876fa350df084aa1fc80f3a4e75d:e67deb0fcd60726770099a5762015272",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/vccsuzk9hw/out/v1/9f0c651db4144f9794f7552472320e3d/9e6ee722-12ab-410a-9892-b17fb79cda3a-cenc.mpd?aws_sessionId=03df375b-e23d-4dff-b823-e2541bdb779b|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "1c364e9d0752dd1f4db530adc5c6adc4:681fe9910c1722904caceb10b0b4ea89",
+    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ekvahzwcfo/out/v1/ca275baa40244136988b8d2b02cc1add/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
     "title": "PARAMOUNT+ FHD",
     "type": "1"
   },
   {
-    "api": "83a4bc2c011e2c72b35b7b5f2d35560d:01bd0115c83d3493449181ba68998ab1",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd",
+    "api": "",
+    "link": "https://chatgpt.hereisman.net/playlist/58408/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+    "title": "PARAMOUNT+ HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://live1.quickscoreboardz.com/live/channel18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://xlz.domainkqt.cc/&Origin=https://xlz.domainkqt.cc",
     "logo": "",
-    "title": "TNT BRASIL FHD",
-    "type": "1"
+    "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://sonydaime.akamaized.net/hls/live/2118669/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792738629~acl=/*~id=22725931798340217335905136680640~hmac=8630f7a5d32dc7f2a980d2bf364509a0b29b555220b8a07cb8f0987b95484548|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=cb73708bf8ec8dae5186e528494403c2-1792695001279",
+    "logo": "",
+    "title": "SonyLiv",
+    "type": "0"
   }
 ]

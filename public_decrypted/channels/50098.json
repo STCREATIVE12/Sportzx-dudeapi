@@ -1,65 +1,16 @@
 [
   {
-    "api": "84063b5725b7636a17b4f6702754d666:fa90348228b5b5aa16d5fd3fb65ce68a",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/s5oqdzcurt/out/v1/6e536800ac7644e3a08e2eac0d76bbee/f140a21d-82d4-45af-b7b6-e6cfd8371a92-cenc.mpd?aws_sessionId=a2180d62-4a21-4ca8-a305-3266c4d2fe12|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "4c97302c1de1a53d08757b8c4921a5e7:b51847d6e375628323afb12d0b0ca427",
+    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ss9vl3dioi/out/v1/cd3157da371e49ebb0d72de1c1370685/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
     "title": "PARAMOUNT+ FHD",
     "type": "1"
   },
   {
-    "api": "7e9f4e6d02a7e6e7b37423cb4a7c2385:d72f120bba7e18487c31eb611be8cdce",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkna25hmw1/out/v1/945e9b82fbb040dca9ad5338dd20bebe/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "PRIME VIDEO FHD",
-    "type": "1"
-  },
-  {
-    "api": "096e729d1e4aa6a5e9138dff91b63766:68c2ab4ee2196e7d06f9c92e390b4f6b",
-    "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ryq1qlnsqy/out/v1/e240932692104315a482c8ec191da31c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "TNT BRASIL FHD",
-    "type": "1"
-  },
-  {
-    "api": "f1f405bd673730b2a2b9ab9c7e6b647f:96c426038b36312ff1218800d7e856ff",
-    "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/eussy3bbvt/out/v1/b5ef208fdea84ed8a2f0aefe7fdb86cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
-    "title": "ViX ESPANOL FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4628411.m3u8?txSecret=0edd4eb4689b4625e2d2c3cbb650fc03&txTime=6AD91A94|Referer=https://player.online878.com/",
+    "link": "https://live.vivo155.com/live/hd-en-1-4630562.m3u8?txSecret=ceebb2c1571d52fbcaae38e5e4f81558&txTime=6ADA6E0B|Referer=https://player.online878.com/",
     "logo": "",
     "title": "DUDE Tv Live",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://edgestream6.pro/hls/377qj1h2727.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-    "logo": "",
-    "title": "HD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://sonymtmnew.akamaized.net/hls/live/2094588/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792640391~acl=/*~id=30617965740680838456460764547651~hmac=b801313efa7a3d693af8d662d81053f90d247da5819bf9fd87c13d3bcb6bb21a|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=5aef189d6fcf7db392d0c0ea992556ac-1792607401810",
-    "logo": "",
-    "title": "SonyLiv",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://pull.qjkngv.com/live/stream-707243_lhd.m3u8",
-    "logo": "",
-    "title": "DUDE Tv HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.55/hls/XAXAXAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-    "logo": "",
-    "title": "LOW SERVER",
     "type": "0"
   }
 ]

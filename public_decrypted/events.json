@@ -1186,54 +1186,6 @@
     ]
   },
   {
-    "id": 50085,
-    "title": "Australia W vs New Zealand W",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "AUS-W",
-      "teamB": "NZ-W",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/213117/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/213115/image",
-      "eventName": "Australia W vs New Zealand W",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/22 08:15:00 +0000",
-      "endTime": "2026/10/22 12:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD",
-      "FANCODE FHD",
-      "WILLOW - ALT",
-      "WILLOW HD",
-      "EUROSPORT - FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "FANCODE FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "WILLOW HD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "EUROSPORT - FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50086,
     "title": "Flamengo vs Estudiantes",
     "image": "o",
@@ -1334,18 +1286,38 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2692/image",
       "eventName": "Bournemouth vs AC Milan",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/22 19:00:00 +0000",
       "endTime": "2026/10/22 21:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT SPORTS FHD"
+      "TNT SPORTS FHD",
+      "PARAMOUNT+ HD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SonyLiv "
     ],
     "formatsNew": [
       {
         "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv ",
         "logo": ""
       }
     ]
@@ -1362,18 +1334,33 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image",
       "eventName": "Beşiktaş JK vs Crystal Palace",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/22 19:00:00 +0000",
       "endTime": "2026/10/22 21:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT SPORTS FHD"
+      "TNT SPORTS FHD",
+      "PARAMOUNT+ HD",
+      "DUDE Tv Live",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
         "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ]
@@ -1397,11 +1384,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT SPORTS FHD"
+      "TNT SPORTS FHD",
+      "PARAMOUNT+ HD",
+      "DUDE Tv Live",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
         "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ]
@@ -1453,11 +1455,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ HD",
+      "DUDE Tv Live",
+      "SonyLiv "
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv ",
         "logo": ""
       }
     ]
@@ -1537,11 +1549,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ HD",
+      "DUDE Tv Live",
+      "SonyLiv "
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv ",
         "logo": ""
       }
     ]
@@ -1621,9 +1643,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ HD",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1649,9 +1676,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ HD",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1855,506 +1887,29 @@
     ]
   },
   {
-    "id": 50109,
-    "title": "Lech Poznan vs Sunderland",
-    "image": "o",
-    "cat": "UEFA Europa",
-    "eventInfo": {
-      "teamA": "Lech",
-      "teamB": "Sunderland",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3121/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/41/image",
-      "eventName": "Lech Poznań vs Sunderland",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/22 16:45:00 +0000",
-      "endTime": "2026/10/22 18:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TNT SPORTS FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "TNT SPORTS FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50110,
-    "title": "Juventus vs Stade Rennais",
-    "image": "o",
-    "cat": "UEFA Europa",
-    "eventInfo": {
-      "teamA": "Juventus",
-      "teamB": "Rennes",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2687/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1658/image",
-      "eventName": "Juventus vs Stade Rennais",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/22 16:45:00 +0000",
-      "endTime": "2026/10/22 18:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50111,
-    "title": "OFI vs Bayer Leverkusen",
-    "image": "o",
-    "cat": "UEFA Europa",
-    "eventInfo": {
-      "teamA": "OFI",
-      "teamB": "Leverkusen",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3241/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2681/image",
-      "eventName": "OFI Crete vs Bayer Leverkusen",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/22 16:45:00 +0000",
-      "endTime": "2026/10/22 18:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50112,
-    "title": "Sturm Graz vs Marseille",
-    "image": "o",
-    "cat": "UEFA Europa",
-    "eventInfo": {
-      "teamA": "Sturm",
-      "teamB": "Marseille",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2051/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1641/image",
-      "eventName": "Sturm Graz vs Olympique Marseille",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/22 16:45:00 +0000",
-      "endTime": "2026/10/22 18:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50113,
-    "title": "Dinamo vs NEC Nijmegen",
-    "image": "o",
-    "cat": "UEFA Europa",
-    "eventInfo": {
-      "teamA": "Dinamo",
-      "teamB": "NEC",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2032/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2962/image",
-      "eventName": "Dinamo Zagreb vs NEC Nijmegen",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/22 16:45:00 +0000",
-      "endTime": "2026/10/22 18:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50114,
-    "title": "Ararat-Armenia vs AZ Alkmaar",
-    "image": "o",
-    "cat": "UEFA Europa",
-    "eventInfo": {
-      "teamA": "Ararat-Armenia",
-      "teamB": "AZ",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/262229/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2950/image",
-      "eventName": "Ararat-Armenia vs AZ Alkmaar",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/22 16:45:00 +0000",
-      "endTime": "2026/10/22 18:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50115,
-    "title": "USG vs Hapoel Be'er Sheva",
-    "image": "o",
-    "cat": "UEFA Europa",
-    "eventInfo": {
-      "teamA": "USG",
-      "teamB": "H. Be'er Sheva",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4860/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5202/image",
-      "eventName": "Royale USG vs Hapoel Be'er Sheva",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/22 16:45:00 +0000",
-      "endTime": "2026/10/22 18:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50116,
-    "title": "Ferencvaros vs Torreense",
-    "image": "o",
-    "cat": "UEFA Europa",
-    "eventInfo": {
-      "teamA": "Ferencváros",
-      "teamB": "Torreense",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1925/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/25787/image",
-      "eventName": "Ferencváros vs Torreense",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/22 16:45:00 +0000",
-      "endTime": "2026/10/22 18:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50117,
-    "title": "Jablonec vs Brighton",
-    "image": "o",
-    "cat": "UEFA Conference",
-    "eventInfo": {
-      "teamA": "Jablonec",
-      "teamB": "Brighton",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2205/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/30/image",
-      "eventName": "Jablonec vs Brighton",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/22 16:45:00 +0000",
-      "endTime": "2026/10/22 18:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TNT SPORTS FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "TNT SPORTS FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50118,
-    "title": "Trabzonspor vs Hearts",
-    "image": "o",
-    "cat": "UEFA Conference",
-    "eventInfo": {
-      "teamA": "Trabzonspor",
-      "teamB": "Hearts",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3051/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2353/image",
-      "eventName": "Trabzonspor vs Heart of Midlothian",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/22 16:45:00 +0000",
-      "endTime": "2026/10/22 18:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TNT SPORTS FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "TNT SPORTS FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50119,
-    "title": "Crvena zvezda vs Kobenhavn",
-    "image": "o",
-    "cat": "UEFA Conference",
-    "eventInfo": {
-      "teamA": "Crvena zvezda",
-      "teamB": "København",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5149/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1284/image",
-      "eventName": "Crvena zvezda vs København",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/22 16:45:00 +0000",
-      "endTime": "2026/10/22 18:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50120,
-    "title": "Getafe vs Lugano",
-    "image": "o",
-    "cat": "UEFA Conference",
-    "eventInfo": {
-      "teamA": "Getafe",
-      "teamB": "Lugano",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2859/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2443/image",
-      "eventName": "Getafe vs FC Lugano",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/22 16:45:00 +0000",
-      "endTime": "2026/10/22 18:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50121,
-    "title": "Pafos FC vs Riga",
-    "image": "o",
-    "cat": "UEFA Conference",
-    "eventInfo": {
-      "teamA": "Pafos",
-      "teamB": "Riga",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/171626/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/162368/image",
-      "eventName": "Pafos FC vs Riga FC",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/22 16:45:00 +0000",
-      "endTime": "2026/10/22 18:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50122,
-    "title": "Inter vs Craiova",
-    "image": "o",
-    "cat": "UEFA Conference",
-    "eventInfo": {
-      "teamA": "Inter",
-      "teamB": "U. Craiova",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/37946/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/116223/image",
-      "eventName": "Inter vs Universitatea Craiova",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/22 16:45:00 +0000",
-      "endTime": "2026/10/22 18:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50123,
-    "title": "Kauno Zalgiris vs SK Brann",
-    "image": "o",
-    "cat": "UEFA Conference",
-    "eventInfo": {
-      "teamA": "Kauno Žalgiris",
-      "teamB": "Brann",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/80741/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1159/image",
-      "eventName": "Kauno Zalgiris vs SK Brann",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/22 16:45:00 +0000",
-      "endTime": "2026/10/22 18:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50124,
-    "title": "Nordsjaelland vs CSKA Sofia",
-    "image": "o",
-    "cat": "UEFA Conference",
-    "eventInfo": {
-      "teamA": "Nordsjælland",
-      "teamB": "CSKA Sofia",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1292/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3275/image",
-      "eventName": "Nordsjælland vs CSKA Sofia",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/22 16:45:00 +0000",
-      "endTime": "2026/10/22 18:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50125,
-    "title": "Iberia vs Mjallby",
-    "image": "o",
-    "cat": "UEFA Conference",
-    "eventInfo": {
-      "teamA": "Iberia",
-      "teamB": "Mjällby",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/116312/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1783/image",
-      "eventName": "Iberia 1999 vs Mjällby",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/22 16:45:00 +0000",
-      "endTime": "2026/10/22 18:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50126,
     "title": "Kairat vs Panathinaikos",
     "image": "o",
-    "cat": "UEFA Conference",
+    "cat": "UEFA Europa",
     "eventInfo": {
-      "teamA": "Kairat",
-      "teamB": "Panathinaikos",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5172/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3248/image",
-      "eventName": "Kairat Almaty vs Panathinaikos",
+      "teamA": "Golazo Show",
+      "teamB": "Golazo Show",
+      "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/679/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/17015/image",
+      "eventName": "Golazo Show",
       "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/22 14:30:00 +0000",
-      "endTime": "2026/10/22 16:30:00 +0000"
+      "startTime": "2026/10/22 16:40:00 +0000",
+      "endTime": "2026/10/22 21:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
       }
     ]
   },
@@ -2377,39 +1932,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50128,
-    "title": "Al-Hazem vs Al-Fayha",
-    "image": "o",
-    "cat": "Pro League 🇸🇦",
-    "eventInfo": {
-      "teamA": "Al-Hazem",
-      "teamB": "Al-Fayha",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/168086/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/168094/image",
-      "eventName": "Al-Hazem vs Al-Fayha",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/22 13:40:00 +0000",
-      "endTime": "2026/10/22 15:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
