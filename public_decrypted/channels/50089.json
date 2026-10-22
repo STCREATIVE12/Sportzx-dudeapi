@@ -1,30 +1,8 @@
 [
   {
     "api": "",
-    "link": "https://sonymtmnew.akamaized.net/hls/live/2005444/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792353476~acl=/*~id=47939079414368529441654719488892~hmac=34d49ce64e9cf0c39367f9f32489ee9068066e591a5ff8f25130d85379622e40|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c6335a6bc05aedb3b66134262195b652-1792330204421",
-    "logo": "",
-    "title": "SonyLiv (ENG)",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://sonymtmnew.akamaized.net/hls/live/2022316/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792353476~acl=/*~id=47939079414368529441654719488892~hmac=34d49ce64e9cf0c39367f9f32489ee9068066e591a5ff8f25130d85379622e40|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c6335a6bc05aedb3b66134262195b652-1792330204421",
-    "logo": "",
-    "title": "SonyLiv (HIN)",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://sonymtmnew.akamaized.net/hls/live/2018458/Footlive1810/MAL/std_lrh-800300010.m3u8?hdnea=exp=1792353476~acl=/*~id=47939079414368529441654719488892~hmac=34d49ce64e9cf0c39367f9f32489ee9068066e591a5ff8f25130d85379622e40|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c6335a6bc05aedb3b66134262195b652-1792330204421",
-    "logo": "",
-    "title": "SonyLiv (BEN)",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://live.vivo155.com/live/sd-1-4655849.m3u8?txSecret=b846dcd9902d54052c20ee22fef565b3&txTime=6AD4B426|Referer=https://player.online878.com/",
-    "logo": "",
-    "title": "NorthEast United vs Kerala Blasters",
+    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+    "title": "DUDE Tv Live",
     "type": "0"
   }
 ]

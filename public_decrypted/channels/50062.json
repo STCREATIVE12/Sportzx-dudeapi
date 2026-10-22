@@ -1,7 +1,7 @@
 [
   {
-    "api": "025191e8ca6a7f7bf7b404b981218810:93f3917609f8d7976aac6502f71c61f1",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lia3rss4ck/out/v1/046eafc037f548279ed15f3f0f85a898/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "0d52e23fe7eade15ac5b852ac0a5a23a:5fce44b4d3887f03d32339b27a13637b",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2jx5hrl31t/out/v1/9b12bcffb3eb4f95a4b1809826d1d020/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
     "title": "WILLOW - FHD",
     "type": "1"
@@ -14,18 +14,11 @@
     "type": "1"
   },
   {
-    "api": "39d6fd72bc7b22ab03ea3d81cb8c739a:91a9302b488dc76b61b9ab7c4e158aa2",
-    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2aajhzhbtb/out/v1/e17009f75acc4bddb216ccc7eb256e89/cenc.mpd",
+    "api": "0d52e23fe7eade15ac5b852ac0a5a23a:5fce44b4d3887f03d32339b27a13637b",
+    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2jx5hrl31t/out/v1/9b12bcffb3eb4f95a4b1809826d1d020/cenc.mpd",
     "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
     "title": "WILLOW - ALT",
     "type": "1"
-  },
-  {
-    "api": "",
-    "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-    "logo": "",
-    "title": "SKY CRICKET - FHD",
-    "type": "0"
   },
   {
     "api": "",
