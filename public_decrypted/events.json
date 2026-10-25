@@ -12,7 +12,7 @@
       "eventName": "Formula 1 -  United States Grand Prix",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/bxvpx",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/10/25 20:00:00 +0000",
       "endTime": "2026/10/25 21:00:00 +0000"
     },
@@ -23,7 +23,6 @@
       "FANCODE - FHD",
       "SporTV BR FHD",
       "Sky Sports F1 HD",
-      "FORMULA 1 FHD",
       "SKY SPORTS HD",
       "RUSSIA FEED",
       "Sportscast FHD",
@@ -52,10 +51,6 @@
       {
         "title": "Sky Sports F1 HD",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "FORMULA 1 FHD",
-        "logo": ""
       },
       {
         "title": "SKY SPORTS HD",
@@ -877,10 +872,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NBA HD",
       "DUDE Tv Live",
       "NBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NBA HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -910,10 +910,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NBA HD",
       "DUDE Tv Live",
       "NBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NBA HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1259,12 +1264,22 @@
     "publish": "1",
     "formats": [
       "TSN SPORTS FHD",
+      "FOX NFL HD",
+      "DUDE Tv NFL HD",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "TSN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "FOX NFL HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv NFL HD",
         "logo": ""
       },
       {
@@ -1589,26 +1604,42 @@
       "eventName": "FC Barcelona vs Real Madrid",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/fseza",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/10/25 20:00:00 +0000",
-      "endTime": "2026/10/25 22:05:00 +0000"
+      "endTime": "2026/10/25 22:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "PREMIER SPORTS FHD",
-      "beIN ENGLISH FHD",
-      "FANCODE FHD",
-      "D Sports FHD",
       "CAZE TV FHD",
       "ESPN DEPORTES HD",
+      "beIN ENGLISH FHD",
+      "TAPMAD FHD",
+      "FANCODE FHD",
+      "D Sports FHD",
+      "beIN SPORTS FHD",
       "PREMIER SPORTS HD",
       "ESPN ENGLISH HD",
-      "ESPN SPORTS HD"
+      "ESPN SPORTS HD",
+      "ARABIC HD",
+      "FAST SERVER HD",
+      "FAST SERVER SD",
+      "HD SERVER",
+      "BDIX HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "PREMIER SPORTS FHD",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+      },
+      {
+        "title": "CAZE TV FHD",
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+      },
+      {
+        "title": "ESPN DEPORTES HD",
         "logo": ""
       },
       {
@@ -1616,24 +1647,24 @@
         "logo": ""
       },
       {
-        "title": "FANCODE FHD",
+        "title": "TAPMAD FHD",
         "logo": ""
+      },
+      {
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
         "title": "D Sports FHD",
         "logo": ""
       },
       {
-        "title": "CAZE TV FHD",
-        "logo": ""
-      },
-      {
-        "title": "ESPN DEPORTES HD",
-        "logo": ""
+        "title": "beIN SPORTS FHD",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
       },
       {
         "title": "PREMIER SPORTS HD",
-        "logo": ""
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
       },
       {
         "title": "ESPN ENGLISH HD",
@@ -1641,6 +1672,30 @@
       },
       {
         "title": "ESPN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "ARABIC HD",
+        "logo": ""
+      },
+      {
+        "title": "FAST SERVER HD",
+        "logo": ""
+      },
+      {
+        "title": "FAST SERVER SD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "BDIX HD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1664,17 +1719,23 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
       "TNT SPORTS FHD",
       "FUBO SPORTS FHD",
       "beIN ENGLISH FHD",
+      "FUBO SPORTS ALT",
       "CBS NETWORK",
       "SPORT 1 CZ FHD",
       "PARAMOUNT+ HD"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "TNT SPORTS FHD",
-        "logo": ""
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
       },
       {
         "title": "FUBO SPORTS FHD",
@@ -1682,6 +1743,10 @@
       },
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "FUBO SPORTS ALT",
         "logo": ""
       },
       {
@@ -1694,7 +1759,7 @@
       },
       {
         "title": "PARAMOUNT+ HD",
-        "logo": ""
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
       }
     ]
   },
