@@ -12,9 +12,9 @@
       "eventName": "Formula 1 -  United States Grand Prix",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/bxvpx",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/10/24 17:30:00 +0000",
-      "endTime": "2026/10/25 11:30:00 +0000"
+      "endTime": "2026/10/25 11:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -116,8 +116,8 @@
       "eventName": "MotoGP - Australian Motorcycle Grand Prix",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/23 23:00:00 +0000",
-      "endTime": "2026/10/24 05:30:00 +0000"
+      "startTime": "2026/10/25 03:00:00 +0000",
+      "endTime": "2026/10/25 04:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -169,7 +169,7 @@
       "eventName": "UFC 333: Volkanovski vs Evloev",
       "eventType": "null",
       "eventBanner": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/10/24 14:00:00 +0000",
       "endTime": "2026/10/24 21:30:00 +0000"
     },
@@ -1411,7 +1411,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/337602/image",
       "eventName": "New York Red Bulls vs Inter Miami CF",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/24 21:30:00 +0000",
       "endTime": "2026/10/24 23:40:00 +0000"
     },
@@ -1420,6 +1420,7 @@
     "formats": [
       "MLS LIVE HD",
       "DUDE Tv Live",
+      "LOW SERVER",
       "MLS LIVE [FHD]"
     ],
     "formatsNew": [
@@ -1429,6 +1430,10 @@
       },
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       },
       {
