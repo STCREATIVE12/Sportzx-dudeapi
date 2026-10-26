@@ -1,20 +1,44 @@
 [
   {
+    "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "CBS NETWORK",
+    "type": "1"
+  },
+  {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/58579/load-playlist?|Referer=https://gooz.aapmains.net",
-    "title": "DAZN SPORTS HD",
+    "link": "https://tedesco.formaturamaxi.com.br/balon.m3u8",
+    "logo": "",
+    "title": "Ballon D'Or (ENG)",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://riddlesmith.s3-accelerate.amazonaws.com/foster.m3u8",
-    "title": "DAZN SPORTS FHD",
+    "link": "https://admin2.formaturamaxi.com.br/dazn.m3u8",
+    "logo": "",
+    "title": "Ballon D'Or (ESP)",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/58599/load-playlist?|Referer=https://gooz.aapmains.net",
-    "title": "DUDE Tv Live",
+    "link": "https://admin2.formaturamaxi.com.br/equipe.m3u8",
+    "logo": "",
+    "title": "Ballon D'Or (FRN)",
     "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.50/hls/AFFF.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "logo": "",
+    "title": "LOW SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://taifood-blog.asia/embed/2026-ballon-dor-ceremony-31244",
+    "logo": "",
+    "title": "DUDE Tv Live [FHD]",
+    "type": "2"
   }
 ]
