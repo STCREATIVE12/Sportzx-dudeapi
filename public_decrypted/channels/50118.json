@@ -1,8 +1,23 @@
 [
   {
+    "api": "c38b763df02bcbcad5d646ce67754950:420304b535d20af8b2ee94416390f6a9",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4a6dittnj/out/v1/6287948a93e5404c992b9d4107f70351/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "DAZN SPORTS FHD",
+    "type": "1"
+  },
+  {
     "api": "",
-    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+    "link": "https://live.vivo155.com/live/sd-1-4641670.m3u8?txSecret=c8ee258fb637d7d33ea9a4d878455792&txTime=6AE23FFB|Referer=https://player.on8on8.com/",
+    "logo": "",
     "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://live2.jorvakstreamcache.com/live/channel12.m3u8?|Referer=https://xlz.domainkqt.cc/",
+    "logo": "",
+    "title": "HD SERVER",
     "type": "0"
   }
 ]

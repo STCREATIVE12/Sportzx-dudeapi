@@ -2572,243 +2572,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50102,
-    "title": "Tavernes vs Valencia",
-    "image": "o",
-    "cat": "Copa Del Rey 🇪🇸",
-    "eventInfo": {
-      "teamA": "UE Tavernes",
-      "teamB": "Valencia",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1284427/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2828/image",
-      "eventName": "UE Tavernes vs Valencia",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/28 20:00:00 +0000",
-      "endTime": "2026/10/28 22:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo155.com/live/sd-1-4658618.m3u8?txSecret=18e0979317653ffe3707a7b2e1ed0f94&txTime=6AE0FB12|Referer=https://player.on8on8.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://www.rtmpcdn.com/live/01996b1f-9cd2-4c3d-81b6-fef6374d1040.m3u8",
-        "logo": "",
-        "title": "HD SERVER ",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.44/hls/DADADAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-        "logo": "",
-        "title": "LOW SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
-    "id": 50103,
-    "title": "Salamanca vs Celta Vigo",
-    "image": "o",
-    "cat": "Copa Del Rey 🇪🇸",
-    "eventInfo": {
-      "teamA": "Salamanca",
-      "teamB": "Celta",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/263916/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image",
-      "eventName": "Salamanca UDS vs Celta Vigo",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/28 20:00:00 +0000",
-      "endTime": "2026/10/28 22:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50104,
-    "title": "Navalcarnero vs Real Betis",
-    "image": "o",
-    "cat": "Copa Del Rey 🇪🇸",
-    "eventInfo": {
-      "teamA": "Navalcarnero",
-      "teamB": "Real Betis",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/24352/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2816/image",
-      "eventName": "CDA Navalcarnero vs Real Betis",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/28 20:00:00 +0000",
-      "endTime": "2026/10/28 22:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50105,
-    "title": "Alcoyano vs Mallorca",
-    "image": "o",
-    "cat": "Copa Del Rey 🇪🇸",
-    "eventInfo": {
-      "teamA": "Alcoyano",
-      "teamB": "Mallorca",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/6585/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2826/image",
-      "eventName": "CD Alcoyano vs Mallorca",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/28 19:00:00 +0000",
-      "endTime": "2026/10/28 21:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50106,
-    "title": "Tarancón vs Levante UD",
-    "image": "o",
-    "cat": "Copa Del Rey 🇪🇸",
-    "eventInfo": {
-      "teamA": "Tarancón",
-      "teamB": "Levante",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/293881/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2849/image",
-      "eventName": "CD Tarancón vs Levante UD",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/28 18:00:00 +0000",
-      "endTime": "2026/10/28 20:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50107,
-    "title": "Anaitasuna vs Deportivo Alavés",
-    "image": "o",
-    "cat": "Copa Del Rey 🇪🇸",
-    "eventInfo": {
-      "teamA": "Anaitasuna",
-      "teamB": "Alavés",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/263773/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2885/image",
-      "eventName": "Anaitasuna vs Deportivo Alavés",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/28 18:00:00 +0000",
-      "endTime": "2026/10/28 20:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50108,
     "title": "Arsenal vs Benfica",
     "image": "o",
@@ -3167,19 +2930,44 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DAZN SPORTS FHD",
+      "DUDE Tv Live",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
+        "title": "DAZN SPORTS FHD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
+        "api": "3cc4f7d0aa2788320c15118d3896a0b1:b73555878f9ab61ba10cba61878afd15",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pelrgwizbi/out/v1/48e1c58a8b9e4600812a7252c3ba5fcf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "DAZN SPORTS FHD",
+        "type": "1"
+      },
+      {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "https://live.vivo155.com/live/sd-1-4641679.m3u8?txSecret=6db318853e174a8d25cbc2260990d5ba&txTime=6AE2402C|Referer=https://player.on8on8.com/",
+        "logo": "",
         "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live2.jorvakstreamcache.com/live/channel4.m3u8?|Referer=https://xlz.domainkqt.cc/",
+        "logo": "",
+        "title": "HD SERVER",
         "type": "0"
       }
     ],
@@ -3204,19 +2992,39 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
         "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
       }
     ],
     "decoded_channels": [
       {
+        "api": "b6d12b3dc30f7db7adb951fc591451f4:a5a34a9a631a8ece20de725f205eff84",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vtbs5yn2bo/out/v1/771f80aba4674c1d9795982069716769/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "DAZN SPORTS FHD",
+        "type": "1"
+      },
+      {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "https://live.vivo155.com/live/sd-1-4641681.m3u8?txSecret=0825a25ab7e863fbc261d8db56c04f8d&txTime=6AE2404B|Referer=https://player.on8on8.com/",
+        "logo": "",
         "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live2.jorvakstreamcache.com/live/channel16.m3u8?|Referer=https://xlz.domainkqt.cc/",
+        "logo": "",
+        "title": "HD SERVER",
         "type": "0"
       }
     ],
@@ -3241,19 +3049,39 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
         "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
       }
     ],
     "decoded_channels": [
       {
+        "api": "c38b763df02bcbcad5d646ce67754950:420304b535d20af8b2ee94416390f6a9",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4a6dittnj/out/v1/6287948a93e5404c992b9d4107f70351/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "DAZN SPORTS FHD",
+        "type": "1"
+      },
+      {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "https://live.vivo155.com/live/sd-1-4641670.m3u8?txSecret=c8ee258fb637d7d33ea9a4d878455792&txTime=6AE23FFB|Referer=https://player.on8on8.com/",
+        "logo": "",
         "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live2.jorvakstreamcache.com/live/channel12.m3u8?|Referer=https://xlz.domainkqt.cc/",
+        "logo": "",
+        "title": "HD SERVER",
         "type": "0"
       }
     ],
@@ -3278,80 +3106,6 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50120,
-    "title": "Goa vs Sporting Delhi",
-    "image": "o",
-    "cat": "ISL",
-    "eventInfo": {
-      "teamA": "Goa",
-      "teamB": "SC Delhi",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/174594/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/331840/image",
-      "eventName": "FC Goa vs Sporting Delhi",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/28 14:00:00 +0000",
-      "endTime": "2026/10/28 16:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50121,
-    "title": "Gamba Osaka vs Buriram United",
-    "image": "o",
-    "cat": "AFC Champions Elite",
-    "eventInfo": {
-      "teamA": "Gamba Osaka",
-      "teamB": "Buriram",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3138/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/34218/image",
-      "eventName": "Gamba Osaka vs Buriram United",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/28 10:00:00 +0000",
-      "endTime": "2026/10/28 12:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
       "DUDE Tv Live",
       "HD SERVER"
     ],
@@ -3367,216 +3121,24 @@
     ],
     "decoded_channels": [
       {
+        "api": "94051aafb2f6e4d73ce42ab1f79791bf:10a701be1e7e56b65d3147fe972c9eef",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5c1wmtpnkt/out/v1/f44c0f09310042fa80615ed0018d537c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "DAZN SPORTS FHD",
+        "type": "1"
+      },
+      {
         "api": "",
-        "link": "https://live.vivo155.com/live/hd-en-1-4621500.m3u8?txSecret=9311110d21432f468bbd50c39984412b&txTime=6AE1DB4C|Referer=https://player.on8on8.com/",
+        "link": "https://live.vivo155.com/live/sd-1-4641667.m3u8?txSecret=6eeafde4d94bfd1ed5cba732ebdc68f0&txTime=6AE24060|Referer=https://player.on8on8.com/",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://live2.jorvakstreamcache.com/live/channel16.m3u8?|Referer=https://xlz.domainkqt.cc/",
+        "link": "https://live2.jorvakstreamcache.com/live/channel13.m3u8?|Referer=https://xlz.domainkqt.cc/",
         "logo": "",
         "title": "HD SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50122,
-    "title": "Kashima Antlers vs Pohang Steelers",
-    "image": "o",
-    "cat": "AFC Champions Elite",
-    "eventInfo": {
-      "teamA": "Kashima",
-      "teamB": "Pohang Steelers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3134/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/7650/image",
-      "eventName": "Kashima Antlers vs Pohang Steelers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/28 10:00:00 +0000",
-      "endTime": "2026/10/28 12:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo155.com/live/hd-en-1-4621512.m3u8?txSecret=733818d14376653f336646c8f9280923&txTime=6AE1DB18|Referer=https://player.on8on8.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50123,
-    "title": "Viettel vs FC Seoul",
-    "image": "o",
-    "cat": "AFC Champions Two",
-    "eventInfo": {
-      "teamA": "Viettel",
-      "teamB": "FC Seoul",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/231270/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/7646/image",
-      "eventName": "Viettel vs FC Seoul",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/28 12:15:00 +0000",
-      "endTime": "2026/10/28 14:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "http://193.47.62.50/hls/DD555QQQQAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
-    "id": 50124,
-    "title": "Persib vs Melbourne Victory",
-    "image": "o",
-    "cat": "AFC Champions Two",
-    "eventInfo": {
-      "teamA": "Persib",
-      "teamB": "Melbourne Victory",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/64289/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5970/image",
-      "eventName": "Persib vs Melbourne Victory",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/28 12:15:00 +0000",
-      "endTime": "2026/10/28 14:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50125,
-    "title": "Gol Gohar vs Arkadag FK",
-    "image": "o",
-    "cat": "AFC Champions Two",
-    "eventInfo": {
-      "teamA": "Gol Gohar",
-      "teamB": "Arkadag",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/275525/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/469420/image",
-      "eventName": "Gol Gohar vs Arkadag FK",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/28 13:45:00 +0000",
-      "endTime": "2026/10/28 15:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50126,
-    "title": "Nasaf vs Al Kuwait",
-    "image": "o",
-    "cat": "AFC Champions Two",
-    "eventInfo": {
-      "teamA": "Nasaf",
-      "teamB": "Al Kuwait ",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/34017/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/32525/image",
-      "eventName": "Nasaf vs Al Kuwait",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/28 13:45:00 +0000",
-      "endTime": "2026/10/28 15:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
         "type": "0"
       }
     ],
@@ -3601,11 +3163,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "HD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
         "logo": ""
       }
     ],
@@ -3617,58 +3179,33 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50128,
-    "title": "Bangladesh vs West Indies",
+    "title": "Parma vs Udinese",
     "image": "o",
-    "cat": "Cricket",
+    "cat": "Serie A 🇮🇹",
     "eventInfo": {
-      "teamA": "BAN",
-      "teamB": "WI",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
-      "eventName": "Bangladesh vs West Indies",
+      "teamA": "Parma",
+      "teamB": "Udinese",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2690/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2695/image",
+      "eventName": "Parma vs Udinese",
       "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/10/28 03:30:00 +0000",
-      "endTime": "2026/10/28 12:00:00 +0000"
+      "isHot": "0",
+      "startTime": "2026/10/28 17:30:00 +0000",
+      "endTime": "2026/10/28 19:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FANCODE FHD",
-      "TAPMAD - FHD",
-      "RABBITHOLE FHD",
-      "TSports HD",
-      "FANCODE - IN",
-      "FANCODE HD"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "FANCODE FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "TAPMAD - FHD",
+        "title": "DUDE Tv Live",
         "logo": ""
-      },
-      {
-        "title": "RABBITHOLE FHD",
-        "logo": ""
-      },
-      {
-        "title": "TSports HD",
-        "logo": ""
-      },
-      {
-        "title": "FANCODE - IN",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "FANCODE HD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
     ],
     "decoded_channels": [
@@ -3715,6 +3252,6 @@
         "type": "1"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   }
 ]
