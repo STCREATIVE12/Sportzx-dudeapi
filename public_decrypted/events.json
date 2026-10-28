@@ -339,8 +339,8 @@
       "eventName": "Afghanistan vs Zimbabwe",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 14:30:00 +0000",
-      "endTime": "2026/10/27 18:15:00 +0000"
+      "startTime": "2026/10/29 14:30:00 +0000",
+      "endTime": "2026/10/29 18:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -388,8 +388,8 @@
       "eventType": "null",
       "eventBanner": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 07:00:00 +0000",
-      "endTime": "2026/10/27 10:45:00 +0000"
+      "startTime": "2026/10/30 07:00:00 +0000",
+      "endTime": "2026/10/30 10:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -621,20 +621,20 @@
   },
   {
     "id": 50012,
-    "title": "Pakistan vs Sri Lanka",
+    "title": "Sri Lanka vs England",
     "image": "o",
     "cat": "Cricket",
     "eventInfo": {
-      "teamA": "PAK",
-      "teamB": "SL",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-      "eventName": "Pakistan vs Sri Lanka",
+      "teamA": "SL",
+      "teamB": "ENG",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187757/image",
+      "eventName": "Sri Lanka vs England",
       "eventType": "null",
       "eventBanner": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 08:00:00 +0000",
-      "endTime": "2026/10/27 13:00:00 +0000"
+      "startTime": "2026/10/29 08:00:00 +0000",
+      "endTime": "2026/10/29 15:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -732,6 +732,7 @@
     "formats": [
       "TNT Sports FHD",
       "FOX DEPORTES",
+      "DUDE Tv MLB HD",
       "DUDE Tv LIVE",
       "MLB LIVE [FHD]"
     ],
@@ -742,6 +743,10 @@
       },
       {
         "title": "FOX DEPORTES",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv MLB HD",
         "logo": ""
       },
       {
@@ -756,37 +761,27 @@
   },
   {
     "id": 50043,
-    "title": "Boston Celtics vs Brooklyn Nets",
+    "title": "Atlanta Hawks vs Miami Heat",
     "image": "o",
     "cat": "NBA",
     "eventInfo": {
-      "teamA": "Celtics",
-      "teamB": "Nets",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3422/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image",
-      "eventName": "Boston Celtics vs Brooklyn Nets",
+      "teamA": "Hawks",
+      "teamB": "Heat",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3423/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3435/image",
+      "eventName": "Atlanta Hawks vs Miami Heat",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 23:30:00 +0000",
-      "endTime": "2026/10/28 02:30:00 +0000"
+      "startTime": "2026/10/28 23:00:00 +0000",
+      "endTime": "2026/10/29 02:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv NBA HD",
-      "NBA LIVE HD",
       "DUDE Tv Live",
       "NBA LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv NBA HD",
-        "logo": ""
-      },
-      {
-        "title": "NBA LIVE HD",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -816,10 +811,30 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS FHD",
+      "NBC SPORTS FHD",
+      "DUDE Tv NBA HD",
+      "NBA HD LIVE",
       "DUDE Tv Live",
       "NBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
+        "title": "NBC SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv NBA HD",
+        "logo": ""
+      },
+      {
+        "title": "NBA HD LIVE",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -832,19 +847,19 @@
   },
   {
     "id": 50048,
-    "title": "Spurs vs Sacramento Kings",
+    "title": "Detroit Pistons vs Charlotte Hornets",
     "image": "o",
     "cat": "NBA",
     "eventInfo": {
-      "teamA": "Spurs",
-      "teamB": "Kings",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3429/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3413/image",
-      "eventName": "San Antonio Spurs vs Sacramento Kings",
+      "teamA": "Pistons",
+      "teamB": "Hornets",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3424/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3430/image",
+      "eventName": "Detroit Pistons vs Charlotte Hornets",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/28 00:00:00 +0000",
-      "endTime": "2026/10/28 03:00:00 +0000"
+      "startTime": "2026/10/28 23:00:00 +0000",
+      "endTime": "2026/10/29 02:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -875,9 +890,222 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/3414/image",
       "eventName": "Los Angeles Lakers vs Trail Blazers",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/28 03:00:00 +0000",
       "endTime": "2026/10/28 06:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportsNET TV HD",
+      "NBA LIVE FHD",
+      "DUDE Tv NBA HD",
+      "DUDE Tv Live",
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportsNET TV HD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
+        "title": "NBA LIVE FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv NBA HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50055,
+    "title": "Toronto Raptors vs Orlando Magic",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Raptors",
+      "teamB": "Magic",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3433/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3437/image",
+      "eventName": "Toronto Raptors vs Orlando Magic",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/28 23:30:00 +0000",
+      "endTime": "2026/10/29 02:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50056,
+    "title": "Chicago Bulls vs New York Knicks",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Bulls",
+      "teamB": "Knicks",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3409/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3421/image",
+      "eventName": "Chicago Bulls vs New York Knicks",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/29 00:00:00 +0000",
+      "endTime": "2026/10/29 03:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50058,
+    "title": "Milwaukee Bucks vs Houston Rockets",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Bucks",
+      "teamB": "Rockets",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3410/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3412/image",
+      "eventName": "Milwaukee Bucks vs Houston Rockets",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/29 00:00:00 +0000",
+      "endTime": "2026/10/29 03:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50059,
+    "title": "Timberwolves vs Warriors",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Timberwolves",
+      "teamB": "Warriors",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3426/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3428/image",
+      "eventName": "Minnesota Timberwolves vs Warriors",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/29 00:00:00 +0000",
+      "endTime": "2026/10/29 03:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50060,
+    "title": "Pelicans vs Denver Nuggets",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Pelicans",
+      "teamB": "Nuggets",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/5539/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+      "eventName": "New Orleans Pelicans vs Denver Nuggets",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/29 00:00:00 +0000",
+      "endTime": "2026/10/29 03:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50061,
+    "title": "Utah Jazz vs San Antonio Spurs",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Jazz",
+      "teamB": "Spurs",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3434/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image",
+      "eventName": "Utah Jazz vs San Antonio Spurs",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/29 01:00:00 +0000",
+      "endTime": "2026/10/29 04:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -909,8 +1137,8 @@
       "eventName": "South Africa vs Australia",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 08:30:00 +0000",
-      "endTime": "2026/10/27 16:00:00 +0000"
+      "startTime": "2026/10/28 08:30:00 +0000",
+      "endTime": "2026/10/28 16:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -988,6 +1216,39 @@
     ]
   },
   {
+    "id": 50071,
+    "title": "[NBA 11]",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Mavericks",
+      "teamB": "Thunder",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3411/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image",
+      "eventName": "Dallas Mavericks vs Oklahoma City Thunder",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/29 01:30:00 +0000",
+      "endTime": "2026/10/29 04:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50072,
     "title": "[NBA 12]",
     "image": "o",
@@ -1006,10 +1267,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NHL HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1039,18 +1305,18 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PREMIER SPORTS",
       "DUDE Tv NHL HD",
-      "NHL LIVE HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv NHL HD",
-        "logo": ""
+        "title": "PREMIER SPORTS",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
       },
       {
-        "title": "NHL LIVE HD",
+        "title": "DUDE Tv NHL HD",
         "logo": ""
       },
       {
@@ -1121,17 +1387,12 @@
     "publish": "1",
     "formats": [
       "DUDE Tv NHL HD",
-      "NHL LIVE HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv NHL HD",
-        "logo": ""
-      },
-      {
-        "title": "NHL LIVE HD",
         "logo": ""
       },
       {
@@ -1163,10 +1424,20 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PREMIER SPORTS",
+      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "PREMIER SPORTS",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+      },
+      {
+        "title": "DUDE Tv NHL HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1196,10 +1467,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NHL HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1229,10 +1505,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NHL HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1262,10 +1543,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NHL HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1295,10 +1581,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NHL HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1328,10 +1619,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NHL HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1361,10 +1657,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NHL HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1376,20 +1677,63 @@
     ]
   },
   {
+    "id": 50085,
+    "title": "India W vs Zimbabwe W",
+    "image": "o",
+    "cat": "Cricket",
+    "eventInfo": {
+      "teamA": "IND-W",
+      "teamB": "ZIM-W",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/213119/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/417062/image",
+      "eventName": "India Women vs Zimbabwe Women",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/28 08:30:00 +0000",
+      "endTime": "2026/10/28 16:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TNT SPORTS FHD",
+      "WILLOW - FHD",
+      "WILLOW - ALT",
+      "WILLOW HD"
+    ],
+    "formatsNew": [
+      {
+        "title": "TNT SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "WILLOW - FHD",
+        "logo": ""
+      },
+      {
+        "title": "WILLOW - ALT",
+        "logo": ""
+      },
+      {
+        "title": "WILLOW HD",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50090,
-    "title": "Fleetwood vs Arsenal",
+    "title": "Manchester City vs Brighton",
     "image": "o",
     "cat": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "Fleetwood",
-      "teamB": "Arsenal",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/23959/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/42/image",
-      "eventName": "Fleetwood Town vs Arsenal",
+      "teamA": "Man City",
+      "teamB": "Brighton",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/17/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/30/image",
+      "eventName": "Manchester City vs Brighton",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 20:00:00 +0000",
-      "endTime": "2026/10/27 22:05:00 +0000"
+      "startTime": "2026/10/28 19:30:00 +0000",
+      "endTime": "2026/10/28 21:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1405,218 +1749,188 @@
   },
   {
     "id": 50091,
-    "title": "Dortmund vs Werder Bremen",
+    "title": "Liverpool vs Chelsea",
     "image": "o",
-    "cat": "DFB Pokal",
+    "cat": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "Dortmund",
-      "teamB": "Bremen",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2673/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2534/image",
-      "eventName": "Borussia Dortmund vs Werder Bremen",
+      "teamA": "Liverpool",
+      "teamB": "Chelsea",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/38/image",
+      "eventName": "Liverpool vs Chelsea",
       "eventType": "null",
       "eventBanner": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 19:45:00 +0000",
-      "endTime": "2026/10/27 21:50:00 +0000"
+      "startTime": "2026/10/28 20:00:00 +0000",
+      "endTime": "2026/10/28 22:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIER SPORTS FHD",
-      "Low Server"
+      "beIN ENGLISH FHD"
     ],
     "formatsNew": [
       {
-        "title": "PREMIER SPORTS FHD",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
-      },
-      {
-        "title": "Low Server",
+        "title": "beIN ENGLISH FHD",
         "logo": ""
       }
     ]
   },
   {
     "id": 50092,
-    "title": "Roma vs Cagliari",
+    "title": "Monza vs SSC Napoli",
     "image": "o",
     "cat": "Serie A 🇮🇹",
     "eventInfo": {
-      "teamA": "Roma",
-      "teamB": "Cagliari",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2702/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2719/image",
-      "eventName": "AS Roma vs Cagliari",
+      "teamA": "Monza",
+      "teamB": "Napoli",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2729/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2714/image",
+      "eventName": "Monza vs SSC Napoli",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 19:45:00 +0000",
-      "endTime": "2026/10/27 21:50:00 +0000"
+      "startTime": "2026/10/28 19:45:00 +0000",
+      "endTime": "2026/10/28 21:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PARAMOUNT+ FHD",
-      "beIN ENGLISH FHD",
-      "FUBO SPORTS ALT",
-      "SPORT 1 CZ",
-      "LOW SERVER"
+      "TNT SPORTS FHD"
     ],
     "formatsNew": [
       {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "FUBO SPORTS ALT",
-        "logo": ""
-      },
-      {
-        "title": "SPORT 1 CZ",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
+        "title": "TNT SPORTS FHD",
         "logo": ""
       }
     ]
   },
   {
     "id": 50093,
-    "title": "Torino vs Como",
+    "title": "Genoa vs Juventus",
     "image": "o",
     "cat": "Serie A 🇮🇹",
     "eventInfo": {
-      "teamA": "Torino",
-      "teamB": "Como",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2696/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2704/image",
-      "eventName": "Torino vs Como",
+      "teamA": "Genoa",
+      "teamB": "Juventus",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2713/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2687/image",
+      "eventName": "Genoa vs Juventus",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 19:45:00 +0000",
-      "endTime": "2026/10/27 21:50:00 +0000"
+      "startTime": "2026/10/28 19:45:00 +0000",
+      "endTime": "2026/10/28 21:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PARAMOUNT+ FHD",
-      "LOW SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "LOW SERVER",
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
   },
   {
     "id": 50094,
-    "title": "Elversberg vs Darmstadt",
+    "title": "Bournemouth vs Aston Villa",
     "image": "o",
-    "cat": "DFB Pokal",
+    "cat": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "Elversberg",
-      "teamB": "Darmstadt",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2598/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2576/image",
-      "eventName": "Elversberg vs Darmstadt",
+      "teamA": "Bournemouth",
+      "teamB": "Aston Villa",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/60/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
+      "eventName": "Bournemouth vs Aston Villa",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 19:45:00 +0000",
-      "endTime": "2026/10/27 21:45:00 +0000"
+      "startTime": "2026/10/28 19:45:00 +0000",
+      "endTime": "2026/10/28 21:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "LOW SERVER"
+      "CBS NETWORK"
     ],
     "formatsNew": [
       {
-        "title": "LOW SERVER",
+        "title": "CBS NETWORK",
         "logo": ""
       }
     ]
   },
   {
     "id": 50095,
-    "title": "Borussia vs Karlsruher",
+    "title": "Fulham vs Crystal Palace",
     "image": "o",
-    "cat": "DFB Pokal",
+    "cat": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "M'gladbach",
-      "teamB": "Karlsruhe",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2527/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2553/image",
-      "eventName": "Borussia M'gladbach vs Karlsruher",
+      "teamA": "Fulham",
+      "teamB": "Crystal Palace",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/43/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image",
+      "eventName": "Fulham vs Crystal Palace",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 19:45:00 +0000",
-      "endTime": "2026/10/27 21:45:00 +0000"
+      "startTime": "2026/10/28 19:45:00 +0000",
+      "endTime": "2026/10/28 21:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "LOW SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "LOW SERVER",
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
   },
   {
     "id": 50096,
-    "title": "Köln vs Union Berlin",
+    "title": "Sunderland vs Brentford",
     "image": "o",
-    "cat": "DFB Pokal",
+    "cat": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "Köln",
-      "teamB": "Union Berlin",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2671/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2547/image",
-      "eventName": "Köln vs Union Berlin",
+      "teamA": "Sunderland",
+      "teamB": "Brentford",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/41/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/50/image",
+      "eventName": "Sunderland vs Brentford",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 19:45:00 +0000",
-      "endTime": "2026/10/27 21:45:00 +0000"
+      "startTime": "2026/10/28 19:45:00 +0000",
+      "endTime": "2026/10/28 21:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "LOW SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "LOW SERVER",
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
   },
   {
     "id": 50097,
-    "title": "Huelva vs Rayo Vallecano",
+    "title": "Bayern vs Magdeburg",
     "image": "o",
-    "cat": "Copa Del Rey 🇪🇸",
+    "cat": "DFB Pokal",
     "eventInfo": {
-      "teamA": "Recreativo de Huelva",
-      "teamB": "Rayo Vallecano",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/202076/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2818/image",
-      "eventName": "Recreativo de Huelva vs Rayo Vallecano",
+      "teamA": "Bayern",
+      "teamB": "Magdeburg",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2672/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2591/image",
+      "eventName": "Bayern München vs Magdeburg",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 20:00:00 +0000",
-      "endTime": "2026/10/27 22:00:00 +0000"
+      "startTime": "2026/10/28 19:45:00 +0000",
+      "endTime": "2026/10/28 21:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1632,47 +1946,47 @@
   },
   {
     "id": 50098,
-    "title": "Manacor vs Villarreal",
+    "title": "Leverkusen vs Nurnberg",
     "image": "o",
-    "cat": "Copa Del Rey 🇪🇸",
+    "cat": "DFB Pokal",
     "eventInfo": {
-      "teamA": "Manacor",
-      "teamB": "Villarreal",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/54119/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image",
-      "eventName": "CD Manacor vs Villarreal",
+      "teamA": "Leverkusen",
+      "teamB": "Nürnberg",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2681/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2523/image",
+      "eventName": "Bayer Leverkusen vs Nürnberg",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 20:00:00 +0000",
-      "endTime": "2026/10/27 22:00:00 +0000"
+      "startTime": "2026/10/28 19:45:00 +0000",
+      "endTime": "2026/10/28 21:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "LOW SERVER "
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "LOW SERVER ",
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
   },
   {
     "id": 50099,
-    "title": "Alcazar vs Malaga",
+    "title": "Hannover vs Kaiserslautern",
     "image": "o",
-    "cat": "Copa Del Rey 🇪🇸",
+    "cat": "DFB Pokal",
     "eventInfo": {
-      "teamA": "Sporting de Alcázar CF",
-      "teamB": "Málaga",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1284426/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2830/image",
-      "eventName": "Sporting de Alcázar vs Málaga",
+      "teamA": "Hannover",
+      "teamB": "Kaiserslautern",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2541/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2675/image",
+      "eventName": "Hannover vs Kaiserslautern",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 20:00:00 +0000",
-      "endTime": "2026/10/27 22:00:00 +0000"
+      "startTime": "2026/10/28 19:45:00 +0000",
+      "endTime": "2026/10/28 21:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1688,19 +2002,19 @@
   },
   {
     "id": 50100,
-    "title": "Alcalá vs Las Palmas",
+    "title": "Holstein Kiel vs Hoffenheim",
     "image": "o",
-    "cat": "Copa Del Rey 🇪🇸",
+    "cat": "DFB Pokal",
     "eventInfo": {
-      "teamA": "Alcalá",
-      "teamB": "Las Palmas",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/37053/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6577/image",
-      "eventName": "RSD Alcalá vs UD Las Palmas",
+      "teamA": "Kiel",
+      "teamB": "Hoffenheim",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2573/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2569/image",
+      "eventName": "Holstein Kiel vs Hoffenheim",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 19:00:00 +0000",
-      "endTime": "2026/10/27 21:00:00 +0000"
+      "startTime": "2026/10/28 19:45:00 +0000",
+      "endTime": "2026/10/28 21:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1716,489 +2030,789 @@
   },
   {
     "id": 50101,
-    "title": "Castellonense vs Almería",
+    "title": "Porto vs Académico Viseu",
     "image": "o",
-    "cat": "Copa Del Rey 🇪🇸",
+    "cat": "Taça de Portugal",
     "eventInfo": {
-      "teamA": "Castellonense",
-      "teamB": "Almería",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/353599/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2858/image",
-      "eventName": "UD Castellonense vs Almería",
+      "teamA": "Porto",
+      "teamB": "Académico Viseu",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3002/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3022/image",
+      "eventName": "Porto vs Académico Viseu",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 18:45:00 +0000",
-      "endTime": "2026/10/27 20:45:00 +0000"
+      "startTime": "2026/10/28 20:30:00 +0000",
+      "endTime": "2026/10/28 22:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "HD SERVER"
+      "D Sports FHD"
     ],
     "formatsNew": [
       {
-        "title": "HD SERVER",
+        "title": "D Sports FHD",
         "logo": ""
       }
     ]
   },
   {
     "id": 50102,
-    "title": "Pinatar vs Elche",
+    "title": "Tavernes vs Valencia",
     "image": "o",
     "cat": "Copa Del Rey 🇪🇸",
     "eventInfo": {
-      "teamA": "UD Pinatar",
-      "teamB": "Elche",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1260147/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2846/image",
-      "eventName": "UD Pinatar vs Elche",
+      "teamA": "UE Tavernes",
+      "teamB": "Valencia",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1284427/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2828/image",
+      "eventName": "UE Tavernes vs Valencia",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 18:00:00 +0000",
-      "endTime": "2026/10/27 20:00:00 +0000"
+      "startTime": "2026/10/28 20:00:00 +0000",
+      "endTime": "2026/10/28 22:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "HD SERVER ",
-      "LOW SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER ",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50103,
-    "title": "Sestao River vs Espanyol",
+    "title": "Salamanca vs Celta Vigo",
     "image": "o",
     "cat": "Copa Del Rey 🇪🇸",
     "eventInfo": {
-      "teamA": "Sestao",
-      "teamB": "Espanyol",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/24364/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2814/image",
-      "eventName": "Sestao River vs Espanyol",
+      "teamA": "Salamanca",
+      "teamB": "Celta",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/263916/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image",
+      "eventName": "Salamanca UDS vs Celta Vigo",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 18:00:00 +0000",
-      "endTime": "2026/10/27 20:00:00 +0000"
+      "startTime": "2026/10/28 20:00:00 +0000",
+      "endTime": "2026/10/28 22:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "FAST SERVER",
-      "LOW SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "FAST SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50104,
-    "title": "Al Shamal vs Al-Hilal",
+    "title": "Navalcarnero vs Real Betis",
     "image": "o",
-    "cat": "AFC Champions Elite",
+    "cat": "Copa Del Rey 🇪🇸",
     "eventInfo": {
-      "teamA": "Al Shamal SC",
-      "teamB": "Al-Hilal",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/170366/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/21895/image",
-      "eventName": "Al Shamal SC vs Al-Hilal",
+      "teamA": "Navalcarnero",
+      "teamB": "Real Betis",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/24352/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2816/image",
+      "eventName": "CDA Navalcarnero vs Real Betis",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 18:15:00 +0000",
-      "endTime": "2026/10/27 20:15:00 +0000"
+      "startTime": "2026/10/28 20:00:00 +0000",
+      "endTime": "2026/10/28 22:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "FAST SERVER",
-      "LOW SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "FAST SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50105,
-    "title": "Bradford vs Peterborough United",
+    "title": "Alcoyano vs Mallorca",
     "image": "o",
-    "cat": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "cat": "Copa Del Rey 🇪🇸",
     "eventInfo": {
-      "teamA": "Bradford",
-      "teamB": "Peterborough Utd",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/22/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/54/image",
-      "eventName": "Bradford City vs Peterborough United",
+      "teamA": "Alcoyano",
+      "teamB": "Mallorca",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/6585/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2826/image",
+      "eventName": "CD Alcoyano vs Mallorca",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 19:45:00 +0000",
-      "endTime": "2026/10/27 21:45:00 +0000"
+      "startTime": "2026/10/28 19:00:00 +0000",
+      "endTime": "2026/10/28 21:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CBS NETWORK"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "CBS NETWORK",
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
   },
   {
     "id": 50106,
-    "title": "Sassuolo vs Lazio",
+    "title": "Tarancón vs Levante UD",
     "image": "o",
-    "cat": "Serie A 🇮🇹",
+    "cat": "Copa Del Rey 🇪🇸",
     "eventInfo": {
-      "teamA": "Sassuolo",
-      "teamB": "Lazio",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2793/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2699/image",
-      "eventName": "Sassuolo vs Lazio",
+      "teamA": "Tarancón",
+      "teamB": "Levante",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/293881/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2849/image",
+      "eventName": "CD Tarancón vs Levante UD",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 17:30:00 +0000",
-      "endTime": "2026/10/27 19:35:00 +0000"
+      "startTime": "2026/10/28 18:00:00 +0000",
+      "endTime": "2026/10/28 20:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PARAMOUNT+ FHD",
-      "PARAMOUNT+ HD",
-      "HD SERVER ",
-      "LOW SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "PARAMOUNT+ HD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "HD SERVER ",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
   },
   {
     "id": 50107,
-    "title": "CD Cuarte vs Girona",
+    "title": "Anaitasuna vs Deportivo Alavés",
     "image": "o",
     "cat": "Copa Del Rey 🇪🇸",
     "eventInfo": {
-      "teamA": "CD Cuarte ",
-      "teamB": "Girona",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/327186/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/24264/image",
-      "eventName": "CD Cuarte vs Girona FC",
+      "teamA": "Anaitasuna",
+      "teamB": "Alavés",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/263773/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2885/image",
+      "eventName": "Anaitasuna vs Deportivo Alavés",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 17:30:00 +0000",
-      "endTime": "2026/10/27 19:30:00 +0000"
+      "startTime": "2026/10/28 18:00:00 +0000",
+      "endTime": "2026/10/28 20:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "HD SERVER",
-      "SD SERVER",
-      "LOW SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
   },
   {
     "id": 50108,
-    "title": "Hamburger SV vs Frankfurt",
+    "title": "Arsenal vs Benfica",
     "image": "o",
-    "cat": "DFB Pokal",
+    "cat": "UCL Womens",
     "eventInfo": {
-      "teamA": "HSV",
-      "teamB": "Frankfurt",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2676/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2674/image",
-      "eventName": "Hamburger SV vs Eintracht Frankfurt",
+      "teamA": "Arsenal",
+      "teamB": "Benfica",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/26243/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/297853/image",
+      "eventName": "Arsenal vs Benfica",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 17:00:00 +0000",
-      "endTime": "2026/10/27 19:00:00 +0000"
+      "startTime": "2026/10/28 20:00:00 +0000",
+      "endTime": "2026/10/28 22:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "LOW SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50109,
-    "title": "Essen vs RB Leipzig",
+    "title": "OL Lyonnes vs Inter",
     "image": "o",
-    "cat": "DFB Pokal",
+    "cat": "UCL Womens",
     "eventInfo": {
-      "teamA": "RW Essen",
-      "teamB": "Leipzig",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2562/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/36360/image",
-      "eventName": "RW Essen vs RB Leipzig",
+      "teamA": "Lyonnes",
+      "teamB": "Inter",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/26245/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/325685/image",
+      "eventName": "OL Lyonnes vs Inter",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 17:00:00 +0000",
-      "endTime": "2026/10/27 19:00:00 +0000"
+      "startTime": "2026/10/28 20:00:00 +0000",
+      "endTime": "2026/10/28 22:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "LOW SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50110,
-    "title": "GroBaspach vs Augsburg",
+    "title": "Hearts vs Rangers",
     "image": "o",
-    "cat": "DFB Pokal",
+    "cat": "Scottish Premiership",
     "eventInfo": {
-      "teamA": "Großaspach",
-      "teamB": "Augsburg",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5894/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2600/image",
-      "eventName": "Großaspach vs Augsburg",
+      "teamA": "Hearts",
+      "teamB": "Rangers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2353/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2351/image",
+      "eventName": "Heart of Midlothian vs Rangers",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 17:00:00 +0000",
-      "endTime": "2026/10/27 19:00:00 +0000"
+      "startTime": "2026/10/28 20:00:00 +0000",
+      "endTime": "2026/10/28 22:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "LOW SERVER"
+      "SportDigital Fussball"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
+        "title": "SportDigital Fussball",
         "logo": ""
       }
     ]
   },
   {
     "id": 50111,
-    "title": "Bochum vs Mainz 05",
+    "title": "Celtic vs Dundee United",
     "image": "o",
-    "cat": "DFB Pokal",
+    "cat": "Scottish Premiership",
     "eventInfo": {
-      "teamA": "Bochum",
-      "teamB": "Mainz 05",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2542/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2556/image",
-      "eventName": "Bochum vs Mainz 05",
+      "teamA": "Celtic",
+      "teamB": "Dundee Utd",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2352/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2349/image",
+      "eventName": "Celtic vs Dundee United",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 17:00:00 +0000",
-      "endTime": "2026/10/27 19:00:00 +0000"
+      "startTime": "2026/10/28 19:45:00 +0000",
+      "endTime": "2026/10/28 21:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "LOW SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
         "logo": ""
-      },
+      }
+    ]
+  },
+  {
+    "id": 50112,
+    "title": "Bayern vs Real Madrid",
+    "image": "o",
+    "cat": "UCL Womens",
+    "eventInfo": {
+      "teamA": "Bayern",
+      "teamB": "Real Madrid",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/5543/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/305051/image",
+      "eventName": "Bayern München vs Real Madrid",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/28 17:45:00 +0000",
+      "endTime": "2026/10/28 19:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
       {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
   },
   {
     "id": 50113,
-    "title": "Shabab Al-Ahli vs Esteghlal",
+    "title": "Chelsea vs AS Roma",
     "image": "o",
-    "cat": "AFC Champions Elite",
+    "cat": "UCL Womens",
     "eventInfo": {
-      "teamA": "Shabab Al-Ahli",
-      "teamB": "Esteghlal FC",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/264111/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/34316/image",
-      "eventName": "Shabab Al-Ahli vs Esteghlal",
+      "teamA": "Chelsea",
+      "teamB": "Roma",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/66768/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/301414/image",
+      "eventName": "Chelsea FC vs AS Roma",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 16:00:00 +0000",
-      "endTime": "2026/10/27 18:00:00 +0000"
+      "startTime": "2026/10/28 17:45:00 +0000",
+      "endTime": "2026/10/28 19:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "LOW SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50114,
-    "title": "Al Seeb vs East Bengal",
+    "title": "Venezia vs Inter",
     "image": "o",
-    "cat": "AFC Champions Two",
+    "cat": "Serie A 🇮🇹",
     "eventInfo": {
-      "teamA": "Al Seeb",
-      "teamB": "East Bengal",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/71044/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/40655/image",
-      "eventName": "Al Seeb vs East Bengal",
+      "teamA": "Venezia",
+      "teamB": "Inter",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2688/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2697/image",
+      "eventName": "Venezia vs Inter",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/27 16:00:00 +0000",
-      "endTime": "2026/10/27 18:00:00 +0000"
+      "startTime": "2026/10/28 17:30:00 +0000",
+      "endTime": "2026/10/28 19:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "LOW SERVER"
+      "FUBO SPORTS FHD",
+      "SPORT 1 CZ"
+    ],
+    "formatsNew": [
+      {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "SPORT 1 CZ",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50115,
+    "title": "Milan vs Bologna",
+    "image": "o",
+    "cat": "Serie A 🇮🇹",
+    "eventInfo": {
+      "teamA": "Milan",
+      "teamB": "Bologna",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2692/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2685/image",
+      "eventName": "AC Milan vs Bologna",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/28 17:30:00 +0000",
+      "endTime": "2026/10/28 19:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TNT SPORTS FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "TNT SPORTS FHD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50116,
+    "title": "Freiburg vs Wolfsburg",
+    "image": "o",
+    "cat": "DFB Pokal",
+    "eventInfo": {
+      "teamA": "Freiburg",
+      "teamB": "Wolfsburg",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2538/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2524/image",
+      "eventName": "SC Freiburg vs VfL Wolfsburg",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/28 17:00:00 +0000",
+      "endTime": "2026/10/28 19:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
         "logo": ""
-      },
+      }
+    ]
+  },
+  {
+    "id": 50117,
+    "title": "Paderborn vs VfB Stuttgart",
+    "image": "o",
+    "cat": "DFB Pokal",
+    "eventInfo": {
+      "teamA": "Paderborn",
+      "teamB": "Stuttgart",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2561/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2677/image",
+      "eventName": "Paderborn vs VfB Stuttgart",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/28 17:00:00 +0000",
+      "endTime": "2026/10/28 19:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
       {
-        "title": "HD SERVER",
+        "title": "DUDE Tv Live",
         "logo": ""
-      },
+      }
+    ]
+  },
+  {
+    "id": 50118,
+    "title": "Dynamo Dresden vs Schalke 04",
+    "image": "o",
+    "cat": "DFB Pokal",
+    "eventInfo": {
+      "teamA": "Dresden",
+      "teamB": "Schalke",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2595/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2530/image",
+      "eventName": "Dynamo Dresden vs Schalke 04",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/28 17:00:00 +0000",
+      "endTime": "2026/10/28 19:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
       {
-        "title": "LOW SERVER",
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50119,
+    "title": "Jeddeloh vs Hertha BSC",
+    "image": "o",
+    "cat": "DFB Pokal",
+    "eventInfo": {
+      "teamA": "Jeddeloh",
+      "teamB": "Hertha",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/75853/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2528/image",
+      "eventName": "SSV Jeddeloh vs Hertha BSC",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/28 17:00:00 +0000",
+      "endTime": "2026/10/28 19:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50120,
+    "title": "Goa vs Sporting Delhi",
+    "image": "o",
+    "cat": "ISL",
+    "eventInfo": {
+      "teamA": "Goa",
+      "teamB": "SC Delhi",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/174594/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/331840/image",
+      "eventName": "FC Goa vs Sporting Delhi",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/28 14:00:00 +0000",
+      "endTime": "2026/10/28 16:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50121,
+    "title": "Gamba Osaka vs Buriram United",
+    "image": "o",
+    "cat": "AFC Champions Elite",
+    "eventInfo": {
+      "teamA": "Gamba Osaka",
+      "teamB": "Buriram",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3138/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/34218/image",
+      "eventName": "Gamba Osaka vs Buriram United",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/28 10:00:00 +0000",
+      "endTime": "2026/10/28 12:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50122,
+    "title": "Kashima Antlers vs Pohang Steelers",
+    "image": "o",
+    "cat": "AFC Champions Elite",
+    "eventInfo": {
+      "teamA": "Kashima",
+      "teamB": "Pohang Steelers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3134/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/7650/image",
+      "eventName": "Kashima Antlers vs Pohang Steelers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/28 10:00:00 +0000",
+      "endTime": "2026/10/28 12:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50123,
+    "title": "Viettel vs FC Seoul",
+    "image": "o",
+    "cat": "AFC Champions Two",
+    "eventInfo": {
+      "teamA": "Viettel",
+      "teamB": "FC Seoul",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/231270/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/7646/image",
+      "eventName": "Viettel vs FC Seoul",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/28 12:15:00 +0000",
+      "endTime": "2026/10/28 14:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50124,
+    "title": "Persib vs Melbourne Victory",
+    "image": "o",
+    "cat": "AFC Champions Two",
+    "eventInfo": {
+      "teamA": "Persib",
+      "teamB": "Melbourne Victory",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/64289/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5970/image",
+      "eventName": "Persib vs Melbourne Victory",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/28 12:15:00 +0000",
+      "endTime": "2026/10/28 14:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50125,
+    "title": "Gol Gohar vs Arkadag FK",
+    "image": "o",
+    "cat": "AFC Champions Two",
+    "eventInfo": {
+      "teamA": "Gol Gohar",
+      "teamB": "Arkadag",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/275525/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/469420/image",
+      "eventName": "Gol Gohar vs Arkadag FK",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/28 13:45:00 +0000",
+      "endTime": "2026/10/28 15:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50126,
+    "title": "Nasaf vs Al Kuwait",
+    "image": "o",
+    "cat": "AFC Champions Two",
+    "eventInfo": {
+      "teamA": "Nasaf",
+      "teamB": "Al Kuwait ",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/34017/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/32525/image",
+      "eventName": "Nasaf vs Al Kuwait",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/28 13:45:00 +0000",
+      "endTime": "2026/10/28 15:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50127,
+    "title": "Al-Jazira vs Al-Muharraq",
+    "image": "o",
+    "cat": "AFC Champions Two",
+    "eventInfo": {
+      "teamA": "Al-Jazira",
+      "teamB": "Muharraq",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/8090/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/45474/image",
+      "eventName": "Al-Jazira vs Al-Muharraq SC",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/28 16:00:00 +0000",
+      "endTime": "2026/10/28 18:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50128,
+    "title": "Bangladesh vs West Indies",
+    "image": "o",
+    "cat": "Cricket",
+    "eventInfo": {
+      "teamA": "BAN",
+      "teamB": "WI",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
+      "eventName": "Bangladesh vs West Indies",
+      "eventType": "null",
+      "isHot": "1",
+      "startTime": "2026/10/28 04:00:00 +0000",
+      "endTime": "2026/10/28 12:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
