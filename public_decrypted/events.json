@@ -1330,9 +1330,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN FHD",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
       {
         "title": "NHL LIVE [FHD]",
         "logo": ""
@@ -1444,144 +1449,152 @@
     ]
   },
   {
-    "id": 50090,
-    "title": "Manchester City vs Brighton",
+    "id": 50089,
+    "title": "Inter Miami",
     "image": "o",
-    "cat": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "cat": "Cricket",
     "eventInfo": {
-      "teamA": "Everton",
-      "teamB": "Newcastle",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/48/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/39/image",
-      "eventName": "Everton vs Newcastle United",
+      "teamA": "Hong Kong Sixes",
+      "teamB": "Hong Kong Sixes",
+      "teamAFlag": "https://hongkongsixes.live/wp-content/uploads/2024/03/HKS-LOGO_2@3x.png",
+      "teamBFlag": "https://hongkongsixes.live/wp-content/uploads/2024/03/HKS-LOGO_2@3x.png",
+      "eventName": "Hong Kong Sixes",
       "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/29 19:45:00 +0000",
-      "endTime": "2026/10/29 21:50:00 +0000"
+      "isHot": "1",
+      "startTime": "2026/10/30 00:45:00 +0000",
+      "endTime": "2026/10/30 09:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PARAMOUNT+ FHD",
-      "beIN ENGLISH FHD",
-      "FANCODE FHD",
-      "CBS NETWORK",
-      "PARAMOUNT+ HD",
-      "DUDE Tv Live",
-      "LOW SERVER"
+      "WILLOW - FHD",
+      "WILLOW - ALT",
+      "TAPMAD - FHD",
+      "A SPORTS HD",
+      "TAPMAD HD"
     ],
     "formatsNew": [
       {
-        "title": "PARAMOUNT+ FHD",
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "TAPMAD - FHD",
         "logo": ""
       },
+      {
+        "title": "A SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "TAPMAD HD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50090,
+    "title": "Tottenham vs Crystal Palace",
+    "image": "o",
+    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventInfo": {
+      "teamA": "Tottenham",
+      "teamB": "Crystal Palace",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/33/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image",
+      "eventName": "Tottenham Hotspur vs Crystal Palace",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/31 17:30:00 +0000",
+      "endTime": "2026/10/31 19:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "NBC SPORTS FHD",
+      "FUBO SPORTS FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "NBC SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50091,
+    "title": "Bayern vs Dortmund",
+    "image": "o",
+    "cat": "Bundesliga 🇩🇪",
+    "eventInfo": {
+      "teamA": "Bayern",
+      "teamB": "Dortmund",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2672/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image",
+      "eventName": "Bayern Munchen vs Borussia Dortmund",
+      "eventType": "null",
+      "eventBanner": "null",
+      "isHot": "0",
+      "startTime": "2026/10/31 17:30:00 +0000",
+      "endTime": "2026/10/31 19:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN ENGLISH FHD",
+      "SporTV BR FHD",
+      "CAZE TV FHD"
+    ],
+    "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
         "logo": ""
       },
       {
-        "title": "FANCODE FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "CBS NETWORK",
+        "title": "SporTV BR FHD",
         "logo": ""
       },
       {
-        "title": "PARAMOUNT+ HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
+        "title": "CAZE TV FHD",
         "logo": ""
       }
     ]
   },
   {
     "id": 50092,
-    "title": "Fiorentina vs Atalanta",
+    "title": "Milan vs Inter",
     "image": "o",
     "cat": "Serie A 🇮🇹",
     "eventInfo": {
-      "teamA": "Fiorentina",
-      "teamB": "Atalanta",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2686/image",
-      "eventName": "Fiorentina vs Atalanta",
+      "teamA": "Milan",
+      "teamB": "Inter",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2692/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2697/image",
+      "eventName": "AC Milan vs Inter",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/29 19:45:00 +0000",
-      "endTime": "2026/10/29 21:50:00 +0000"
+      "startTime": "2026/10/31 19:45:00 +0000",
+      "endTime": "2026/10/31 21:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PARAMOUNT+ FHD",
       "beIN ENGLISH FHD",
-      "PARAMOUNT+ HD",
-      "DUDE Tv Live",
-      "LOW SERVER"
+      "FUBO SPORTS ALT",
+      "CBS NETWORK",
+      "SPORT 1 CZ FHD"
     ],
     "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": ""
-      },
       {
         "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "PARAMOUNT+ HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50093,
-    "title": "Frosinone vs Lecce",
-    "image": "o",
-    "cat": "Serie A 🇮🇹",
-    "eventInfo": {
-      "teamA": "Frosinone",
-      "teamB": "Lecce",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2801/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2689/image",
-      "eventName": "Frosinone vs Lecce",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/29 17:30:00 +0000",
-      "endTime": "2026/10/29 19:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "FUBO SPORTS FHD",
-      "FUBO SPORTS ALT",
-      "SPORT 1 CZ",
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "FUBO SPORTS FHD",
         "logo": ""
       },
       {
@@ -1589,15 +1602,44 @@
         "logo": ""
       },
       {
-        "title": "SPORT 1 CZ",
+        "title": "CBS NETWORK",
         "logo": ""
       },
       {
-        "title": "DUDE Tv Live",
+        "title": "SPORT 1 CZ FHD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50093,
+    "title": "Barcelona vs Deportivo Alavés",
+    "image": "o",
+    "cat": "LaLiga 🇪🇸",
+    "eventInfo": {
+      "teamA": "Barcelona",
+      "teamB": "Alavés",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2885/image",
+      "eventName": "FC Barcelona vs Deportivo Alavés",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/31 20:00:00 +0000",
+      "endTime": "2026/10/31 22:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN ENGLISH FHD",
+      "CAZE TV FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "beIN ENGLISH FHD",
         "logo": ""
       },
       {
-        "title": "LOW SERVER",
+        "title": "CAZE TV FHD",
         "logo": ""
       }
     ]
@@ -1622,11 +1664,10 @@
     "publish": "1",
     "formats": [
       "FANCODE - FHD",
-      "TAPMAD - FHD",
-      "RABBITHOLE - FHD",
       "FANCODE HD",
-      "TAPMAD HD",
       "T SPORTS HD",
+      "TAPMAD - FHD",
+      "TAPMAD HD",
       "FANCODE - IN"
     ],
     "formatsNew": [
@@ -1635,23 +1676,19 @@
         "logo": ""
       },
       {
-        "title": "TAPMAD - FHD",
-        "logo": ""
-      },
-      {
-        "title": "RABBITHOLE - FHD",
-        "logo": ""
-      },
-      {
         "title": "FANCODE HD",
         "logo": ""
       },
       {
-        "title": "TAPMAD HD",
+        "title": "T SPORTS HD",
         "logo": ""
       },
       {
-        "title": "T SPORTS HD",
+        "title": "TAPMAD - FHD",
+        "logo": ""
+      },
+      {
+        "title": "TAPMAD HD",
         "logo": ""
       },
       {
@@ -1662,171 +1699,131 @@
   },
   {
     "id": 50095,
-    "title": "Al-Nassr vs Al-Kholood",
+    "title": "Manchester City vs Brighton",
     "image": "o",
-    "cat": "Pro League 🇸🇦",
+    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "Al-Nassr",
-      "teamB": "Al-Kholood",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/23400/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/269199/image",
-      "eventName": "Al-Nassr vs Al-Kholood",
+      "teamA": "Man City",
+      "teamB": "Brighton",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/17/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/30/image",
+      "eventName": "Manchester City vs Brighton",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/29 18:00:00 +0000",
-      "endTime": "2026/10/29 20:05:00 +0000"
+      "startTime": "2026/10/31 15:00:00 +0000",
+      "endTime": "2026/10/31 17:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX DEPORTES",
-      "SporTV BR FHD",
-      "SportDigital Fussball",
-      "FOX SOCCER+ HD",
-      "LOW SERVER "
+      "FUBO SPORTS FHD"
     ],
     "formatsNew": [
       {
-        "title": "FOX DEPORTES",
-        "logo": ""
-      },
-      {
-        "title": "SporTV BR FHD",
-        "logo": "https://iili.io/CFFRvqJ.png"
-      },
-      {
-        "title": "SportDigital Fussball",
-        "logo": ""
-      },
-      {
-        "title": "FOX SOCCER+ HD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER ",
+        "title": "FUBO SPORTS FHD",
         "logo": ""
       }
     ]
   },
   {
     "id": 50096,
-    "title": "Al-Riyadh vs Al-Qadsiah",
+    "title": "Bournemouth vs Leeds",
     "image": "o",
-    "cat": "Pro League 🇸🇦",
+    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "Al-Riyadh",
-      "teamB": "Al-Qadsiah",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/168088/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/56027/image",
-      "eventName": "Al-Riyadh vs Al-Qadsiah",
+      "teamA": "Bournemouth",
+      "teamB": "Leeds",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/60/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/34/image",
+      "eventName": "Bournemouth vs Leeds United",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/29 18:00:00 +0000",
-      "endTime": "2026/10/29 20:00:00 +0000"
+      "startTime": "2026/10/31 15:00:00 +0000",
+      "endTime": "2026/10/31 17:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Sportsdigital Fussball",
-      "LOW SERVER "
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "Sportsdigital Fussball",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER ",
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
   },
   {
     "id": 50097,
-    "title": "Al-Khaleej vs Al-Hazem",
+    "title": "Brentford vs Forest",
     "image": "o",
-    "cat": "Pro League 🇸🇦",
+    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "Al-Khaleej",
-      "teamB": "Al-Hazem",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/167228/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/168086/image",
-      "eventName": "Al-Khaleej vs Al-Hazem",
+      "teamA": "Brentford",
+      "teamB": "Forest",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/50/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/14/image",
+      "eventName": "Brentford vs Nottingham Forest",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/29 14:35:00 +0000",
-      "endTime": "2026/10/29 16:40:00 +0000"
+      "startTime": "2026/10/31 15:00:00 +0000",
+      "endTime": "2026/10/31 17:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "HD SERVER ",
-      "LOW SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "HD SERVER ",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
   },
   {
     "id": 50098,
-    "title": "Manchester City W vs PSG W",
+    "title": "Coventry City vs Sunderland",
     "image": "o",
-    "cat": "UCL Womens",
+    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "Man City",
-      "teamB": "PSG",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/142658/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/55505/image",
-      "eventName": "Manchester City W vs PSG W",
+      "teamA": "Coventry",
+      "teamB": "Sunderland",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/11/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/41/image",
+      "eventName": "Coventry City vs Sunderland",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/29 20:00:00 +0000",
-      "endTime": "2026/10/29 22:05:00 +0000"
+      "startTime": "2026/10/31 15:00:00 +0000",
+      "endTime": "2026/10/31 17:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FANCODE FHD",
-      "DUDE Tv Live",
-      "LOW SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "FANCODE FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
         "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50099,
-    "title": "HB Koge vs Barcelona",
+    "title": "Hull City vs Ipswich Town",
     "image": "o",
-    "cat": "UCL Womens",
+    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "HB Køge",
-      "teamB": "Barcelona",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/333128/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/77889/image",
-      "eventName": "HB Koge vs Barcelona",
+      "teamA": "Hull",
+      "teamB": "Ipswich",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/96/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/32/image",
+      "eventName": "Hull City vs Ipswich Town",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/29 20:00:00 +0000",
-      "endTime": "2026/10/29 22:05:00 +0000"
+      "startTime": "2026/10/31 15:00:00 +0000",
+      "endTime": "2026/10/31 17:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1842,165 +1839,193 @@
   },
   {
     "id": 50100,
-    "title": "Austria Wien vs Juventus",
+    "title": "Chelsea vs Manchester United",
     "image": "o",
-    "cat": "UCL Womens",
+    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "Austria Wien",
-      "teamB": "Juventus",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/229911/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/269824/image",
-      "eventName": "Austria Wien vs Juventus",
+      "teamA": "Chelsea",
+      "teamB": "Man Utd",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/38/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image",
+      "eventName": "Chelsea vs Manchester United",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/29 17:45:00 +0000",
-      "endTime": "2026/10/29 19:45:00 +0000"
+      "startTime": "2026/10/31 12:30:00 +0000",
+      "endTime": "2026/10/31 14:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PARAMOUNT+ FHD",
-      "LOW SERVER"
+      "TNT SPORTS FHD",
+      "FUBO SPORTS FHD",
+      "CAZE TV FHD"
     ],
     "formatsNew": [
       {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+        "title": "TNT SPORTS FHD",
+        "logo": ""
       },
       {
-        "title": "LOW SERVER",
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "CAZE TV FHD",
         "logo": ""
       }
     ]
   },
   {
     "id": 50101,
-    "title": "Paris vs Häcken FF",
+    "title": "Real Betis vs Malaga",
     "image": "o",
-    "cat": "UCL Womens",
+    "cat": "LaLiga 🇪🇸",
     "eventInfo": {
-      "teamA": "Paris",
-      "teamB": "Häcken",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/264964/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1889/image",
-      "eventName": "Paris vs Häcken FF",
+      "teamA": "Real Betis",
+      "teamB": "Málaga",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2816/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2830/image",
+      "eventName": "Real Betis vs Málaga CF",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/29 17:45:00 +0000",
-      "endTime": "2026/10/29 19:45:00 +0000"
+      "startTime": "2026/10/31 17:30:00 +0000",
+      "endTime": "2026/10/31 19:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PARAMOUNT+ FHD",
-      "LOW SERVER"
+      "FANCODE FHD",
+      "CAZE TV FHD"
     ],
     "formatsNew": [
       {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+        "title": "FANCODE FHD",
+        "logo": ""
       },
       {
-        "title": "LOW SERVER",
+        "title": "CAZE TV FHD",
         "logo": ""
       }
     ]
   },
   {
     "id": 50102,
-    "title": "Sporting vs Sevilla",
+    "title": "Rayo Vallecano vs Celta Vigo",
     "image": "o",
-    "cat": "Copa Del Rey 🇪🇸",
+    "cat": "LaLiga 🇪🇸",
     "eventInfo": {
-      "teamA": "Sporting Hortaleza",
-      "teamB": "Sevilla",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1139496/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2833/image",
-      "eventName": "Sporting Hortaleza vs Sevilla",
+      "teamA": "Rayo Vallecano",
+      "teamB": "Celta",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2818/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image",
+      "eventName": "Rayo Vallecano vs Celta Vigo",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/29 20:00:00 +0000",
-      "endTime": "2026/10/29 22:00:00 +0000"
+      "startTime": "2026/10/31 15:15:00 +0000",
+      "endTime": "2026/10/31 17:20:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
+      "FANCODE FHD",
+      "CAZE TV FHD"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "FANCODE FHD",
         "logo": ""
       },
       {
-        "title": "LOW SERVER",
+        "title": "CAZE TV FHD",
         "logo": ""
       }
     ]
   },
   {
     "id": 50103,
-    "title": "Auriense CA vs Deportivo",
+    "title": "Levante vs Atletico Madrid",
     "image": "o",
-    "cat": "Copa Del Rey 🇪🇸",
+    "cat": "LaLiga 🇪🇸",
     "eventInfo": {
-      "teamA": "Auriense CA",
-      "teamB": "Deportivo",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1265268/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2832/image",
-      "eventName": "Auriense CA vs Deportivo",
+      "teamA": "Levante",
+      "teamB": "Atlético Madrid",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2849/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2836/image",
+      "eventName": "Levante UD vs Atlético Madrid",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/29 20:00:00 +0000",
-      "endTime": "2026/10/29 22:00:00 +0000"
+      "startTime": "2026/10/31 13:00:00 +0000",
+      "endTime": "2026/10/31 15:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
+      "beIN ENGLISH FHD",
+      "FANCODE FHD"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "beIN ENGLISH FHD",
         "logo": ""
       },
       {
-        "title": "LOW SERVER",
+        "title": "FANCODE FHD",
         "logo": ""
       }
     ]
   },
   {
     "id": 50104,
-    "title": "AE Prat vs Athletic Club",
+    "title": "Udinese vs AS Roma",
     "image": "o",
-    "cat": "Copa Del Rey 🇪🇸",
+    "cat": "Serie A 🇮🇹",
     "eventInfo": {
-      "teamA": "Prat",
-      "teamB": "Athletic Club",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/77401/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2825/image",
-      "eventName": "AE Prat vs Athletic Club",
+      "teamA": "Udinese",
+      "teamB": "Roma",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2695/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2702/image",
+      "eventName": "Udinese vs AS Roma",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/29 20:00:00 +0000",
-      "endTime": "2026/10/29 22:00:00 +0000"
+      "startTime": "2026/10/31 17:00:00 +0000",
+      "endTime": "2026/10/31 19:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
+      "beIN ENGLISH FHD"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "beIN ENGLISH FHD",
         "logo": ""
-      },
+      }
+    ]
+  },
+  {
+    "id": 50105,
+    "title": "Bologna vs Monza",
+    "image": "o",
+    "cat": "Serie A 🇮🇹",
+    "eventInfo": {
+      "teamA": "Bologna",
+      "teamB": "Monza",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2685/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2729/image",
+      "eventName": "Bologna vs Monza",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/31 14:00:00 +0000",
+      "endTime": "2026/10/31 16:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "FUBO SPORTS FHD"
+    ],
+    "formatsNew": [
       {
-        "title": "LOW SERVER",
+        "title": "FUBO SPORTS FHD",
         "logo": ""
       }
     ]
