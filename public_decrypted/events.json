@@ -724,16 +724,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "NBA LIVE [FHD]",
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "NBA LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "NBA LIVE [FHD]",
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
-        "title": "DUDE Tv Live",
+        "title": "NBA LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -757,16 +757,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "NBA LIVE [FHD]",
-      "DUDE Tv Live"
+      "DUDE Tv NBA HD",
+      "DUDE Tv Live",
+      "NBA LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "NBA LIVE [FHD]",
+        "title": "DUDE Tv NBA HD",
         "logo": ""
       },
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NBA LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -790,16 +795,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "NBA LIVE [FHD]",
-      "DUDE Tv Live"
+      "NBA LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "NBA LIVE [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -925,7 +925,7 @@
     "publish": "1",
     "formats": [
       "TSN SPORTS FHD",
-      "TSN5 SPORTS FHD",
+      "TSN4 SPORTS FHD",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
@@ -934,7 +934,7 @@
         "logo": ""
       },
       {
-        "title": "TSN5 SPORTS FHD",
+        "title": "TSN4 SPORTS FHD",
         "logo": ""
       },
       {
@@ -992,6 +992,34 @@
     ]
   },
   {
+    "id": 50072,
+    "title": "[NBA 12]",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Sharks",
+      "teamB": "Canucks",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3696/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3692/image",
+      "eventName": "San Jose Sharks vs Vancouver Canucks",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/30 02:00:00 +0000",
+      "endTime": "2026/10/30 05:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50075,
     "title": "Hurricanes vs Blue Jackets",
     "image": "o",
@@ -1010,9 +1038,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "NHL LIVE [FHD]",
         "logo": ""
@@ -1038,16 +1071,82 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "NHL LIVE [FHD]",
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "NHL LIVE [FHD]",
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50077,
+    "title": "Lightning vs Winnipeg Jets",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Lightning",
+      "teamB": "Jets",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3694/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3676/image",
+      "eventName": "Tampa Bay Lightning vs Winnipeg Jets",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/29 23:00:00 +0000",
+      "endTime": "2026/10/30 02:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50078,
+    "title": "Red Wings vs Chicago Blackhawks",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Red Wings",
+      "teamB": "Blackhawks",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3685/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3681/image",
+      "eventName": "Detroit Red Wings vs Chicago Blackhawks",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/29 23:30:00 +0000",
+      "endTime": "2026/10/30 02:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NHL LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1071,16 +1170,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "NHL LIVE [FHD]",
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "NHL LIVE [FHD]",
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
-        "title": "DUDE Tv Live",
+        "title": "NHL LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1104,16 +1203,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "NHL LIVE [FHD]",
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "NHL LIVE [FHD]",
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
-        "title": "DUDE Tv Live",
+        "title": "NHL LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1137,16 +1236,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "NHL LIVE [FHD]",
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "NHL LIVE [FHD]",
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
-        "title": "DUDE Tv Live",
+        "title": "NHL LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1170,16 +1269,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "NHL LIVE [FHD]",
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "NHL LIVE [FHD]",
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
-        "title": "DUDE Tv Live",
+        "title": "NHL LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1203,16 +1302,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "NHL LIVE [FHD]",
-      "DUDE Tv Live"
+      "NHL LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "NHL LIVE [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -1236,16 +1330,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "NHL LIVE [FHD]",
-      "DUDE Tv Live"
+      "NHL LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "NHL LIVE [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -1269,15 +1358,10 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIER SPORTS",
       "PREMIERER BR",
       "SportDigital Fussball"
     ],
     "formatsNew": [
-      {
-        "title": "PREMIER SPORTS",
-        "logo": ""
-      },
       {
         "title": "PREMIERER BR",
         "logo": ""
@@ -1307,11 +1391,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIERER BR"
+      "PRIME VIDEO FHD",
+      "PREMIER SPORTS",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "PREMIERER BR",
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
+        "title": "PREMIER SPORTS",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -1335,12 +1429,17 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIERER BR"
+      "PREMIERER BR",
+      "SporTV BR FHD"
     ],
     "formatsNew": [
       {
         "title": "PREMIERER BR",
         "logo": ""
+      },
+      {
+        "title": "SporTV BR FHD",
+        "logo": "https://iili.io/CFFRvqJ.png"
       }
     ]
   },
