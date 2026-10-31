@@ -1,8 +1,37 @@
 [
   {
+    "api": "5892fecfff0a4d5a7eef925f2538c386:70bdd64f7dc30ba525abc5655f14b540",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k1xqidoiy1/out/v1/00d2828855a944ffbbdc15232c4157a9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "FUBO SPORTS FHD",
+    "type": "1"
+  },
+  {
     "api": "",
-    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+    "link": "https://chatgpt.hereisman.net/playlist/58919/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "USA NETWORK HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://live.vivo155.com/live/hd-en-1-4558654.m3u8?txSecret=b13ccdc38f5a428aca2dac9c5b693718&txTime=6AE614F9|Referer=https://player.on8on8.com/",
+    "logo": "",
     "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://www.rtmpcdn.com/live/41dea22f-ac04-49b5-91f4-880b98e3c5c2.m3u8",
+    "logo": "",
+    "title": "HD SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.50/hls/A888a.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "logo": "",
+    "title": "LOW SERVER",
     "type": "0"
   }
 ]

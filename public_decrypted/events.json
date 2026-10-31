@@ -12,14 +12,13 @@
       "eventName": "Formula 1 -  Mexico Grand Prix",
       "eventType": "null",
       "eventBanner": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/31 17:30:00 +0000",
       "endTime": "2026/10/31 22:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN SPORTS FHD",
       "FANCODE - FHD",
       "SporTV BR FHD",
       "CANAL5 FHD",
@@ -35,10 +34,6 @@
       "VIAPLAY NL [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "TSN SPORTS FHD",
-        "logo": ""
-      },
       {
         "title": "FANCODE - FHD",
         "logo": ""
@@ -827,18 +822,18 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN SPORTS FHD",
       "TSN4 SPORTS FHD",
+      "TSN SPORTS FHD",
       "CFL LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "TSN SPORTS FHD",
-        "logo": ""
+        "title": "TSN4 SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
-        "title": "TSN4 SPORTS FHD",
-        "logo": ""
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "CFL LIVE [FHD]",
@@ -997,15 +992,25 @@
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/zouzh",
       "isHot": "0",
-      "startTime": "2026/10/31 16:00:00 +0000",
+      "startTime": "2026/10/31 14:00:00 +0000",
       "endTime": "2026/10/31 20:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DAZN SPORTS HD",
+      "DAZN SPORTS HD 2",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN SPORTS HD 2",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1112,9 +1117,19 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
+      "NHL LIVE HD",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NHL LIVE HD",
+        "logo": ""
+      },
       {
         "title": "NHL LIVE [FHD]",
         "logo": ""
@@ -1140,9 +1155,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "NHL LIVE [FHD]",
         "logo": ""
@@ -1168,9 +1188,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "NHL LIVE [FHD]",
         "logo": ""
@@ -1196,9 +1221,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "NHL LIVE [FHD]",
         "logo": ""
@@ -1467,28 +1497,53 @@
       "eventName": "Bayern Munchen vs Borussia Dortmund",
       "eventType": "null",
       "eventBanner": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/31 17:30:00 +0000",
       "endTime": "2026/10/31 19:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DAZN SPORTS FHD",
+      "PEACOCK TV ES",
       "beIN ENGLISH FHD",
       "SporTV BR FHD",
-      "CAZE TV FHD"
+      "CAZE TV FHD",
+      "DAZN SPORTS HD",
+      "HD SERVER ",
+      "LOW SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "DAZN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "PEACOCK TV ES",
+        "logo": ""
+      },
       {
         "title": "beIN ENGLISH FHD",
         "logo": ""
       },
       {
         "title": "SporTV BR FHD",
-        "logo": ""
+        "logo": "https://iili.io/CFFRvqJ.png"
       },
       {
         "title": "CAZE TV FHD",
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+      },
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1641,11 +1696,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FUBO SPORTS FHD"
+      "FUBO SPORTS FHD",
+      "PEACOCK TV HD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "PEACOCK TV HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1669,11 +1744,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FUBO SPORTS FHD",
+      "PEACOCK TV HD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "PEACOCK TV HD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1697,11 +1792,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FUBO SPORTS FHD",
+      "USA NETWORK HD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "USA NETWORK HD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1725,11 +1840,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FUBO SPORTS FHD",
+      "PEACOCK TV HD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "PEACOCK TV HD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1753,11 +1888,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FUBO SPORTS FHD",
+      "PEACOCK TV HD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "PEACOCK TV HD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1774,23 +1929,48 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image",
       "eventName": "Tottenham Hotspur vs Crystal Palace",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/31 17:30:00 +0000",
       "endTime": "2026/10/31 19:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PEACOCK TV FHD",
+      "FUBO SPORTS FHD",
       "NBC SPORTS FHD",
-      "FUBO SPORTS FHD"
+      "FUBO SPORTS ALT",
+      "NBC SPORTS HD",
+      "HD SERVER ",
+      "LOW SERVER "
     ],
     "formatsNew": [
+      {
+        "title": "PEACOCK TV FHD",
+        "logo": ""
+      },
+      {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
       {
         "title": "NBC SPORTS FHD",
         "logo": ""
       },
       {
-        "title": "FUBO SPORTS FHD",
+        "title": "FUBO SPORTS ALT",
+        "logo": ""
+      },
+      {
+        "title": "NBC SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER ",
         "logo": ""
       }
     ]
@@ -1816,7 +1996,8 @@
     "formats": [
       "FANCODE FHD",
       "D Sports FHD",
-      "CAZE TV FHD"
+      "CAZE TV FHD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -1830,6 +2011,10 @@
       {
         "title": "CAZE TV FHD",
         "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
       }
     ]
   },
@@ -1853,15 +2038,30 @@
     "publish": "1",
     "formats": [
       "FANCODE FHD",
-      "CAZE TV FHD"
+      "CAZE TV FHD",
+      "ESPN DEPORTES HD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "FANCODE FHD",
-        "logo": ""
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
         "title": "CAZE TV FHD",
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+      },
+      {
+        "title": "ESPN DEPORTES HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1933,36 +2133,10 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50105,
-    "title": "Bologna vs Monza",
-    "image": "o",
-    "cat": "Serie A 🇮🇹",
-    "eventInfo": {
-      "teamA": "Bologna",
-      "teamB": "Monza",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2685/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2729/image",
-      "eventName": "Bologna vs Monza",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/31 14:00:00 +0000",
-      "endTime": "2026/10/31 16:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
       "PARAMOUNT+ FHD",
       "FUBO SPORTS FHD",
+      "beIN ENGLISH FHD",
+      "SPORT 1 CZ",
       "PARAMOUNT+ HD",
       "LOW SERVER"
     ],
@@ -1976,151 +2150,19 @@
         "logo": ""
       },
       {
+        "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "SPORT 1 CZ",
+        "logo": ""
+      },
+      {
         "title": "PARAMOUNT+ HD",
         "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
       },
       {
         "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50106,
-    "title": "Leverkusen vs Stuttgart",
-    "image": "o",
-    "cat": "Bundesliga 🇩🇪",
-    "eventInfo": {
-      "teamA": "Leverkusen",
-      "teamB": "Stuttgart",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2681/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2677/image",
-      "eventName": "Bayer Leverkusen vs Stuttgart",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/31 14:30:00 +0000",
-      "endTime": "2026/10/31 16:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50107,
-    "title": "Werder Bremen vs Hoffenheim",
-    "image": "o",
-    "cat": "Bundesliga 🇩🇪",
-    "eventInfo": {
-      "teamA": "Bremen",
-      "teamB": "Hoffenheim",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2534/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2569/image",
-      "eventName": "Werder Bremen vs Hoffenheim",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/31 14:30:00 +0000",
-      "endTime": "2026/10/31 16:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50108,
-    "title": "Schalke vs RB Leipzig",
-    "image": "o",
-    "cat": "Bundesliga 🇩🇪",
-    "eventInfo": {
-      "teamA": "Schalke",
-      "teamB": "Leipzig",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2530/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/36360/image",
-      "eventName": "Schalke 04 vs RB Leipzig",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/31 14:30:00 +0000",
-      "endTime": "2026/10/31 16:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "CAZE TV FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "CAZE TV FHD",
-        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
-      }
-    ]
-  },
-  {
-    "id": 50109,
-    "title": "Augsburg vs Freiburg",
-    "image": "o",
-    "cat": "Bundesliga 🇩🇪",
-    "eventInfo": {
-      "teamA": "Augsburg",
-      "teamB": "Freiburg",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2600/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2538/image",
-      "eventName": "Augsburg vs Freiburg",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/31 14:30:00 +0000",
-      "endTime": "2026/10/31 16:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50110,
-    "title": "Borussia vs Paderborn",
-    "image": "o",
-    "cat": "Bundesliga 🇩🇪",
-    "eventInfo": {
-      "teamA": "M'gladbach",
-      "teamB": "Paderborn",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2527/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2561/image",
-      "eventName": "Borussia M'gladbach vs Paderborn",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/31 14:30:00 +0000",
-      "endTime": "2026/10/31 16:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -2165,7 +2207,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image",
       "eventName": "Chelsea vs Manchester United",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/10/31 12:30:00 +0000",
       "endTime": "2026/10/31 14:35:00 +0000"
     },
@@ -2464,11 +2506,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportDigital Fussball"
+      "SportDigital Fussball",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -2492,11 +2539,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2558,72 +2610,6 @@
     ]
   },
   {
-    "id": 50125,
-    "title": "Kocaelispor vs Rizespor",
-    "image": "o",
-    "cat": "Super Lig",
-    "eventInfo": {
-      "teamA": "Kocaelispor",
-      "teamB": "Rizespor",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3065/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3064/image",
-      "eventName": "Kocaelispor vs Çaykur Rizespor",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/31 13:00:00 +0000",
-      "endTime": "2026/10/31 15:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50126,
-    "title": "Erzurumspor vs Corum",
-    "image": "o",
-    "cat": "Super Lig",
-    "eventInfo": {
-      "teamA": "Erzurumspor",
-      "teamB": "Çorum",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/55603/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/77629/image",
-      "eventName": "Erzurumspor vs Çorum",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/31 10:30:00 +0000",
-      "endTime": "2026/10/31 12:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50127,
     "title": "Rangers vs Aberdeen",
     "image": "o",
@@ -2675,11 +2661,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CBS NETWORK"
+      "CBS NETWORK",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -2703,11 +2694,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2731,11 +2732,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LOW SERVER "
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER ",
         "logo": ""
       }
     ]
@@ -2759,11 +2765,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2787,123 +2803,8 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50133,
-    "title": "Lincoln City vs Birmingham City",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Lincoln",
-      "teamB": "Birmingham",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/92/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/9/image",
-      "eventName": "Lincoln City vs Birmingham City",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/31 12:30:00 +0000",
-      "endTime": "2026/10/31 14:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "CBS NETWORK",
       "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50134,
-    "title": "Stoke City vs Preston",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Stoke",
-      "teamB": "Preston",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/29/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/21/image",
-      "eventName": "Stoke City vs Preston North End",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/31 12:30:00 +0000",
-      "endTime": "2026/10/31 14:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "beIN ENGLISH FHD",
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50135,
-    "title": "Wolfsburg vs Osnabrück",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Wolfsburg",
-      "teamB": "Osnabrück",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2524/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2581/image",
-      "eventName": "Wolfsburg vs Osnabrück",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/31 12:00:00 +0000",
-      "endTime": "2026/10/31 14:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "LOW SERVER"
+      "LOW SERVER "
     ],
     "formatsNew": [
       {
@@ -2911,92 +2812,7 @@
         "logo": ""
       },
       {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50136,
-    "title": "Darmstadt vs Magdeburg",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Darmstadt",
-      "teamB": "Magdeburg",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2576/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2591/image",
-      "eventName": "Darmstadt vs Magdeburg",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/31 12:00:00 +0000",
-      "endTime": "2026/10/31 14:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50137,
-    "title": "Kaiserslautern vs Hertha",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Kaiserslautern",
-      "teamB": "Hertha",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2675/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2528/image",
-      "eventName": "Kaiserslautern vs Hertha",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/31 12:00:00 +0000",
-      "endTime": "2026/10/31 14:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      " DAZN SPORTS FHD",
-      "DUDE Tv Live",
-      "HD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": " DAZN SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
+        "title": "LOW SERVER ",
         "logo": ""
       }
     ]
@@ -3020,11 +2836,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -3044,34 +2860,6 @@
       "isHot": "0",
       "startTime": "2026/10/31 15:15:00 +0000",
       "endTime": "2026/10/31 17:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50140,
-    "title": "Real Sociedad B vs Girona",
-    "image": "o",
-    "cat": "LaLiga 2",
-    "eventInfo": {
-      "teamA": "Real Sociedad B",
-      "teamB": "Girona",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/24360/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/24264/image",
-      "eventName": "Real Sociedad B vs Girona FC",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/31 13:00:00 +0000",
-      "endTime": "2026/10/31 15:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",

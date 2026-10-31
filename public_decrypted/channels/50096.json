@@ -1,16 +1,37 @@
 [
   {
-    "api": "",
-    "link": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/77693/77693_264_live.m3u8",
+    "api": "d769cd4a29d99846454b4c6522a48737:f28baac0518d2a2ad820f806a271bec7",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/y41kzj5gl4/out/v1/4379e830995b4993a974c6cd682b8b54/cenc.mpd?aws_sessionId=2fd09059-3fbc-4560-b788-31929abc1233|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "",
-    "title": "Sportsdigital Fussball",
+    "title": "FUBO SPORTS FHD",
+    "type": "1"
+  },
+  {
+    "api": "",
+    "link": "https://chatgpt.hereisman.net/playlist/58915/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "PEACOCK TV HD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "http://193.47.62.50/hls/GTTTTAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "link": "https://live.vivo155.com/live/hd-en-1-4558652.m3u8?txSecret=8822e82ae63e539c587b0576961ad9a0&txTime=6AE614DB|Referer=https://player.on8on8.com/",
     "logo": "",
-    "title": "LOW SERVER ",
+    "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://www.rtmpcdn.com/live/926e38d6-2c1f-415b-866c-34ae2d587f35.m3u8",
+    "logo": "",
+    "title": "HD SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.50/hls/A888.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "logo": "",
+    "title": "LOW SERVER",
     "type": "0"
   }
 ]

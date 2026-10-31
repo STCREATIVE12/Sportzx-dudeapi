@@ -5,5 +5,12 @@
     "logo": "",
     "title": "SportDigital Fussball",
     "type": "1"
+  },
+  {
+    "api": "",
+    "link": "https://live.vivo155.com/live/sd-1-4552237.m3u8?txSecret=2dae1237a3a9f5280057cd922d6aec13&txTime=6AE61B8C|Referer=https://player.on8on8.com/",
+    "logo": "",
+    "title": "DUDE Tv Live",
+    "type": "0"
   }
 ]
