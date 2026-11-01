@@ -1,23 +1,30 @@
 [
   {
-    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "22f125b5721ad4b08b2fd5640117a84a:9f3579b0759dbc527bec14638027d25f",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z0fmnuemex/out/v1/0e3acebe1705493db8051047c4cfe821/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "",
-    "title": "beIN ENGLISH FHD",
+    "title": "FOX NFL FHD",
     "type": "1"
   },
   {
     "api": "",
-    "link": "https://live.vivo155.com/live/sd-1-4563652.m3u8?txSecret=129bf9b7d7d648ebefaff9f3a1ba71f4&txTime=6AE6135D|Referer=https://player.on8on8.com/",
+    "link": "https://chatgpt.hereisman.net/playlist/59064/load-playlist-multi?|Referer=https://gooz.aapmains.net",
     "logo": "",
-    "title": "DUDE Tv Live",
+    "title": "DUDE Tv NFL HD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "http://193.47.62.59/hls/GLLLAAQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "link": "https://chatgpt.hereisman.net/playlist/59036/load-playlist-multi?|Referer=https://gooz.aapmains.net",
     "logo": "",
-    "title": "LOW SERVER",
+    "title": "NFL LIVE (USA)",
     "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://taifood-blog.asia/embed/nfl/2026-11-01/min-det",
+    "logo": "",
+    "title": "NFL LIVE [FHD]",
+    "type": "2"
   }
 ]

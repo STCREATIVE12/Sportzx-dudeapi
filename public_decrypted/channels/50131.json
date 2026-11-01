@@ -1,23 +1,30 @@
 [
   {
-    "api": "5bc14408674fb6e0d255f69f23578ab7:d8615ba3ed3093f68dee0f55809bd23d",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7egg7nxyy5/out/v1/5f618db8e2da4a60b5d76cb89c1e8424/cenc.mpd?aws_sessionId=c6711e34-390d-4f32-a7ca-b37c8e38492d|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-    "title": "PARAMOUNT+ FHD",
+    "api": "7d1ba9b75a6aadca4aafc599d686fefe:3116ebf4a9a89f0724f3de8649a829d3",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gi9pvfalzb/out/v1/d01083b9972a4ab0ba7bc4ac17e126a9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "FOX NFL FHD",
     "type": "1"
   },
   {
     "api": "",
-    "link": "https://live.vivo155.com/live/sd-1-4563654.m3u8?txSecret=0c6dc0abaa57dbee582fc828c3335189&txTime=6AE61373|Referer=https://player.on8on8.com/",
+    "link": "https://chatgpt.hereisman.net/playlist/59059/load-playlist-multi?|Referer=https://gooz.aapmains.net",
     "logo": "",
-    "title": "DUDE Tv Live",
+    "title": "DUDE Tv NFL HD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "http://193.47.62.50/hls/T999AAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "link": "https://chatgpt.hereisman.net/playlist/59034/load-playlist-multi?|Referer=https://gooz.aapmains.net",
     "logo": "",
-    "title": "LOW SERVER",
+    "title": "NFL LIVE (USA)",
     "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://taifood-blog.asia/embed/nfl/2026-11-01/lv-nyj",
+    "logo": "",
+    "title": "NFL LIVE [FHD]",
+    "type": "2"
   }
 ]

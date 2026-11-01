@@ -1,16 +1,30 @@
 [
   {
-    "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "3b3580b4daf25bbf11f4c3cd011fe360:67e43f5b08cea0ebd3643b582bab430e",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g0qjga9edn/out/v1/aea06bfc646045b08e1c15124d19d345/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "",
-    "title": "CBS NETWORK",
+    "title": "FOX NFL FHD",
     "type": "1"
   },
   {
     "api": "",
-    "link": "https://live.vivo155.com/live/sd-1-4563656.m3u8?txSecret=1cbc18daf12fdf59d73a27a9c3365b49&txTime=6AE6138B|Referer=https://player.on8on8.com/",
+    "link": "https://chatgpt.hereisman.net/playlist/59058/load-playlist-multi?|Referer=https://gooz.aapmains.net",
     "logo": "",
-    "title": "DUDE Tv Live",
+    "title": "DUDE Tv NFL HD",
     "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://chatgpt.hereisman.net/playlist/59042/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "NFL LIVE (USA)",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://taifood-blog.asia/embed/nfl/2026-11-01/ari-dal",
+    "logo": "",
+    "title": "NFL LIVE [FHD]",
+    "type": "2"
   }
 ]
