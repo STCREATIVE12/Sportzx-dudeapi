@@ -1,23 +1,23 @@
 [
   {
+    "api": "cca14ed73961973a0c99492258600f13:af2e05bb959efa6207755698741f937d",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oeaneig1ll/out/v1/70bcf654653d4dcb8305d03327cfe0ce/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "NBA Gamepass FHD",
+    "type": "1"
+  },
+  {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/59392/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+    "link": "https://chatgpt.hereisman.net/playlist/59676/load-playlist-multi?|Referer=https://gooz.aapmains.net",
     "logo": "",
     "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/59412/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+    "link": "https://chatgpt.hereisman.net/playlist/59689/load-playlist-multi?|Referer=https://gooz.aapmains.net",
     "logo": "",
-    "title": "DUDE Tv NBA HD",
+    "title": "NBA Live HD",
     "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://taifood-blog.asia/embed/nba/2026-11-06/phi-cle",
-    "logo": "",
-    "title": "NBA LIVE [FHD]",
-    "type": "2"
   }
 ]
