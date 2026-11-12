@@ -1,9 +1,24 @@
 [
   {
-    "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "TSN SPORTS - FHD",
-    "type": "1"
+    "id": 1,
+    "title": "DAZN SPORTS FHD",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g5l5tyyxyx/out/v1/6cc87968a1d5484c9beeb7041c3f9371/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "e433b72b04b06443f8f24794d88131e7:1dd12c46939c3027d9efd66a6330e3f3",
+    "type": "1",
+    "webLink": "",
+    "defaultLanguage": "",
+    "geo": "ALL",
+    "quality": ""
+  },
+  {
+    "id": 1,
+    "title": "LOW QUALITY",
+    "link": "http://193.47.62.55/hls/V333A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "api": "",
+    "type": "0",
+    "webLink": "",
+    "defaultLanguage": "",
+    "geo": "ALL",
+    "quality": ""
   }
 ]

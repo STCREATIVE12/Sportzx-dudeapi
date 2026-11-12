@@ -1,14 +1,86 @@
 [
   {
+    "api": "a59ccf4a670e13932b4bd5972b2be7d1:de96de2f353e2922634e7e1b34befee0",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/af78moxwel/out/v1/412cee2767ed4c4a9bccc22f950ce86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "DAZN SPORTS FHD",
+    "type": "1"
+  },
+  {
+    "api": "af5adf2f9aebfbce439fd9de4d6f6111:bd962ed1dc6391f707b93c9385d9b54c",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/td0oga2768/out/v1/a45152e1f3204d6aa040ea44742c838e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "SonyLiv PRIME FHD",
+    "type": "1"
+  },
+  {
     "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
     "title": "FOX SPORTS FHD",
+    "type": "1"
+  },
+  {
+    "api": "c4df001be8b4bf02ebb396f1ef9aba4f:ab259ee18cef520f319cdea61ddfa293",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0pkxlhb5ji/out/v1/d2f281563daa4c8da8e2fd168552b757/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
+    "title": "VIX Espanol FHD",
     "type": "1"
   },
   {
     "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
     "title": "beIN ENGLISH FHD",
     "type": "1"
+  },
+  {
+    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+    "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "SPORT 1 CZ FHD",
+    "type": "1"
+  },
+  {
+    "api": "",
+    "link": "https://chatgpt.hereisman.net/playlist/59876/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+    "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+    "title": "FOX SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8?|Referer=https://tapmad.com/",
+    "logo": "",
+    "title": "TAPMAD - FHD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120303/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794547075~acl=/*~id=78345236590460127175211110951727~hmac=dd85058cac88593aeba4f84d58faec64cc45b81dedeaa0d9d7ce2cba685b5245|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=b89c39cde708ad19bc371e87f38fbb0d-1794501003595",
+    "logo": "",
+    "title": "SonyLiv (Asia)",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://live.vivo155.com/live/hd-en-1-4518077.m3u8?txSecret=0885f45a94cfd1ca9e4ccd745aadc7fe&txTime=6AF60774|Referer=https://player.on8on8.com/",
+    "logo": "",
+    "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://www.rtmpcdn.com/live/177f579d-a5a2-4aa9-a3a9-0bd2e41fdcd3.m3u8",
+    "logo": "",
+    "title": "HD QUALITY",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.50/hls/EEEEAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "logo": "",
+    "title": "LOW QUALITY",
+    "type": "0"
   }
 ]
