@@ -1,9 +1,27 @@
 [
   {
-    "api": "",
-    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-    "title": "DUDE Tv Live",
-    "type": "0"
+    "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "title": "beIN ENGLISH FHD",
+    "type": "1"
+  },
+  {
+    "api": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "title": "FUBO NETWORK FHD",
+    "type": "1"
+  },
+  {
+    "api": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "title": "TVE La 1 FHD",
+    "type": "1"
+  },
+  {
+    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+    "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+    "title": "SPORT 1 CZ FHD",
+    "type": "1"
   },
   {
     "api": "N2Y3YTFiYmM1MjNhM2ExZDBmYzRjNTMyMmQyZGJkMzQ6Yjc0NWEyNDI5M2EzNDU1ZWY3ZWIyZWYxNGY3YzlkMzg=",
@@ -17,13 +35,6 @@
     "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tzkc6asv5w/out/v1/672e49b162c241e78fcec56ac4dea3da/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "",
     "title": "DAZN SPORTS FHD",
-    "type": "1"
-  },
-  {
-    "api": "MGI0MmJlMjY2NGQ3ZTgxMWQwNGYzZTUwNGUwOTI0YzU6YWUyNDA5MDEyM2I4YzcyYWM1NDA0ZGMxNTI4NDdjYjc=",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "beIN ENGLISH FHD",
     "type": "1"
   },
   {

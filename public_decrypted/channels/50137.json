@@ -1,37 +1,8 @@
 [
   {
-    "api": "ae9dfc3e14f81520c96678b2818203b0:890f27ce6531575d09365c95c7557cd8",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x5af8ecwsh/out/v1/c37f1ecce4214502960ae5c0367154ff/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-    "title": "WILLOW FHD",
-    "type": "1"
-  },
-  {
-    "api": "2d895ee3ffc49f5334210c8ee8cccee2:612a73373cbc8a0c795ef02e725ea42e",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v9vh6sx6aa/out/v1/fa0840b9189c43a5b75029161e4f1829/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "PRIME VIDEO FHD",
-    "type": "1"
-  },
-  {
-    "api": "ae9dfc3e14f81520c96678b2818203b0:890f27ce6531575d09365c95c7557cd8",
-    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x5af8ecwsh/out/v1/c37f1ecce4214502960ae5c0367154ff/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-    "title": "WILLOW ALT",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://live.msnetworks.net/ten-sports/master.m3u8",
-    "logo": "",
-    "title": "TEN SPORTS HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/criclive1211/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=54e08fa8fce0815250f0a7836422dd18-1794457801618",
-    "logo": "",
-    "title": "SonyLiv (Asia)",
+    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+    "title": "DUDE Tv Live",
     "type": "0"
   }
 ]

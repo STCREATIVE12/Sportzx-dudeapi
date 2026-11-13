@@ -1,79 +1,8 @@
 [
   {
-    "api": "aa030376eae4a60c422a069784a0b221:f18ac2a2d72a87ffe66b62740336907a",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rsmrmcmdzb/out/v1/fa673d18f36e4b999c3e8a3f79721ee9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "DAZN SPORTS FHD",
-    "type": "1"
-  },
-  {
-    "api": "8a8998a833ad2d041de7cacd95c3f685:8256d9686b0c3dde63f205614c0772a5",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yi7ehwmaqx/out/v1/b544273aaf66429a8892963d8fbdd086/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "SonyLiv PRIME FHD",
-    "type": "1"
-  },
-  {
-    "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "beIN ENGLISH FHD",
-    "type": "1"
-  },
-  {
-    "api": "fb2f6053cd382eb138d7c8f0dfa461e2:94eae87ba9e0eb456dcb0a3f2debd0df",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/82oqikb16e/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "VIX Espanol FHD",
-    "type": "1"
-  },
-  {
-    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-    "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "SPORT 2 CZ FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/59877/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-    "logo": "",
-    "title": "FOX SOCCER+ HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/Footlive1211/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=3fb152fd6fe1cd7dd4b80a115e43e0cf-1794502203829",
-    "logo": "",
-    "title": "SonyLiv (Asia)",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8?|Referer=https://tapmad.com/",
-    "logo": "",
-    "title": "TAPMAD - FHD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4518083.m3u8?txSecret=9d8db7dd11a2cb8d7edc6d74f311861e&txTime=6AF60823|Referer=https://player.on8on8.com/",
-    "logo": "",
+    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
     "title": "DUDE Tv Live",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://www.rtmpcdn.com/live/805fb1e1-c171-469e-9cd0-659b98ca4547.m3u8",
-    "logo": "",
-    "title": "HD QUALITY",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.50/hls/EEEEAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-    "logo": "",
-    "title": "LOW QUALITY",
     "type": "0"
   }
 ]
