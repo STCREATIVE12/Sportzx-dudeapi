@@ -1,57 +1,37 @@
 [
   {
-    "id": 1,
+    "api": "ab5b5cecc72d2468a6bb0cb095549adf:498bea5d3276c0fdbb38e8b10703c44c",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yooa0wvxcv/out/v1/53f82e2b94514842bf43719b50613549/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
     "title": "WILLOW FHD",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k5yg9k44sh/out/v1/b111c9899c3d489c819ba8bddc1e258f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "api": "c9416419990931400d04e62d657c0cc8:7aa33c302380249e86295685656c2a97",
-    "type": "1",
-    "webLink": "",
-    "defaultLanguage": "",
-    "geo": "ALL",
-    "quality": ""
+    "type": "1"
   },
   {
-    "id": 1,
-    "title": "PREMIER SPORTS FHD",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-    "type": "1",
-    "webLink": "",
-    "defaultLanguage": "",
-    "geo": "ALL",
-    "quality": ""
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
+    "title": "PREMIER SPORTS FHD",
+    "type": "1"
   },
   {
-    "id": 1,
+    "api": "ab5b5cecc72d2468a6bb0cb095549adf:498bea5d3276c0fdbb38e8b10703c44c",
+    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yooa0wvxcv/out/v1/53f82e2b94514842bf43719b50613549/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
     "title": "WILLOW ALT",
-    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/k5yg9k44sh/out/v1/b111c9899c3d489c819ba8bddc1e258f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "api": "c9416419990931400d04e62d657c0cc8:7aa33c302380249e86295685656c2a97",
-    "type": "1",
-    "webLink": "",
-    "defaultLanguage": "",
-    "geo": "ALL",
-    "quality": ""
+    "type": "1"
   },
   {
-    "id": 1,
-    "title": "A SPORTS HD",
+    "api": "",
     "link": "https://live.msnetworks.net/a-sports/master.m3u8",
-    "api": "",
-    "type": "0",
-    "webLink": "",
-    "defaultLanguage": "",
-    "geo": "ALL",
-    "quality": ""
+    "logo": "",
+    "title": "A SPORTS HD",
+    "type": "0"
   },
   {
-    "id": 1,
-    "title": "MYCO HD",
-    "link": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/",
     "api": "",
-    "type": "0",
-    "webLink": "",
-    "defaultLanguage": "",
-    "geo": "ALL",
-    "quality": ""
+    "link": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/",
+    "logo": "",
+    "title": "MYCO HD",
+    "type": "0"
   }
 ]

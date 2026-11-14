@@ -1,8 +1,57 @@
 [
   {
-    "api": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
+    "id": 1,
+    "title": "FUBO SPORTS FHD",
     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "title": "FUBO NETWORK FHD",
-    "type": "1"
+    "api": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
+    "type": "1",
+    "webLink": "",
+    "defaultLanguage": "",
+    "geo": "ALL",
+    "quality": ""
+  },
+  {
+    "id": 1,
+    "title": "DUDE Tv Live",
+    "link": "https://chatgpt.hereisman.net/playlist/60026/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+    "api": "",
+    "type": "0",
+    "webLink": "",
+    "defaultLanguage": "",
+    "geo": "ALL",
+    "quality": ""
+  },
+  {
+    "id": 1,
+    "title": "SonyLiv (Asia)",
+    "link": "https://dai.google.com/linear/hls/event/N8hV26xoRFe_xYegH2wLGA/master.m3u8|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/",
+    "api": "",
+    "type": "0",
+    "webLink": "",
+    "defaultLanguage": "",
+    "geo": "ALL",
+    "quality": ""
+  },
+  {
+    "id": 1,
+    "title": "HD QUALITY",
+    "link": "https://www.rtmpcdn.com/live/p-043f01b8466646a1a61d419854d475c7.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "api": "",
+    "type": "0",
+    "webLink": "",
+    "defaultLanguage": "",
+    "geo": "ALL",
+    "quality": ""
+  },
+  {
+    "id": 1,
+    "title": "LOW QUALITY",
+    "link": "http://193.47.62.41/hls/RARARAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "api": "",
+    "type": "0",
+    "webLink": "",
+    "defaultLanguage": "",
+    "geo": "ALL",
+    "quality": ""
   }
 ]

@@ -1,14 +1,57 @@
 [
   {
-    "name": "SD STREAM",
-    "link": "http://193.47.62.59/hls/BEEEAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-    "audio": "",
-    "tag": "----no---",
-    "scheme": 0,
-    "hasHeader": false,
-    "hasVpnDetection": false,
-    "customUa": false,
-    "title": "SD STREAM",
-    "type": "0"
+    "id": 1,
+    "title": "DAZN SPORTS FHD",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/12gtj56m2g/out/v1/ffeb221c989d4a7a9f6d86d47fcbf4f2/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "0cb5f89ea0e48185a920e5520d16a471:4b9f7810a5969eac231aef27ddd98415",
+    "type": "1",
+    "webLink": "",
+    "defaultLanguage": "",
+    "geo": "ALL",
+    "quality": ""
+  },
+  {
+    "id": 1,
+    "title": "DUDE Tv Live",
+    "link": "https://chatgpt.hereisman.net/playlist/60027/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+    "api": "",
+    "type": "0",
+    "webLink": "",
+    "defaultLanguage": "",
+    "geo": "ALL",
+    "quality": ""
+  },
+  {
+    "id": 1,
+    "title": "SonyLiv (Asia)",
+    "link": "https://dai.google.com/linear/hls/event/79qh3ICzQYq-sEs08OwzxQ/master.m3u8|User-Agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/",
+    "api": "",
+    "type": "0",
+    "webLink": "",
+    "defaultLanguage": "",
+    "geo": "ALL",
+    "quality": ""
+  },
+  {
+    "id": 1,
+    "title": "HD QUALITY",
+    "link": "https://www.rtmpcdn.com/live/p-facfa93b392046948b216449e17397b4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "api": "",
+    "type": "0",
+    "webLink": "",
+    "defaultLanguage": "",
+    "geo": "ALL",
+    "quality": ""
+  },
+  {
+    "id": 1,
+    "title": "LOW QUALITY",
+    "link": "http://193.47.62.55/hls/RARARAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "api": "",
+    "type": "0",
+    "webLink": "",
+    "defaultLanguage": "",
+    "geo": "ALL",
+    "quality": ""
   }
 ]
