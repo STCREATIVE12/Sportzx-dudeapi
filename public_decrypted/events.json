@@ -163,51 +163,41 @@
     "formats": [
       "TNT SPORTS FHD",
       "PARAMOUNT+ FHD",
-      "PARAMOUNT+ ES",
-      "PARAMOUNT+ PT",
       "PARAMOUNT+ HD",
-      "DUDE Tv Live FHD",
-      "CBS SPORTS HD",
-      "SD TV (USE VPN)",
+      "UFC LIVE FHD",
+      "DUDE Tv Live",
+      "LOW QUALITY",
       "SportsNet FHD",
       "UFC TV FHD"
     ],
     "formatsNew": [
       {
         "title": "TNT SPORTS FHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
-      },
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "PARAMOUNT+ ES",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "PARAMOUNT+ PT",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "PARAMOUNT+ HD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "DUDE Tv Live FHD",
         "logo": ""
       },
       {
-        "title": "CBS SPORTS HD",
-        "logo": "https://iili.io/BtCdabj.png"
+        "title": "PARAMOUNT+ FHD",
+        "logo": ""
       },
       {
-        "title": "SD TV (USE VPN)",
+        "title": "PARAMOUNT+ HD",
+        "logo": ""
+      },
+      {
+        "title": "UFC LIVE FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
         "logo": ""
       },
       {
         "title": "SportsNet FHD",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+        "logo": ""
       },
       {
         "title": "UFC TV FHD",
@@ -1515,6 +1505,34 @@
     ]
   },
   {
+    "id": 50088,
+    "title": "Jamaica vs Mexico",
+    "image": "o",
+    "cat": "CONCACAF Cup 🇺🇸",
+    "eventInfo": {
+      "teamA": "Jamaica",
+      "teamB": "Mexico",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4769/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4781/image",
+      "eventName": "Jamaica vs Mexico",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/11/15 01:00:00 +0000",
+      "endTime": "2026/11/15 03:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "CANAL5 FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "CANAL5 FHD",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50090,
     "title": "Portugal vs Denmark",
     "image": "o",
@@ -1533,21 +1551,42 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DAZN SPORTS FHD",
+      "PRIME VIDEO FHD",
       "FOX SPORTS FHD",
+      "VIX Espanol FHD",
       "beIN ENGLISH FHD",
+      "DAZN DE FHD",
       "SporTV BR FHD",
       "SPORT 1 CZ FHD",
       "FOX SPORTS HD",
       "SonyLiv (Asia)",
+      "HD QUALITY",
       "LOW QUALITY"
     ],
     "formatsNew": [
+      {
+        "title": "DAZN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
       {
         "title": "FOX SPORTS FHD",
         "logo": ""
       },
       {
+        "title": "VIX Espanol FHD",
+        "logo": ""
+      },
+      {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN DE FHD",
         "logo": ""
       },
       {
@@ -1564,6 +1603,10 @@
       },
       {
         "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "HD QUALITY",
         "logo": ""
       },
       {
@@ -1592,14 +1635,34 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DAZN SPORTS FHD",
+      "PRIME VIDEO FHD",
       "beIN ENGLISH FHD",
+      "VIX Espanol FHD",
+      "DAZN DE FHD",
       "DUDE Tv Live",
       "SonyLiv (Asia)",
       "LOW QUALITY"
     ],
     "formatsNew": [
       {
+        "title": "DAZN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "VIX Espanol FHD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN DE FHD",
         "logo": ""
       },
       {
@@ -1635,14 +1698,35 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DAZN SPORTS FHD",
+      "PRIME VIDEO FHD",
       "FUBO SPORTS FHD",
+      "VIX Espanol FHD",
+      "DAZN DE FHD",
       "DUDE Tv Live",
       "SonyLiv (Asia)",
+      "HD QUALITY",
       "LOW QUALITY"
     ],
     "formatsNew": [
       {
+        "title": "DAZN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
         "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "VIX Espanol FHD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN DE FHD",
         "logo": ""
       },
       {
@@ -1651,6 +1735,10 @@
       },
       {
         "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "HD QUALITY",
         "logo": ""
       },
       {
@@ -1678,17 +1766,42 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DAZN SPORTS FHD",
+      "PRIME VIDEO FHD",
+      "VIX Espanol FHD",
+      "DAZN DE FHD",
       "DUDE Tv Live",
       "SonyLiv",
+      "HD QUALITY",
       "LOW QUALITY"
     ],
     "formatsNew": [
+      {
+        "title": "DAZN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
+        "title": "VIX Espanol FHD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN DE FHD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
       },
       {
         "title": "SonyLiv",
+        "logo": ""
+      },
+      {
+        "title": "HD QUALITY",
         "logo": ""
       },
       {
@@ -1929,11 +2042,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NHL LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1957,17 +2075,42 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DAZN SPORTS FHD",
+      "PRIME VIDEO FHD",
+      "VIX Espanol FHD",
+      "DAZN DE FHD",
       "DUDE Tv Live",
       "SonyLiv (Asia)",
+      "HD QUALITY",
       "LOW QUALITY"
     ],
     "formatsNew": [
+      {
+        "title": "DAZN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
+        "title": "VIX Espanol FHD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN DE FHD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
       },
       {
         "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "HD QUALITY",
         "logo": ""
       },
       {
