@@ -1,8 +1,72 @@
 [
   {
     "api": "",
-    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-    "title": "DUDE Tv Live",
+    "link": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8",
+    "logo": "https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=2048&q=75",
+    "title": "BTV BD FHD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://live2.jorvakstreamcache.com/live/channel19.m3u8?|Referer=https://xlz.domainkqt.cc/",
+    "logo": "",
+    "title": "HD STREAM",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.59/hls/TIIIAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "logo": "",
+    "title": "LOW QUALITY",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://tv10.workerbot-tv10.workers.dev/play/JdjLpqEBalKyvLQIrDPD.m3u8?token=exp=1794669625~hmac=XLGnj_QNxIWJDLzFD-QAZlPzYd6_sNYdS-avGYdgy_g",
+    "logo": "",
+    "title": "TOFFEE (BAN)",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
+    "logo": "",
+    "title": "T SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1794669987-0-0-74b37e5093ff66f289c6368cbfc38a5d",
+    "logo": "",
+    "title": "HD FAST SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://live05.yefpwmc.app/live/18812304.m3u8?_t=1794666280950",
+    "logo": "",
+    "title": "BACKUP HD LIVE",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://tv10.workerbot-tv10.workers.dev/play/9dijmqEBalKyvLQIIAFj.m3u8?token=exp=1794669625~hmac=XLGnj_QNxIWJDLzFD-QAZlPzYd6_sNYdS-avGYdgy_g",
+    "logo": "",
+    "title": "TOFFEE TV HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/",
+    "logo": "",
+    "title": "MYCO - FHD [PK]",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8",
+    "logo": "",
+    "title": "VETO TV [IND]",
     "type": "0"
   }
 ]

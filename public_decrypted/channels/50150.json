@@ -1,8 +1,9 @@
 [
   {
-    "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "title": "TNT Sports FHD",
+    "api": "e289dce2c0c847e39e6c702c1ee3c8b6:3d3aac1f06844e2cb8c63a7fa87b122d",
+    "link": "https://dice-live-eu.akamaized.net/hdntl=exp=1794749733~acl=*dash%2flive%2f2001559%2f316598-338397%2f*!*dash%2flive%2f2001559-b%2f316598-338397-b%2f*~id=1279b3ab-2be5-4640-bd37-29c276cfc22d~data=hdntl,dWlkPUF4dWszZXw3ODZhMzg0ZS01YWQyLTQwMGItYTg3NS0wOWYxMzliMzM2OTEmc3JjPWRnZSZpcD0xMDEuNTMuMjU1LjE2MSZleHA9MTc5NDc0OTc2MyZlaWQ9MzE2NTk4JmNpZD1kY2Uud29ybGRydWdieSZvaWQ9Mzc4JnR5cGU9TElWRSZkYXA9bnVsbA~hmac=c86ab76acb2321a572db0aaafce1e480441d14b555549dbfc1e023889258b999/dash/live/2001559/316598-338397/manifest-d.mpd",
+    "logo": "",
+    "title": "FHD LIVE",
     "type": "1"
   }
 ]

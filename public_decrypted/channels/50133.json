@@ -1,16 +1,35 @@
 [
   {
-    "api": "",
-    "link": "https://live.vivo155.com/live/sd-1-4642723.m3u8?txSecret=a61f8388b8cc6b3d9aef585208d2a459&txTime=6AF74421|Referer=https://player.on8on8.com/",
-    "logo": "",
-    "title": "DUDE Tv Live",
-    "type": "0"
+    "id": 1,
+    "title": "PARAMOUNT+ FHD",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/95tqrua3ps/out/v1/4ed1cbf95628487eb91774f4e609945c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "4da92e61ba4a98f5ecc4389c568f8c8f:d0e7bb3ca6c3e25042ea1296efbe2677",
+    "type": "1",
+    "webLink": "",
+    "defaultLanguage": "",
+    "geo": "ALL",
+    "quality": ""
   },
   {
+    "id": 1,
+    "title": "HD QUALITY",
+    "link": "https://www.rtmpcdn.com/live/p-d6a9b8189e454b32b5db90b5072da130.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
     "api": "",
-    "link": "http://193.47.62.50/hls/ZAZAZAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-    "logo": "",
-    "title": "LOW SERVER ",
-    "type": "0"
+    "type": "0",
+    "webLink": "",
+    "defaultLanguage": "",
+    "geo": "ALL",
+    "quality": ""
+  },
+  {
+    "id": 1,
+    "title": "LOW QUALITY",
+    "link": "http://193.47.62.59/hls/BEEEAAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "api": "",
+    "type": "0",
+    "webLink": "",
+    "defaultLanguage": "",
+    "geo": "ALL",
+    "quality": ""
   }
 ]
