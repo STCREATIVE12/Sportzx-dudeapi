@@ -1,13 +1,37 @@
 [
   {
-    "id": 1,
-    "title": "LOW QUALITY",
-    "link": "http://193.47.62.50/hls/Y777AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "api": "29a5940137ecc0de8563224ced205356:b21a50553abcdb22bcf4499760d82598",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d1ho3uqzph/out/v1/80dc1109c369453f84d521637eae5927/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "DAZN SPORTS FHD",
+    "type": "1"
+  },
+  {
+    "api": "98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0",
+    "link": "https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd",
+    "logo": "",
+    "title": "SPORT 1 DE - FHD",
+    "type": "1"
+  },
+  {
     "api": "",
-    "type": "0",
-    "webLink": "",
-    "defaultLanguage": "",
-    "geo": "ALL",
-    "quality": ""
+    "link": "https://taifood-blog.asia/embed/grand-slam-of-darts--day-2-session-1-32251",
+    "logo": "",
+    "title": "PDC.TV FHD",
+    "type": "2"
+  },
+  {
+    "api": "",
+    "link": "https://taifood-blog.asia/embed/grand-slam-of-darts--day-2-session-1-32251_540p",
+    "logo": "",
+    "title": "PDC.TV SD",
+    "type": "2"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.59/hls/BEEEAAA.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "SD STREAM",
+    "type": "0"
   }
 ]

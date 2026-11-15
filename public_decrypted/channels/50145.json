@@ -1,13 +1,16 @@
 [
   {
-    "id": 1,
-    "title": "LOW QUALITY",
-    "link": "http://193.47.62.50/hls/T000AAAAAQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "api": "0967ff88f4344ff4e5a517c22e954e11:b2610ab895041a74feb061da88630903",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uhsszgzkqm/out/v1/399e859f6c78426686cef709b83826f2/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "NBA LEAGUEPASS FHD",
+    "type": "1"
+  },
+  {
     "api": "",
-    "type": "0",
-    "webLink": "",
-    "defaultLanguage": "",
-    "geo": "ALL",
-    "quality": ""
+    "link": "https://chatgpt.hereisman.net/playlist/60176/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "DUDE Tv Live",
+    "type": "0"
   }
 ]
