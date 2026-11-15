@@ -1,16 +1,13 @@
 [
   {
-    "api": "c276e6da196ce72b58ed79358eb44bca:5ac784e7d78817b96bb187b8df9dfc80",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eysnvmrpzc/out/v1/52839b2a70154ed79d701cdf580b02b5/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "NBA LEAGUEPASS FHD",
-    "type": "1"
-  },
-  {
-    "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/60117/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-    "logo": "",
-    "title": "DUDE Tv Live",
-    "type": "0"
+    "id": 1,
+    "title": "DUDE Tv TV+ HD",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qbu3wop96x/out/v1/aadf368e53f9469e90519329a7abfb64/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "70f8ad68cdfd6233afa6b60fff8e47a0:2db4ed97bd65cac3ab020f76ba8b9681",
+    "type": "1",
+    "webLink": "",
+    "defaultLanguage": "",
+    "geo": "ALL",
+    "quality": ""
   }
 ]
