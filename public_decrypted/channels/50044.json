@@ -1,13 +1,8 @@
 [
   {
-    "id": 1,
-    "title": "DUDE Tv TV+ HD",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wfuvuz7nhk/out/v1/b8c30682cdc840ccadcf59e03bcd59bd/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "api": "73902e73b0528d3d51f74aa6451a6be8:9380ff3ab10c05c26f54522e5ef0efba",
-    "type": "1",
-    "webLink": "",
-    "defaultLanguage": "",
-    "geo": "ALL",
-    "quality": ""
+    "api": "",
+    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+    "title": "NBA LIVE [FHD]",
+    "type": "2"
   }
 ]
