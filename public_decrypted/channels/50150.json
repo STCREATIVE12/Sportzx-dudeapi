@@ -1,9 +1,8 @@
 [
   {
-    "api": "e289dce2c0c847e39e6c702c1ee3c8b6:3d3aac1f06844e2cb8c63a7fa87b122d",
-    "link": "https://dice-live-eu.akamaized.net/hdntl=exp=1794749733~acl=*dash%2flive%2f2001559%2f316598-338397%2f*!*dash%2flive%2f2001559-b%2f316598-338397-b%2f*~id=1279b3ab-2be5-4640-bd37-29c276cfc22d~data=hdntl,dWlkPUF4dWszZXw3ODZhMzg0ZS01YWQyLTQwMGItYTg3NS0wOWYxMzliMzM2OTEmc3JjPWRnZSZpcD0xMDEuNTMuMjU1LjE2MSZleHA9MTc5NDc0OTc2MyZlaWQ9MzE2NTk4JmNpZD1kY2Uud29ybGRydWdieSZvaWQ9Mzc4JnR5cGU9TElWRSZkYXA9bnVsbA~hmac=c86ab76acb2321a572db0aaafce1e480441d14b555549dbfc1e023889258b999/dash/live/2001559/316598-338397/manifest-d.mpd",
-    "logo": "",
-    "title": "FHD LIVE",
-    "type": "1"
+    "api": "",
+    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+    "title": "DUDE Tv Live",
+    "type": "0"
   }
 ]
