@@ -1,68 +1,44 @@
 [
   {
-    "id": 1,
-    "title": "WILLOW FHD",
+    "api": "717e39c4207ef6bd6a1a495fb2e3b133:f9f666cac7de2e2d69bd42e8fcd06ad7",
     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "api": "717e39c4207ef6bd6a1a495fb2e3b133:f9f666cac7de2e2d69bd42e8fcd06ad7",
-    "type": "1",
-    "webLink": "",
-    "defaultLanguage": "",
-    "geo": "ALL",
-    "quality": ""
+    "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+    "title": "WILLOW FHD",
+    "type": "1"
   },
   {
-    "id": 1,
-    "title": "WILLOW ALT",
+    "api": "717e39c4207ef6bd6a1a495fb2e3b133:f9f666cac7de2e2d69bd42e8fcd06ad7",
     "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "api": "717e39c4207ef6bd6a1a495fb2e3b133:f9f666cac7de2e2d69bd42e8fcd06ad7",
-    "type": "1",
-    "webLink": "",
-    "defaultLanguage": "",
-    "geo": "ALL",
-    "quality": ""
+    "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+    "title": "WILLOW ALT",
+    "type": "1"
   },
   {
-    "id": 1,
-    "title": "TAPMAD FHD",
+    "api": "",
     "link": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
-    "api": "",
-    "type": "0",
-    "webLink": "",
-    "defaultLanguage": "",
-    "geo": "ALL",
-    "quality": ""
+    "logo": "",
+    "title": "TAPMAD FHD",
+    "type": "0"
   },
   {
-    "id": 1,
-    "title": "PTV SPORTS HD",
+    "api": "",
     "link": "https://live.msnetworks.net/ptv-sports/master.m3u8",
-    "api": "",
-    "type": "0",
-    "webLink": "",
-    "defaultLanguage": "",
-    "geo": "ALL",
-    "quality": ""
+    "logo": "",
+    "title": "PTV SPORTS HD",
+    "type": "0"
   },
   {
-    "id": 1,
-    "title": "TAPMAD HD",
+    "api": "",
     "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
-    "api": "",
-    "type": "0",
-    "webLink": "",
-    "defaultLanguage": "",
-    "geo": "ALL",
-    "quality": ""
+    "logo": "",
+    "title": "TAPMAD HD",
+    "type": "0"
   },
   {
-    "id": 1,
-    "title": "LOW QUALITY",
-    "link": "http://193.47.62.41/hls/RREGEGE.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
     "api": "",
-    "type": "0",
-    "webLink": "",
-    "defaultLanguage": "",
-    "geo": "ALL",
-    "quality": ""
+    "link": "http://193.47.62.41/hls/RREGEGE.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "logo": "",
+    "title": "LOW QUALITY",
+    "type": "0"
   }
 ]
