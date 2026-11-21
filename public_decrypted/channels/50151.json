@@ -1,9 +1,8 @@
 [
   {
-    "api": "0165a61a06dc47aeb4388a4bbf390aec:79eaaffda44f4886b428756159775b05",
-    "link": "https://dice-live-eu.akamaized.net/hdntl=exp=1794749735~acl=*dash%2flive%2f2019457%2f316599-338398%2f*!*dash%2flive%2f2019457-b%2f316599-338398-b%2f*~id=bd4bf4d4-3903-4c89-b73c-b080350d00e0~data=hdntl,dWlkPUF4dWszZXw3ODZhMzg0ZS01YWQyLTQwMGItYTg3NS0wOWYxMzliMzM2OTEmc3JjPWRnZSZpcD0xMDEuNTMuMjU1LjE2MSZleHA9MTc5NDc0OTc2NSZlaWQ9MzE2NTk5JmNpZD1kY2Uud29ybGRydWdieSZvaWQ9Mzc4JnR5cGU9TElWRSZkYXA9bnVsbA~hmac=0b06ecf352d602b96e6b7296b6e1a4bdfa39fbc7d20fc85c1871ddbd341b1920/dash/live/2019457/316599-338398/manifest-d.mpd",
-    "logo": "",
-    "title": "FHD SERVER",
+    "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+    "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+    "title": "Laliga Hypermotion ES",
     "type": "1"
   }
 ]
